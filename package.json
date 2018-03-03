@@ -16,15 +16,16 @@
     "deploy": "firebase deploy"
   },
   "dependencies": {
-    "@stencil/core": "^0.6.17",
+    "@ionic/core": "0.1.3",
+    "@stencil/core": "0.6.17",
     "@stencil/router": "latest"
   },
   "devDependencies": {
     "@stencil/dev-server": "latest",
     "@stencil/sass": "0.0.3",
     "@stencil/utils": "latest",
-    "@types/jest": "^22.1.4",
-    "jest": "^22.4.2"
+    "@types/jest": "22.1.4",
+    "jest": "22.4.2"
   },
   "repository": {
     "type": "git",
