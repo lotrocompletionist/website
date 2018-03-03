@@ -3,7 +3,7 @@ import { Component } from '@stencil/core';
 
 @Component({
   tag: 'my-app',
-  styleUrl: 'my-app.css'
+  styleUrl: 'my-app.scss'
 })
 export class MyApp {
 
