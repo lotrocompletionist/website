@@ -1,16 +1,16 @@
 import { render } from '@stencil/core/testing';
-import { MyApp } from './my-app';
+import { MainPage } from './main-page';
 
-describe('my-app', () => {
+describe('main-page', () => {
   it('should build', () => {
-    expect(new MyApp()).toBeTruthy();
+    expect(new MainPage()).toBeTruthy();
   });
 
   describe('rendering', () => {
     beforeEach(async () => {
       await render({
-        components: [MyApp],
-        html: '<my-app></my-app>'
+        components: [MainPage],
+        html: '<main-page></main-page>'
       });
     });
   });

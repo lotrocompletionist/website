@@ -1,17 +1,17 @@
 import { flush, render } from '@stencil/core/testing';
-import { AppProfile } from './app-profile';
+import { InstancePage } from './instance-page';
 
-describe('app-profile', () => {
+describe('instance-page', () => {
   it('should build', () => {
-    expect(new AppProfile()).toBeTruthy();
+    expect(new InstancePage()).toBeTruthy();
   });
 
   describe('rendering', () => {
     let element;
     beforeEach(async () => {
       element = await render({
-        components: [AppProfile],
-        html: '<app-profile></app-profile>'
+        components: [InstancePage],
+        html: '<instance-page></instance-page>'
       });
     });
 

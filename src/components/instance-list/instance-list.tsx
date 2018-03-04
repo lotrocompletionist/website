@@ -2,10 +2,10 @@ import { Component } from '@stencil/core';
 
 
 @Component({
-  tag: 'app-home',
-  styleUrl: 'app-home.scss'
+  tag: 'instance-list',
+  styleUrl: 'instance-list.scss'
 })
-export class AppHome {
+export class InstanceList {
 
   render() {
     return (
@@ -17,9 +17,9 @@ export class AppHome {
           Check out our docs on <a href='https://stenciljs.com'>stenciljs.com</a> to get started.
         </p>
 
-        <stencil-route-link url='/profile/stencil'>
+        <stencil-route-link url='/instances/sambor'>
           <button>
-            Profile page
+            Instance
           </button>
         </stencil-route-link>
       </div>

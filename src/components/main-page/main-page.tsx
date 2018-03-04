@@ -2,10 +2,10 @@ import { Component } from '@stencil/core';
 
 
 @Component({
-  tag: 'my-app',
-  styleUrl: 'my-app.scss'
+  tag: 'main-page',
+  styleUrl: 'main-page.scss'
 })
-export class MyApp {
+export class MainPage {
 
   render() {
     return (
@@ -16,10 +16,10 @@ export class MyApp {
 
         <main>
           <stencil-router>
-            <stencil-route url='/' component='app-home' exact={true}>
+            <stencil-route url='/' component='instance-list' exact={true}>
             </stencil-route>
 
-            <stencil-route url='/profile/:name' component='app-profile'>
+            <stencil-route url='/instances/:name' component='instance-page'>
             </stencil-route>
           </stencil-router>
         </main>

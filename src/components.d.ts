@@ -25,29 +25,29 @@ import {
 } from '@stencil/router';
 
 import {
-  AppHome as AppHome
-} from './components/app-home/app-home';
+  InstanceList as InstanceList
+} from './components/instance-list/instance-list';
 
 declare global {
-  interface HTMLAppHomeElement extends AppHome, HTMLStencilElement {
+  interface HTMLInstanceListElement extends InstanceList, HTMLStencilElement {
   }
-  var HTMLAppHomeElement: {
-    prototype: HTMLAppHomeElement;
-    new (): HTMLAppHomeElement;
+  var HTMLInstanceListElement: {
+    prototype: HTMLInstanceListElement;
+    new (): HTMLInstanceListElement;
   };
   interface HTMLElementTagNameMap {
-    "app-home": HTMLAppHomeElement;
+    "instance-list": HTMLInstanceListElement;
   }
   interface ElementTagNameMap {
-    "app-home": HTMLAppHomeElement;
+    "instance-list": HTMLInstanceListElement;
   }
   namespace JSX {
     interface IntrinsicElements {
-      "app-home": JSXElements.AppHomeAttributes;
+      "instance-list": JSXElements.InstanceListAttributes;
     }
   }
   namespace JSXElements {
-    export interface AppHomeAttributes extends HTMLAttributes {
+    export interface InstanceListAttributes extends HTMLAttributes {
       
     }
   }
@@ -55,29 +55,29 @@ declare global {
 
 
 import {
-  AppProfile as AppProfile
-} from './components/app-profile/app-profile';
+  InstancePage as InstancePage
+} from './components/instance-page/instance-page';
 
 declare global {
-  interface HTMLAppProfileElement extends AppProfile, HTMLStencilElement {
+  interface HTMLInstancePageElement extends InstancePage, HTMLStencilElement {
   }
-  var HTMLAppProfileElement: {
-    prototype: HTMLAppProfileElement;
-    new (): HTMLAppProfileElement;
+  var HTMLInstancePageElement: {
+    prototype: HTMLInstancePageElement;
+    new (): HTMLInstancePageElement;
   };
   interface HTMLElementTagNameMap {
-    "app-profile": HTMLAppProfileElement;
+    "instance-page": HTMLInstancePageElement;
   }
   interface ElementTagNameMap {
-    "app-profile": HTMLAppProfileElement;
+    "instance-page": HTMLInstancePageElement;
   }
   namespace JSX {
     interface IntrinsicElements {
-      "app-profile": JSXElements.AppProfileAttributes;
+      "instance-page": JSXElements.InstancePageAttributes;
     }
   }
   namespace JSXElements {
-    export interface AppProfileAttributes extends HTMLAttributes {
+    export interface InstancePageAttributes extends HTMLAttributes {
       match?: MatchResults;
     }
   }
@@ -85,29 +85,29 @@ declare global {
 
 
 import {
-  MyApp as MyApp
-} from './components/my-app/my-app';
+  MainPage as MainPage
+} from './components/main-page/main-page';
 
 declare global {
-  interface HTMLMyAppElement extends MyApp, HTMLStencilElement {
+  interface HTMLMainPageElement extends MainPage, HTMLStencilElement {
   }
-  var HTMLMyAppElement: {
-    prototype: HTMLMyAppElement;
-    new (): HTMLMyAppElement;
+  var HTMLMainPageElement: {
+    prototype: HTMLMainPageElement;
+    new (): HTMLMainPageElement;
   };
   interface HTMLElementTagNameMap {
-    "my-app": HTMLMyAppElement;
+    "main-page": HTMLMainPageElement;
   }
   interface ElementTagNameMap {
-    "my-app": HTMLMyAppElement;
+    "main-page": HTMLMainPageElement;
   }
   namespace JSX {
     interface IntrinsicElements {
-      "my-app": JSXElements.MyAppAttributes;
+      "main-page": JSXElements.MainPageAttributes;
     }
   }
   namespace JSXElements {
-    export interface MyAppAttributes extends HTMLAttributes {
+    export interface MainPageAttributes extends HTMLAttributes {
       
     }
   }
