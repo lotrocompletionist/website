@@ -1,9 +1,16 @@
 language: node_js
 node_js:
-  - "8"
+- '8'
 cache:
   directories:
-    - "node_modules"
+  - node_modules
 before_install:
-  - npm dedupe
-  - npm prune
+- npm dedupe
+- npm prune
+deploy:
+  provider: firebase
+  token:
+    secure: Pi+uowB/7wdJzjEOIv0wTx8FI6kkxTbKovlrBrs4FiLWFA/sO15v1bDlpPRUmWR4K0xGVvNI+Q2B4/ywWUDInL198T5De1C6qQws/x4jvsgQe5YChG+JDn3SPdEOEDa6XyJjhxO9YOYwNXJKmw+yVuXfv0KnKSaJLk87ipJ++3y4LZlksOqs6UuSm8AHDJbppuGoSarT5AIjip4wOrN8GzvEKGLpnn3avmHNuW8hHwLaAaNN9TDE2ndWq3AsAl2ULzh6k/qNAVKkWsW0IMDMFEMInnctN8ykJO4M23Aju7ZqADWOKYtAtASmO86ac4cgyNCiRLSAwzlVmzz5HRDB3lM9Xe4IiMXWZ/w3nlaEqyjxsQxp5Eki4ubzRpxbgd9U4aYnlOSyO0JOJ4pgdQnj54Xhg86/WwS3VSAwd9njoxTthAT6C3L/9RAxviqH1eel+jKDgUVj56c7tAMaSsAHu91UjOpqrgAPi83C/AoYeUlV6cn6UIiYcp20WeNZ6D9tZq8na0xIdJ4xOUINF4/Dj84NX6a1Dpzj77YgOIVtC1U2ewcQDmeEixLxjEmZwrOVXR9vu9D5IykPdJIpbVoPaRg1XwLksnH7CSuzxk2JJZC4LpKxi3jJqRTekGFqCkk86Rq0VJEZJAYqS0Cp/3PNHQRi5hIs6LBiN68713e+qwE=
+stages:
+- name: deploy
+  if: branch = master
