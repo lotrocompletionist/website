@@ -85,29 +85,59 @@ declare global {
 
 
 import {
-  MainPage as MainPage
-} from './components/main-page/main-page';
+  LotroCompletionist as LotroCompletionist
+} from './components/lotro-completionist/lotro-completionist';
 
 declare global {
-  interface HTMLMainPageElement extends MainPage, HTMLStencilElement {
+  interface HTMLLotroCompletionistElement extends LotroCompletionist, HTMLStencilElement {
   }
-  var HTMLMainPageElement: {
-    prototype: HTMLMainPageElement;
-    new (): HTMLMainPageElement;
+  var HTMLLotroCompletionistElement: {
+    prototype: HTMLLotroCompletionistElement;
+    new (): HTMLLotroCompletionistElement;
   };
   interface HTMLElementTagNameMap {
-    "main-page": HTMLMainPageElement;
+    "lotro-completionist": HTMLLotroCompletionistElement;
   }
   interface ElementTagNameMap {
-    "main-page": HTMLMainPageElement;
+    "lotro-completionist": HTMLLotroCompletionistElement;
   }
   namespace JSX {
     interface IntrinsicElements {
-      "main-page": JSXElements.MainPageAttributes;
+      "lotro-completionist": JSXElements.LotroCompletionistAttributes;
     }
   }
   namespace JSXElements {
-    export interface MainPageAttributes extends HTMLAttributes {
+    export interface LotroCompletionistAttributes extends HTMLAttributes {
+      
+    }
+  }
+}
+
+
+import {
+  NavHeader as NavHeader
+} from './components/nav-header/nav-header';
+
+declare global {
+  interface HTMLNavHeaderElement extends NavHeader, HTMLStencilElement {
+  }
+  var HTMLNavHeaderElement: {
+    prototype: HTMLNavHeaderElement;
+    new (): HTMLNavHeaderElement;
+  };
+  interface HTMLElementTagNameMap {
+    "nav-header": HTMLNavHeaderElement;
+  }
+  interface ElementTagNameMap {
+    "nav-header": HTMLNavHeaderElement;
+  }
+  namespace JSX {
+    interface IntrinsicElements {
+      "nav-header": JSXElements.NavHeaderAttributes;
+    }
+  }
+  namespace JSXElements {
+    export interface NavHeaderAttributes extends HTMLAttributes {
       
     }
   }
