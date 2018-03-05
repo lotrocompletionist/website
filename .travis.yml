@@ -1,13 +1,8 @@
 language: node_js
 node_js:
 - '8'
-install: "./prepare.sh"
-script: "./build.sh"
-deploy:
-  provider: script
-  script: bash ./deploy.sh
-  on:
-    branch: master
+install: true
+script: './build.sh'
 branches:
 - only:
   - master

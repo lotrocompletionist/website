@@ -13,7 +13,7 @@
     "start": "npm run dev",
     "test": "jest --no-cache",
     "test.watch": "jest --watch --no-cache",
-    "deploy": "firebase deploy --public dist"
+    "deploy": "firebase deploy"
   },
   "dependencies": {
     "@stencil/core": "^0.6.17",
