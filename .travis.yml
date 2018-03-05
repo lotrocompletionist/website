@@ -1,16 +1,16 @@
 language: node_js
 node_js:
 - '8'
-before_install:
-- npm dedupe
-- npm prune
+install: "./prepare.sh"
+script: "./build.sh"
+deploy:
+  provider: script
+  script: bash ./deploy.sh
+  on:
+    branch: master
 branches:
 - only:
   - master
-stages:
-- name: deploy
-  if: branch = master
-deploy:
-  provider: firebase
-  token:
-    secure: Pi+uowB/7wdJzjEOIv0wTx8FI6kkxTbKovlrBrs4FiLWFA/sO15v1bDlpPRUmWR4K0xGVvNI+Q2B4/ywWUDInL198T5De1C6qQws/x4jvsgQe5YChG+JDn3SPdEOEDa6XyJjhxO9YOYwNXJKmw+yVuXfv0KnKSaJLk87ipJ++3y4LZlksOqs6UuSm8AHDJbppuGoSarT5AIjip4wOrN8GzvEKGLpnn3avmHNuW8hHwLaAaNN9TDE2ndWq3AsAl2ULzh6k/qNAVKkWsW0IMDMFEMInnctN8ykJO4M23Aju7ZqADWOKYtAtASmO86ac4cgyNCiRLSAwzlVmzz5HRDB3lM9Xe4IiMXWZ/w3nlaEqyjxsQxp5Eki4ubzRpxbgd9U4aYnlOSyO0JOJ4pgdQnj54Xhg86/WwS3VSAwd9njoxTthAT6C3L/9RAxviqH1eel+jKDgUVj56c7tAMaSsAHu91UjOpqrgAPi83C/AoYeUlV6cn6UIiYcp20WeNZ6D9tZq8na0xIdJ4xOUINF4/Dj84NX6a1Dpzj77YgOIVtC1U2ewcQDmeEixLxjEmZwrOVXR9vu9D5IykPdJIpbVoPaRg1XwLksnH7CSuzxk2JJZC4LpKxi3jJqRTekGFqCkk86Rq0VJEZJAYqS0Cp/3PNHQRi5hIs6LBiN68713e+qwE=
+env:
+  global:
+    secure: gCzKBskwe91s8k9r78MtQ4NsUSDWQ2A/SW9LV93qqqAnwan0EXKpplP6vlQZvn8GVZ/5Ez0Ci984rL9Txs+IP/Gt+iQof5YqwRfFDWdAPKONB83PfgL1/17v4Tb1vlKsU+tgPbl8I5qpAmx4GnGFUhC+5VtGuHfqEXILbu1uZhFbOAPjMC1AbSysETfxVZz4OuJA4arkHLiqf3dyUU+tqo4+asG5vxQ2r65AVm0RCqbDBzrktXpZk1Ox1f2vIxXf2wwUGaRpcf7pZC7hS2NiguaF65ByudmqbRAGpkENYdhHsZaohaBAT6FuHHHsddCxuV0tNU97A2zKtnBJbDwyCUPYpgqa+WZ+iRqZGYNBj5JKGo8uya1llwoVDYP8So6aTgk4MKMvx9wCjRYQc27eJsTKiYb4Xg44h1PJTlgGxYVk9tlvWLqCRsp0W1qsYhbiJ/NiQ66A/pbCk/i58LEBA9ycTEbiBUZ8Mmw5A25XmHp8llynJUcJgw+8W0N8W9y3fGWftSWsVL5Gfn/d4EsmG2GKPuZkIckKssHgd3XfK/S6zl6ZWuELrW+zsgvrYMJSWrLZ11pGYvqCDe01Bd5RFdiLrPDVZnwoWfL74lqYldaoV1IidIacNwX4mHxEFToXznpoRPyj5zIr/i42bQwqTdt8t+wSjACpjz+CXmRaoH4=
