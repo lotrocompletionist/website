@@ -1,17 +1,19 @@
 import { Component, Prop } from '@stencil/core';
-import { worldInstances } from "../../global/data";
+import { raids } from "../../global/data";
 import { Instance, Level } from '../../global/models';
 
 @Component({
-  tag: 'instance-list',
-  styleUrl: 'instance-list.scss'
+  tag: 'raid-list',
+  styleUrl: 'raid-list.scss'
 })
-export class InstanceList {
+export class RaidList {
 
   @Prop() instances: Instance[];
 
   constructor() {
-    this.instances = worldInstances;
+    this.instances = raids;
+
+    console.log(this.instances);
   }
 
   renderLevel(level: Level) {
@@ -30,6 +32,7 @@ export class InstanceList {
             <th>Abbr.</th>
             <th>Region</th>
             <th>Level</th>
+            <th>Bosses</th>
             <th>Tiers</th>
             <th>Group</th>
             <th>Available</th>
@@ -44,6 +47,7 @@ export class InstanceList {
               <td>{instance.abbreviations.join(', ')}</td>
               <td>{instance.region}</td>
               <td>{this.renderLevel(instance.level)}</td>
+              <td>{instance.bossEncounters}</td>
               <td>{instance.tiers}</td>
               <td>{instance.groups}</td>
               <td>{instance.availability.join(', ')}</td>
