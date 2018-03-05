@@ -1,6 +1,5 @@
 import { Component } from '@stencil/core';
 
-
 @Component({
   tag: 'lotro-completionist',
   styleUrl: 'lotro-completionist.scss'
@@ -14,9 +13,8 @@ export class LotroCompletionist {
 
         <main>
           <stencil-router>
-            <stencil-route url='/' component='instance-list' exact={true} />
-            <stencil-route url='/instances' component='instance-list' />
-            <stencil-route url='/instances/:name' component='instance-page' />
+            <stencil-route url={[',', '/instances']} component='instance-list' />
+            <stencil-route url='/raids' component='raid-list' />
           </stencil-router>
         </main>
       </div>

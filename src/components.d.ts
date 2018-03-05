@@ -18,11 +18,9 @@ declare global {
   interface HTMLAttributes {}
 }
 
-import '@stencil/router';
-
 import {
-  MatchResults,
-} from '@stencil/router';
+  Instance,
+} from './global/models';
 
 import {
   InstanceList as InstanceList
@@ -48,37 +46,7 @@ declare global {
   }
   namespace JSXElements {
     export interface InstanceListAttributes extends HTMLAttributes {
-      
-    }
-  }
-}
-
-
-import {
-  InstancePage as InstancePage
-} from './components/instance-page/instance-page';
-
-declare global {
-  interface HTMLInstancePageElement extends InstancePage, HTMLStencilElement {
-  }
-  var HTMLInstancePageElement: {
-    prototype: HTMLInstancePageElement;
-    new (): HTMLInstancePageElement;
-  };
-  interface HTMLElementTagNameMap {
-    "instance-page": HTMLInstancePageElement;
-  }
-  interface ElementTagNameMap {
-    "instance-page": HTMLInstancePageElement;
-  }
-  namespace JSX {
-    interface IntrinsicElements {
-      "instance-page": JSXElements.InstancePageAttributes;
-    }
-  }
-  namespace JSXElements {
-    export interface InstancePageAttributes extends HTMLAttributes {
-      match?: MatchResults;
+      instances?: Instance[];
     }
   }
 }
@@ -139,6 +107,36 @@ declare global {
   namespace JSXElements {
     export interface NavHeaderAttributes extends HTMLAttributes {
       
+    }
+  }
+}
+
+
+import {
+  RaidList as RaidList
+} from './components/raid-list/raid-list';
+
+declare global {
+  interface HTMLRaidListElement extends RaidList, HTMLStencilElement {
+  }
+  var HTMLRaidListElement: {
+    prototype: HTMLRaidListElement;
+    new (): HTMLRaidListElement;
+  };
+  interface HTMLElementTagNameMap {
+    "raid-list": HTMLRaidListElement;
+  }
+  interface ElementTagNameMap {
+    "raid-list": HTMLRaidListElement;
+  }
+  namespace JSX {
+    interface IntrinsicElements {
+      "raid-list": JSXElements.RaidListAttributes;
+    }
+  }
+  namespace JSXElements {
+    export interface RaidListAttributes extends HTMLAttributes {
+      instances?: Instance[];
     }
   }
 }
