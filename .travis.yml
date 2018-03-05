@@ -1,11 +1,17 @@
 language: node_js
 node_js:
 - '8'
-install: true
-script: './build.sh'
 branches:
 - only:
   - master
-env:
-  global:
-    secure: gCzKBskwe91s8k9r78MtQ4NsUSDWQ2A/SW9LV93qqqAnwan0EXKpplP6vlQZvn8GVZ/5Ez0Ci984rL9Txs+IP/Gt+iQof5YqwRfFDWdAPKONB83PfgL1/17v4Tb1vlKsU+tgPbl8I5qpAmx4GnGFUhC+5VtGuHfqEXILbu1uZhFbOAPjMC1AbSysETfxVZz4OuJA4arkHLiqf3dyUU+tqo4+asG5vxQ2r65AVm0RCqbDBzrktXpZk1Ox1f2vIxXf2wwUGaRpcf7pZC7hS2NiguaF65ByudmqbRAGpkENYdhHsZaohaBAT6FuHHHsddCxuV0tNU97A2zKtnBJbDwyCUPYpgqa+WZ+iRqZGYNBj5JKGo8uya1llwoVDYP8So6aTgk4MKMvx9wCjRYQc27eJsTKiYb4Xg44h1PJTlgGxYVk9tlvWLqCRsp0W1qsYhbiJ/NiQ66A/pbCk/i58LEBA9ycTEbiBUZ8Mmw5A25XmHp8llynJUcJgw+8W0N8W9y3fGWftSWsVL5Gfn/d4EsmG2GKPuZkIckKssHgd3XfK/S6zl6ZWuELrW+zsgvrYMJSWrLZ11pGYvqCDe01Bd5RFdiLrPDVZnwoWfL74lqYldaoV1IidIacNwX4mHxEFToXznpoRPyj5zIr/i42bQwqTdt8t+wSjACpjz+CXmRaoH4=
+before_script:
+- npm install -g firebase-tools
+script: 
+- npm run build && npm run test
+deploy:
+  skip_cleanup: true
+  provider: firebase
+  token:
+    secure: e/cLc1QXWTzgHtnrYpkq4qSDSVK8E4GutYhu9jtIIkfZtc5oEecOeGfsoVBbyoD5jdf7oUdlbwZk3BaImwaKOBaKzqmKSGVCG4wD2tS7M7n705LP3UY1Xx9n6P33dUtJQkyv6nKWnj/aldSEAE7KLdGhYcHPX/O2bz/52MxV4ZZkEEiI1+z9+S8mToaXHVUaU51YoeTP9XS4h/Zqh1Kpd3/uRmMzfo6llc+SjPakGco3PF7357HlDKoe2kEWjcIC4wljkm5udAIEUmhUDWyQjmOWRcQzDDPT6o8DtUnbLEOQDCloeKfjOMimwm2V7/bXmLjtpJeJHTRjBLJbTt/BZhKTivNatsZ7xl6qwP2l7n0LOGulYeo77ibokGklTII81iXfZ8X66KNGar/wBh4E/S7RsyO3SfKvxH2NfIz5ErAYwCf8Nbc99ReUeYX6GE0CT/PKRW4+jYaA01P9DgDwIgcSNN+bnSCu11H9Ya6yfMsTINzhhncG1h8H3oCbJpHIYtY3/yQAjmWQEUvfcgTwRQQQA+ToMaEV57DbkkimaWHM4Pykpl/qyybrDjbvpLSuiCys2x0D8HxDFratEI77qcrqNmJttemWgLIt7F+GpQy/yRyx9eI4HRRpSVZ1SEY74TOQ27UTh5Kwg0ZdJ3E2y2dM+qZ3BJhC+heWI2w3zmc=
+  on:
+    branch: master
