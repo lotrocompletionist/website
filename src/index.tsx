@@ -1,8 +1,9 @@
 import * as React from 'react';
 import * as ReactDOM from 'react-dom';
-import { App } from './components/App';
+import { BrowserRouter } from 'react-router-dom';
+import { Main } from './components/Main';
 
 ReactDOM.render(
-  <App />,
+  <Main />,
   document.getElementById('root')
 );

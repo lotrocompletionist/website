@@ -1,4 +1,4 @@
 import * as React from "react";
 import { Hello } from './Hello';
 
-export const App = () => <Hello title="Hello Schier!" />
+export const Main = () => <Hello title="Hello Schier!" />
