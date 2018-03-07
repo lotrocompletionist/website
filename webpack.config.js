@@ -2,9 +2,12 @@ const HtmlWebPackPlugin = require("html-webpack-plugin");
 
 module.exports = {
   devtool: 'source-map',
+  resolve: {
+    extensions: [".ts", ".tsx", ".js", ".json"]
+  },
   module: {
     rules: [
-      { test: /\.jsx?$/, exclude: /node_modules/, use: { loader: "babel-loader" } },
+      { test: /\.tsx?$/, exclude: /node_modules/, use: { loader: "ts-loader" } },
       { test: /\.html$/, use: { loader: "html-loader", options: { minimize: true } } }
     ]
   },
