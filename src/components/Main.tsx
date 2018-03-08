@@ -1,22 +1,34 @@
 import * as React from 'react';
-import { BrowserRouter as Router, Route, Link  } from 'react-router-dom';
-import { Hello } from './Hello';
-import { Instances } from './Instances';
-import { Raids } from './Raids';
+import { BrowserRouter as Router, Route, Switch, Redirect } from 'react-router-dom';
+import { default as Loadable } from 'react-loadable';
+import { Header } from './Header';
+import { Loading } from './Loading';
 
-export const Main = () =>
+const Instances = Loadable({
+  loader: () => import('./Instances'),
+  loading: Loading
+});
+
+const Raids = Loadable({
+  loader: () => import('./Raids'),
+  loading: Loading
+});
+
+const NotFound = Loadable({
+  loader: () => import('./NotFound'),
+  loading: Loading
+});
+
+export const Main = () => (
   <Router>
-    <div>
-      <Hello title="Hello Schier!" />
-
-      <ul>
-        <li><Link to="/instances">Instances</Link></li>
-        <li><Link to="/raids">Raids</Link></li>
-      </ul>
-      <div className="content">
-        <Route exact path="/" component={Instances}/>
-        <Route path="/raids" component={Raids}/>
-      </div>
-    </div>
-
+    <>
+      <Header />
+      <Switch>
+        <Redirect exact from="/" to="/instances" />
+        <Route exact path="/instances" component={Instances} />
+        <Route exact path="/raids" component={Raids} />
+        <Route component={NotFound} />
+      </Switch>
+    </>
   </Router>
+)

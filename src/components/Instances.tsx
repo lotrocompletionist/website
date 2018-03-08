@@ -1,3 +1,5 @@
 import * as React from "react";
 
-export const Instances = () => <h2>Instances</h2>;
+export default function Instances() {
+  return <h2>Instances</h2>;
+}

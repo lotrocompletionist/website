@@ -1,3 +1,5 @@
 import * as React from "react";
 
-export const Raids = () => <h2>Raids</h2>;
+export default function Raids() {
+  return <h2>Raids</h2>
+}
