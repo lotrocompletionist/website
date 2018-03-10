@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Main renders correctly 1`] = `
+Array [
+  <h1>
+    LoTRO completionist
+  </h1>,
+  <ul>
+    <li>
+      <a
+        href="/instances"
+        onClick={[Function]}
+      >
+        Instances
+      </a>
+    </li>
+    <li>
+      <a
+        href="/raids"
+        onClick={[Function]}
+      >
+        Raids
+      </a>
+    </li>
+  </ul>,
+]
+`;
