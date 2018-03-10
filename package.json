@@ -12,6 +12,9 @@
     "deploy": "firebase deploy"
   },
   "dependencies": {
+    "bloomer": "^0.6.3",
+    "bulma": "^0.6.2",
+    "font-awesome": "^4.7.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-loadable": "^5.3.1",
