@@ -7,42 +7,32 @@
     "dist/"
   ],
   "scripts": {
-    "build": "stencil build --prerender",
-    "dev": "sd concurrent \"stencil build --dev --watch\" \"stencil-dev-server\" ",
-    "serve": "stencil-dev-server",
-    "start": "npm run dev",
-    "test": "jest --no-cache",
-    "test.watch": "jest --watch --no-cache",
-    "deploy": "npm run build && firebase deploy"
+    "dev": "webpack-dev-server --mode development --open --history-api-fallback",
+    "build": "webpack --mode production"
   },
   "dependencies": {
-    "@stencil/core": "0.6.18",
-    "@stencil/router": "latest"
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-loadable": "^5.3.1",
+    "react-router-dom": "^4.2.2"
   },
   "devDependencies": {
-    "@stencil/dev-server": "latest",
-    "@stencil/sass": "0.0.3",
-    "@stencil/utils": "latest",
-    "@types/jest": "22.1.4",
-    "jest": "22.4.2"
+    "@types/react": "^15.5.7",
+    "@types/react-dom": "^15.5.7",
+    "@types/react-loadable": "^5.3.3",
+    "@types/react-router-dom": "^4.2.4",
+    "html-loader": "^0.5.5",
+    "html-webpack-plugin": "^3.0.6",
+    "ts-loader": "^4.0.1",
+    "typescript": "^2.7.2",
+    "webpack": "^4.1.1",
+    "webpack-cli": "^2.0.10",
+    "webpack-dev-server": "^3.1.0"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/lotrocompletionist/website.git"
   },
   "author": "Erik Schierboom <erik_schierboom@hotmail.com> (http://www.erikschierboom.com)",
-  "license": "MIT",
-  "jest": {
-    "transform": {
-      "^.+\\.(ts|tsx)$": "<rootDir>/node_modules/@stencil/core/testing/jest.preprocessor.js"
-    },
-    "testRegex": "(/__tests__/.*|\\.(test|spec))\\.(tsx?|jsx?)$",
-    "moduleFileExtensions": [
-      "ts",
-      "tsx",
-      "js",
-      "json",
-      "jsx"
-    ]
-  }
+  "license": "MIT"
 }
