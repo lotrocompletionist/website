@@ -16,6 +16,7 @@
   "dependencies": {
     "bloomer": "^0.6.3",
     "bulma": "^0.6.2",
+    "bulmaswatch": "^0.6.2",
     "font-awesome": "^4.7.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
@@ -50,10 +51,16 @@
   "author": "Erik Schierboom <erik_schierboom@hotmail.com> (http://www.erikschierboom.com)",
   "license": "MIT",
   "jest": {
-    "moduleFileExtensions": ["ts", "tsx", "js"],
+    "moduleFileExtensions": [
+      "ts",
+      "tsx",
+      "js"
+    ],
     "transform": {
       "^.+\\.(ts|tsx)$": "<rootDir>/preprocessor.js"
     },
-    "testMatch": ["**/*.test.+(ts|tsx|js)"]
+    "testMatch": [
+      "**/*.test.+(ts|tsx|js)"
+    ]
   }
 }

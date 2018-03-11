@@ -1,5 +1,3 @@
-@import 'bulma/sass/utilities/initial-variables.sass';
-
-// TODO: apply customization; see https://bulma.io/documentation/overview/customize/
-
+@import 'bulmaswatch/flatly/_variables';
 @import 'bulma/bulma.sass';
+@import 'bulmaswatch/flatly/_overrides';
