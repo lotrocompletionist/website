@@ -1,7 +1,7 @@
 const HtmlWebPackPlugin = require("html-webpack-plugin");
 const WebappWebpackPlugin = require("webapp-webpack-plugin");
 
-const production = process.env.NODE_ENV == 'production';
+const production = process.env.NODE_ENV == "production";
 
 module.exports = {
   devtool: "source-map",
@@ -42,14 +42,21 @@ module.exports = {
             minimize: true
           }
         }
+      },
+      {
+        test: /\.(png|jpg|gif)$/,
+        loader: "url-loader",
+        options: {
+          limit: 8192
+        }
       }
     ]
   },
   plugins: [
     new HtmlWebPackPlugin({
       filename: "./index.html",
-      template: "./public/index.html"
+      template: "./src/index.html"
     }),
-    ...(production ? [new WebappWebpackPlugin("./public/images/icon.png")] : [])
+    ...(production ? [new WebappWebpackPlugin("./src/assets/icon.png")] : [])
   ]
 };
