@@ -11,7 +11,8 @@
     "build": "webpack --mode production",
     "deploy": "firebase deploy",
     "test": "jest",
-    "test:update": "jest -u"
+    "test:update": "jest -u",
+    "format": "prettier --write '**/*.{js,jsx,ts,tsx,json,md,css,scss}'"
   },
   "dependencies": {
     "bloomer": "^0.6.3",
