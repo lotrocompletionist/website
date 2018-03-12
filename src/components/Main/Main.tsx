@@ -6,21 +6,21 @@ import {
   Redirect
 } from "react-router-dom";
 import { default as Loadable } from "react-loadable";
-import { Header } from "./Header";
-import { Loading } from "./Loading";
+import { Header } from "../Header/Header";
+import { Loading } from "../Loading/Loading";
 
 const Instances = Loadable({
-  loader: () => import("./Instances"),
+  loader: () => import("../Instances/Instances"),
   loading: Loading
 });
 
 const Raids = Loadable({
-  loader: () => import("./Raids"),
+  loader: () => import("../Raids/Raids"),
   loading: Loading
 });
 
 const NotFound = Loadable({
-  loader: () => import("./NotFound"),
+  loader: () => import("../NotFound/NotFound"),
   loading: Loading
 });
 

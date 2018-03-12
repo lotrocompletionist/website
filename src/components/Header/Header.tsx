@@ -17,7 +17,7 @@ import {
   Button
 } from "bloomer";
 
-import icon from "../assets/icon.png";
+import icon from "../../assets/icon.png";
 
 interface HeaderProps {}
 
