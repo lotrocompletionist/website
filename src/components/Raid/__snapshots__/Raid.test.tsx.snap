@@ -1,0 +1,48 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Raid> renders correctly 1`] = `
+<div
+  className="card-content"
+>
+  <article
+    className="media"
+  >
+    <div
+      className="media-left"
+    >
+      <figure
+        className="image is-48x48"
+      >
+        <img
+          src="https://via.placeholder.com/96x96"
+        />
+      </figure>
+    </div>
+    <div
+      className="media-content"
+    >
+      <h1
+        className="title is-4"
+      >
+        Helegrod: Spider Wing
+      </h1>
+      <h2
+        className="subtitle is-6"
+      >
+        Spider-wing
+      </h2>
+    </div>
+  </article>
+  <div
+    className="content"
+  >
+    Shadows of Angmar
+    <br />
+    <small>
+      Level: 
+      50
+       - 115
+    </small>
+  </div>
+</div>
+`;
