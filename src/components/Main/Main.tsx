@@ -5,7 +5,7 @@ import {
   Switch,
   Redirect
 } from "react-router-dom";
-import { default as Loadable } from "react-loadable";
+import * as Loadable from "react-loadable";
 import { Header } from "../Header/Header";
 import { Loading } from "../Loading/Loading";
 

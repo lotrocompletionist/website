@@ -18,7 +18,7 @@ import {
 } from "bloomer";
 
 import "./Header.scss";
-import icon from "../../assets/icon.png";
+import * as icon from "../../assets/icon.png";
 
 interface HeaderProps {}
 

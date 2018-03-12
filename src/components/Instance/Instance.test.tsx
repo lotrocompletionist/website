@@ -1,5 +1,5 @@
-import React from "react";
-import renderer from "react-test-renderer";
+import * as React from "react";
+import { create } from "react-test-renderer";
 import { Instance } from "./Instance";
 import { Challenge, Availability, Tiers, Group } from "../../data/models";
 
@@ -18,6 +18,6 @@ test("<Instance> renders correctly", () => {
     challenge: Challenge.Daily,
     cluster: "Mines of Moria"
   };
-  const tree = renderer.create(<Instance instance={instance} />).toJSON();
+  const tree = create(<Instance instance={instance} />).toJSON();
   expect(tree).toMatchSnapshot();
 });
