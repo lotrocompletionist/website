@@ -7,8 +7,8 @@
     "dist/"
   ],
   "scripts": {
-    "dev": "webpack-dev-server --mode development --open --history-api-fallback",
-    "build": "webpack --mode production",
+    "dev": "webpack-dev-server --mode development --open --history-api-fallback --env.NODE_ENV=development",
+    "build": "webpack --mode production --env.NODE_ENV=production",
     "deploy": "firebase deploy",
     "test": "jest",
     "test:update": "jest -u",

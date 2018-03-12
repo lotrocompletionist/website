@@ -1,6 +1,8 @@
 const HtmlWebPackPlugin = require("html-webpack-plugin");
 const WebappWebpackPlugin = require("webapp-webpack-plugin");
 
+const production = process.env.NODE_ENV == 'production';
+
 module.exports = {
   devtool: "source-map",
   resolve: {
@@ -48,6 +50,6 @@ module.exports = {
       filename: "./index.html",
       template: "./public/index.html"
     }),
-    new WebappWebpackPlugin("./public/images/icon.png")
+    ...(production ? [new WebappWebpackPlugin("./public/images/icon.png")] : [])
   ]
 };
