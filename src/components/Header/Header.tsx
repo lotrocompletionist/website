@@ -17,6 +17,7 @@ import {
   Button
 } from "bloomer";
 
+import "./Header.scss"
 import icon from "../../assets/icon.png";
 
 interface HeaderProps {}
@@ -37,10 +38,10 @@ export class Header extends React.Component<HeaderProps, HeaderState> {
 
   render() {
     return  (
-      <Navbar className="is-link">
+      <Navbar className="Header is-link">
         <NavbarBrand>
           <NavbarItem href="/">
-            <img src={icon} style={{ marginRight: 5 }} /> LoTRO completionist
+            <img src={icon} className="icon" /> LoTRO completionist
           </NavbarItem>
           <NavbarBurger isActive={this.state.isActive} onClick={this.onClickNav}>
             <span></span>
