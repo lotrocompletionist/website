@@ -1,4 +1,5 @@
 const HtmlWebPackPlugin = require("html-webpack-plugin");
+const WebappWebpackPlugin = require('webapp-webpack-plugin')
 
 module.exports = {
   devtool: 'source-map',
@@ -18,8 +19,9 @@ module.exports = {
   },
   plugins: [
     new HtmlWebPackPlugin({
-      template: "./src/index.html",
-      filename: "./index.html"
-    })
+      filename: "./index.html",
+      template: "./public/index.html"
+    }),
+    new WebappWebpackPlugin('./public/images/icon.png')
   ]
 };
