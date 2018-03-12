@@ -406,7 +406,7 @@ export const raids: Instance[] = [
     }
 ];
 
-export const worldInstances: Instance[] = [
+export const instances: Instance[] = [
     {
         "name": "Great Barrow: Thadúr",
         "abbreviations": [

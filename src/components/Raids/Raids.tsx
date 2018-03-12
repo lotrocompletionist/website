@@ -6,11 +6,7 @@ import { raids } from "../../data/data";
 export default function Raids() {
   return (
     <>
-      <h2>Raids</h2>
-
-      {raids.map((raid) => 
-        <Raid raid={raid} />)
-      }
+      {raids.map((raid) => <Raid key={raid.name} raid={raid} />) }
     </>
-  );
+    )
 }

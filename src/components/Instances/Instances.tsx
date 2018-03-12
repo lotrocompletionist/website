@@ -1,16 +1,12 @@
 import * as React from "react";
 
 import { Instance } from "../Instance/Instance";
-import { worldInstances } from "../../data/data";
+import { instances } from "../../data/data";
 
 export default function Instances() {
   return (
     <>
-      <h2>Instances</h2>
-
-      {worldInstances.map((worldInstance) => 
-        <Instance instance={worldInstance} />)
-      }
+      {instances.map((instance) => <Instance key={instance.name} instance={instance} />) }
     </>
-  );
+    )
 }
