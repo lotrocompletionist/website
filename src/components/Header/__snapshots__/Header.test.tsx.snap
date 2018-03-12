@@ -1,8 +1,8 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Header renders correctly 1`] = `
+exports[`<Header> renders correctly 1`] = `
 <nav
-  className="navbar is-link"
+  className="navbar Header is-link"
 >
   <div
     className="navbar-brand"
@@ -12,12 +12,8 @@ exports[`Header renders correctly 1`] = `
       href="/"
     >
       <img
+        className="icon"
         src="icon.png"
-        style={
-          Object {
-            "marginRight": 5,
-          }
-        }
       />
        LoTRO completionist
     </a>

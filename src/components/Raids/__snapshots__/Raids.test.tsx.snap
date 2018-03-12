@@ -1,7 +1,63 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Raids renders correctly 1`] = `
-<h2>
-  Raids
-</h2>
+exports[`<Raids> renders correctly 1`] = `
+Array [
+  <h2>
+    Raids
+  </h2>,
+  <div>
+    Helegrod: Spider Wing
+  </div>,
+  <div>
+    Helegrod: Giant Wing
+  </div>,
+  <div>
+    Helegrod: Dragon Wing
+  </div>,
+  <div>
+    The Rift of Nûrz Ghâshu
+  </div>,
+  <div>
+    Bogbereth
+  </div>,
+  <div>
+    Ferndúr the Virulent
+  </div>,
+  <div>
+    The Vile Maw
+  </div>,
+  <div>
+    Filikul
+  </div>,
+  <div>
+    Dâr Narbugud
+  </div>,
+  <div>
+    Barad Guldur
+  </div>,
+  <div>
+    Ost Dunhoth
+  </div>,
+  <div>
+    Draigoch's Lair
+  </div>,
+  <div>
+    Tower of Orthanc
+  </div>,
+  <div>
+    Flight to the Lonely Mountain
+  </div>,
+  <div>
+    The Fires of Smaug
+  </div>,
+  <div>
+    The Battle for Erebor
+  </div>,
+  <div>
+    The Deeping Wall
+  </div>,
+  <div>
+    Throne of the Dread Terror
+  </div>,
+]
 `;

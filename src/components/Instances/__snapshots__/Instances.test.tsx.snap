@@ -1,7 +1,192 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`Instances renders correctly 1`] = `
-<h2>
-  Instances
-</h2>
+Array [
+  <h2>
+    Instances
+  </h2>,
+  <div>
+    Great Barrow: Thadúr
+  </div>,
+  <div>
+    Great Barrow: Sambrog
+  </div>,
+  <div>
+    Inn of the Forsaken
+  </div>,
+  <div>
+    Garth Agarwen: Arboretum
+  </div>,
+  <div>
+    Garth Agarwen: Barrows
+  </div>,
+  <div>
+    Garth Agarwen: Fortress
+  </div>,
+  <div>
+    Goblin-town Throne Room
+  </div>,
+  <div>
+    Fornost: Wraith of Water
+  </div>,
+  <div>
+    Fornost: Wraith of Earth
+  </div>,
+  <div>
+    Fornost: Wraith of Fire
+  </div>,
+  <div>
+    Fornost: Wraith of Shadow
+  </div>,
+  <div>
+    The Halls of Night
+  </div>,
+  <div>
+    Glinghant
+  </div>,
+  <div>
+    Ost Elendil
+  </div>,
+  <div>
+    Haudh Valandil
+  </div>,
+  <div>
+    Urugarth
+  </div>,
+  <div>
+    Carn Dûm
+  </div>,
+  <div>
+    Barad Gúlaran
+  </div>,
+  <div>
+    The Library at Tham Mírdain
+  </div>,
+  <div>
+    The School at Tham Mírdain
+  </div>,
+  <div>
+    The Dark Delving
+  </div>,
+  <div>
+    The Forgotten Treasury
+  </div>,
+  <div>
+    The Grand Stair
+  </div>,
+  <div>
+    Forges of Khazad-dûm
+  </div>,
+  <div>
+    Fil Gashan
+  </div>,
+  <div>
+    The Sixteenth Hall
+  </div>,
+  <div>
+    Skûmfil
+  </div>,
+  <div>
+    The Mirror-halls of Lumul-nar
+  </div>,
+  <div>
+    The Water Wheels: Nalâ-dûm
+  </div>,
+  <div>
+    Halls of Crafting
+  </div>,
+  <div>
+    Sword-hall of Dol Guldur
+  </div>,
+  <div>
+    Dungeons of Dol Guldur
+  </div>,
+  <div>
+    Warg-pens of Dol Guldur
+  </div>,
+  <div>
+    Sammath Gûl
+  </div>,
+  <div>
+    Lost Temple
+  </div>,
+  <div>
+    Sâri-surma
+  </div>,
+  <div>
+    Northcotton Farms
+  </div>,
+  <div>
+    Stoneheight
+  </div>,
+  <div>
+    Dargnákh Unleashed
+  </div>,
+  <div>
+    Fangorn's Edge
+  </div>,
+  <div>
+    Pits of Isengard
+  </div>,
+  <div>
+    The Foundry
+  </div>,
+  <div>
+    Roots of Fangorn
+  </div>,
+  <div>
+    Seat of the Great Goblin
+  </div>,
+  <div>
+    Iorbar's Peak
+  </div>,
+  <div>
+    Webs of the Scuttledells
+  </div>,
+  <div>
+    The Bells of Dale
+  </div>,
+  <div>
+    Helm's Dike
+  </div>,
+  <div>
+    The Deeping Wall
+  </div>,
+  <div>
+    The Deeping-coomb
+  </div>,
+  <div>
+    The Glittering Caves
+  </div>,
+  <div>
+    The Hornburg
+  </div>,
+  <div>
+    Retaking Pelargir
+  </div>,
+  <div>
+    Defence of Minas Tirith
+  </div>,
+  <div>
+    Hammer of the Underworld
+  </div>,
+  <div>
+    Sunken Labyrinth
+  </div>,
+  <div>
+    The Ruined City
+  </div>,
+  <div>
+    The Dome of Stars
+  </div>,
+  <div>
+    Blood of the Black Serpent
+  </div>,
+  <div>
+    The Quays of the Harlond
+  </div>,
+  <div>
+    The Silent Street
+  </div>,
+]
 `;
