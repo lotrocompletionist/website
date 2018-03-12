@@ -1,7 +1,48 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`<Instance> renders correctly 1`] = `
-<div>
-  The Sixteenth Hall
+<div
+  className="card-content"
+>
+  <article
+    className="media"
+  >
+    <div
+      className="media-left"
+    >
+      <figure
+        className="image is-48x48"
+      >
+        <img
+          src="https://via.placeholder.com/96x96"
+        />
+      </figure>
+    </div>
+    <div
+      className="media-content"
+    >
+      <h1
+        className="title is-4"
+      >
+        The Sixteenth Hall
+      </h1>
+      <h2
+        className="subtitle is-6"
+      >
+        16th
+      </h2>
+    </div>
+  </article>
+  <div
+    className="content"
+  >
+    Mines of Moria
+    <br />
+    <small>
+      Level: 
+      58
+      
+    </small>
+  </div>
 </div>
 `;

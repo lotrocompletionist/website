@@ -2,191 +2,2689 @@
 
 exports[`Instances renders correctly 1`] = `
 Array [
-  <h2>
-    Instances
-  </h2>,
-  <div>
-    Great Barrow: Thadúr
+  <div
+    className="card-content"
+  >
+    <article
+      className="media"
+    >
+      <div
+        className="media-left"
+      >
+        <figure
+          className="image is-48x48"
+        >
+          <img
+            src="https://via.placeholder.com/96x96"
+          />
+        </figure>
+      </div>
+      <div
+        className="media-content"
+      >
+        <h1
+          className="title is-4"
+        >
+          Great Barrow: Thadúr
+        </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Thadur
+        </h2>
+      </div>
+    </article>
+    <div
+      className="content"
+    >
+      Shadows of Angmar
+      <br />
+      <small>
+        Level: 
+        20
+         - 115
+      </small>
+    </div>
   </div>,
-  <div>
-    Great Barrow: Sambrog
+  <div
+    className="card-content"
+  >
+    <article
+      className="media"
+    >
+      <div
+        className="media-left"
+      >
+        <figure
+          className="image is-48x48"
+        >
+          <img
+            src="https://via.placeholder.com/96x96"
+          />
+        </figure>
+      </div>
+      <div
+        className="media-content"
+      >
+        <h1
+          className="title is-4"
+        >
+          Great Barrow: Sambrog
+        </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Sammy
+        </h2>
+      </div>
+    </article>
+    <div
+      className="content"
+    >
+      Shadows of Angmar
+      <br />
+      <small>
+        Level: 
+        20
+         - 115
+      </small>
+    </div>
   </div>,
-  <div>
-    Inn of the Forsaken
+  <div
+    className="card-content"
+  >
+    <article
+      className="media"
+    >
+      <div
+        className="media-left"
+      >
+        <figure
+          className="image is-48x48"
+        >
+          <img
+            src="https://via.placeholder.com/96x96"
+          />
+        </figure>
+      </div>
+      <div
+        className="media-content"
+      >
+        <h1
+          className="title is-4"
+        >
+          Inn of the Forsaken
+        </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          IoF, IotF
+        </h2>
+      </div>
+    </article>
+    <div
+      className="content"
+    >
+      Shadows of Angmar
+      <br />
+      <small>
+        Level: 
+        20
+         - 115
+      </small>
+    </div>
   </div>,
-  <div>
-    Garth Agarwen: Arboretum
+  <div
+    className="card-content"
+  >
+    <article
+      className="media"
+    >
+      <div
+        className="media-left"
+      >
+        <figure
+          className="image is-48x48"
+        >
+          <img
+            src="https://via.placeholder.com/96x96"
+          />
+        </figure>
+      </div>
+      <div
+        className="media-content"
+      >
+        <h1
+          className="title is-4"
+        >
+          Garth Agarwen: Arboretum
+        </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          GA
+        </h2>
+      </div>
+    </article>
+    <div
+      className="content"
+    >
+      Shadows of Angmar
+      <br />
+      <small>
+        Level: 
+        32
+        
+      </small>
+    </div>
   </div>,
-  <div>
-    Garth Agarwen: Barrows
+  <div
+    className="card-content"
+  >
+    <article
+      className="media"
+    >
+      <div
+        className="media-left"
+      >
+        <figure
+          className="image is-48x48"
+        >
+          <img
+            src="https://via.placeholder.com/96x96"
+          />
+        </figure>
+      </div>
+      <div
+        className="media-content"
+      >
+        <h1
+          className="title is-4"
+        >
+          Garth Agarwen: Barrows
+        </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          GA
+        </h2>
+      </div>
+    </article>
+    <div
+      className="content"
+    >
+      Shadows of Angmar
+      <br />
+      <small>
+        Level: 
+        32
+        
+      </small>
+    </div>
   </div>,
-  <div>
-    Garth Agarwen: Fortress
+  <div
+    className="card-content"
+  >
+    <article
+      className="media"
+    >
+      <div
+        className="media-left"
+      >
+        <figure
+          className="image is-48x48"
+        >
+          <img
+            src="https://via.placeholder.com/96x96"
+          />
+        </figure>
+      </div>
+      <div
+        className="media-content"
+      >
+        <h1
+          className="title is-4"
+        >
+          Garth Agarwen: Fortress
+        </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          GA
+        </h2>
+      </div>
+    </article>
+    <div
+      className="content"
+    >
+      Shadows of Angmar
+      <br />
+      <small>
+        Level: 
+        32
+        
+      </small>
+    </div>
   </div>,
-  <div>
-    Goblin-town Throne Room
+  <div
+    className="card-content"
+  >
+    <article
+      className="media"
+    >
+      <div
+        className="media-left"
+      >
+        <figure
+          className="image is-48x48"
+        >
+          <img
+            src="https://via.placeholder.com/96x96"
+          />
+        </figure>
+      </div>
+      <div
+        className="media-content"
+      >
+        <h1
+          className="title is-4"
+        >
+          Goblin-town Throne Room
+        </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          n/a
+        </h2>
+      </div>
+    </article>
+    <div
+      className="content"
+    >
+      Shadows of Angmar
+      <br />
+      <small>
+        Level: 
+        45
+        
+      </small>
+    </div>
   </div>,
-  <div>
-    Fornost: Wraith of Water
+  <div
+    className="card-content"
+  >
+    <article
+      className="media"
+    >
+      <div
+        className="media-left"
+      >
+        <figure
+          className="image is-48x48"
+        >
+          <img
+            src="https://via.placeholder.com/96x96"
+          />
+        </figure>
+      </div>
+      <div
+        className="media-content"
+      >
+        <h1
+          className="title is-4"
+        >
+          Fornost: Wraith of Water
+        </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Water
+        </h2>
+      </div>
+    </article>
+    <div
+      className="content"
+    >
+      Shadows of Angmar
+      <br />
+      <small>
+        Level: 
+        25
+         - 115
+      </small>
+    </div>
   </div>,
-  <div>
-    Fornost: Wraith of Earth
+  <div
+    className="card-content"
+  >
+    <article
+      className="media"
+    >
+      <div
+        className="media-left"
+      >
+        <figure
+          className="image is-48x48"
+        >
+          <img
+            src="https://via.placeholder.com/96x96"
+          />
+        </figure>
+      </div>
+      <div
+        className="media-content"
+      >
+        <h1
+          className="title is-4"
+        >
+          Fornost: Wraith of Earth
+        </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Earth
+        </h2>
+      </div>
+    </article>
+    <div
+      className="content"
+    >
+      Shadows of Angmar
+      <br />
+      <small>
+        Level: 
+        25
+         - 115
+      </small>
+    </div>
   </div>,
-  <div>
-    Fornost: Wraith of Fire
+  <div
+    className="card-content"
+  >
+    <article
+      className="media"
+    >
+      <div
+        className="media-left"
+      >
+        <figure
+          className="image is-48x48"
+        >
+          <img
+            src="https://via.placeholder.com/96x96"
+          />
+        </figure>
+      </div>
+      <div
+        className="media-content"
+      >
+        <h1
+          className="title is-4"
+        >
+          Fornost: Wraith of Fire
+        </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Fire
+        </h2>
+      </div>
+    </article>
+    <div
+      className="content"
+    >
+      Shadows of Angmar
+      <br />
+      <small>
+        Level: 
+        25
+         - 115
+      </small>
+    </div>
   </div>,
-  <div>
-    Fornost: Wraith of Shadow
+  <div
+    className="card-content"
+  >
+    <article
+      className="media"
+    >
+      <div
+        className="media-left"
+      >
+        <figure
+          className="image is-48x48"
+        >
+          <img
+            src="https://via.placeholder.com/96x96"
+          />
+        </figure>
+      </div>
+      <div
+        className="media-content"
+      >
+        <h1
+          className="title is-4"
+        >
+          Fornost: Wraith of Shadow
+        </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Shadow
+        </h2>
+      </div>
+    </article>
+    <div
+      className="content"
+    >
+      Shadows of Angmar
+      <br />
+      <small>
+        Level: 
+        25
+         - 115
+      </small>
+    </div>
   </div>,
-  <div>
-    The Halls of Night
+  <div
+    className="card-content"
+  >
+    <article
+      className="media"
+    >
+      <div
+        className="media-left"
+      >
+        <figure
+          className="image is-48x48"
+        >
+          <img
+            src="https://via.placeholder.com/96x96"
+          />
+        </figure>
+      </div>
+      <div
+        className="media-content"
+      >
+        <h1
+          className="title is-4"
+        >
+          The Halls of Night
+        </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          HoN
+        </h2>
+      </div>
+    </article>
+    <div
+      className="content"
+    >
+      Shadows of Angmar
+      <br />
+      <small>
+        Level: 
+        40
+         - 115
+      </small>
+    </div>
   </div>,
-  <div>
-    Glinghant
+  <div
+    className="card-content"
+  >
+    <article
+      className="media"
+    >
+      <div
+        className="media-left"
+      >
+        <figure
+          className="image is-48x48"
+        >
+          <img
+            src="https://via.placeholder.com/96x96"
+          />
+        </figure>
+      </div>
+      <div
+        className="media-content"
+      >
+        <h1
+          className="title is-4"
+        >
+          Glinghant
+        </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Gling, Gardens
+        </h2>
+      </div>
+    </article>
+    <div
+      className="content"
+    >
+      Shadows of Angmar
+      <br />
+      <small>
+        Level: 
+        40
+         - 115
+      </small>
+    </div>
   </div>,
-  <div>
-    Ost Elendil
+  <div
+    className="card-content"
+  >
+    <article
+      className="media"
+    >
+      <div
+        className="media-left"
+      >
+        <figure
+          className="image is-48x48"
+        >
+          <img
+            src="https://via.placeholder.com/96x96"
+          />
+        </figure>
+      </div>
+      <div
+        className="media-content"
+      >
+        <h1
+          className="title is-4"
+        >
+          Ost Elendil
+        </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          OE
+        </h2>
+      </div>
+    </article>
+    <div
+      className="content"
+    >
+      Shadows of Angmar
+      <br />
+      <small>
+        Level: 
+        40
+         - 115
+      </small>
+    </div>
   </div>,
-  <div>
-    Haudh Valandil
+  <div
+    className="card-content"
+  >
+    <article
+      className="media"
+    >
+      <div
+        className="media-left"
+      >
+        <figure
+          className="image is-48x48"
+        >
+          <img
+            src="https://via.placeholder.com/96x96"
+          />
+        </figure>
+      </div>
+      <div
+        className="media-content"
+      >
+        <h1
+          className="title is-4"
+        >
+          Haudh Valandil
+        </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          HV
+        </h2>
+      </div>
+    </article>
+    <div
+      className="content"
+    >
+      Shadows of Angmar
+      <br />
+      <small>
+        Level: 
+        40
+         - 115
+      </small>
+    </div>
   </div>,
-  <div>
-    Urugarth
+  <div
+    className="card-content"
+  >
+    <article
+      className="media"
+    >
+      <div
+        className="media-left"
+      >
+        <figure
+          className="image is-48x48"
+        >
+          <img
+            src="https://via.placeholder.com/96x96"
+          />
+        </figure>
+      </div>
+      <div
+        className="media-content"
+      >
+        <h1
+          className="title is-4"
+        >
+          Urugarth
+        </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Uru
+        </h2>
+      </div>
+    </article>
+    <div
+      className="content"
+    >
+      Shadows of Angmar
+      <br />
+      <small>
+        Level: 
+        50
+        
+      </small>
+    </div>
   </div>,
-  <div>
-    Carn Dûm
+  <div
+    className="card-content"
+  >
+    <article
+      className="media"
+    >
+      <div
+        className="media-left"
+      >
+        <figure
+          className="image is-48x48"
+        >
+          <img
+            src="https://via.placeholder.com/96x96"
+          />
+        </figure>
+      </div>
+      <div
+        className="media-content"
+      >
+        <h1
+          className="title is-4"
+        >
+          Carn Dûm
+        </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          CD
+        </h2>
+      </div>
+    </article>
+    <div
+      className="content"
+    >
+      Shadows of Angmar
+      <br />
+      <small>
+        Level: 
+        50
+        
+      </small>
+    </div>
   </div>,
-  <div>
-    Barad Gúlaran
+  <div
+    className="card-content"
+  >
+    <article
+      className="media"
+    >
+      <div
+        className="media-left"
+      >
+        <figure
+          className="image is-48x48"
+        >
+          <img
+            src="https://via.placeholder.com/96x96"
+          />
+        </figure>
+      </div>
+      <div
+        className="media-content"
+      >
+        <h1
+          className="title is-4"
+        >
+          Barad Gúlaran
+        </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          BG
+        </h2>
+      </div>
+    </article>
+    <div
+      className="content"
+    >
+      Shadows of Angmar
+      <br />
+      <small>
+        Level: 
+        50
+        
+      </small>
+    </div>
   </div>,
-  <div>
-    The Library at Tham Mírdain
+  <div
+    className="card-content"
+  >
+    <article
+      className="media"
+    >
+      <div
+        className="media-left"
+      >
+        <figure
+          className="image is-48x48"
+        >
+          <img
+            src="https://via.placeholder.com/96x96"
+          />
+        </figure>
+      </div>
+      <div
+        className="media-content"
+      >
+        <h1
+          className="title is-4"
+        >
+          The Library at Tham Mírdain
+        </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Lib
+        </h2>
+      </div>
+    </article>
+    <div
+      className="content"
+    >
+      Shadows of Angmar
+      <br />
+      <small>
+        Level: 
+        50
+         - 115
+      </small>
+    </div>
   </div>,
-  <div>
-    The School at Tham Mírdain
+  <div
+    className="card-content"
+  >
+    <article
+      className="media"
+    >
+      <div
+        className="media-left"
+      >
+        <figure
+          className="image is-48x48"
+        >
+          <img
+            src="https://via.placeholder.com/96x96"
+          />
+        </figure>
+      </div>
+      <div
+        className="media-content"
+      >
+        <h1
+          className="title is-4"
+        >
+          The School at Tham Mírdain
+        </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          School, Sch
+        </h2>
+      </div>
+    </article>
+    <div
+      className="content"
+    >
+      Shadows of Angmar
+      <br />
+      <small>
+        Level: 
+        50
+         - 115
+      </small>
+    </div>
   </div>,
-  <div>
-    The Dark Delving
+  <div
+    className="card-content"
+  >
+    <article
+      className="media"
+    >
+      <div
+        className="media-left"
+      >
+        <figure
+          className="image is-48x48"
+        >
+          <img
+            src="https://via.placeholder.com/96x96"
+          />
+        </figure>
+      </div>
+      <div
+        className="media-content"
+      >
+        <h1
+          className="title is-4"
+        >
+          The Dark Delving
+        </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          DD
+        </h2>
+      </div>
+    </article>
+    <div
+      className="content"
+    >
+      Mines of Moria
+      <br />
+      <small>
+        Level: 
+        58
+        
+      </small>
+    </div>
   </div>,
-  <div>
-    The Forgotten Treasury
+  <div
+    className="card-content"
+  >
+    <article
+      className="media"
+    >
+      <div
+        className="media-left"
+      >
+        <figure
+          className="image is-48x48"
+        >
+          <img
+            src="https://via.placeholder.com/96x96"
+          />
+        </figure>
+      </div>
+      <div
+        className="media-content"
+      >
+        <h1
+          className="title is-4"
+        >
+          The Forgotten Treasury
+        </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          FT
+        </h2>
+      </div>
+    </article>
+    <div
+      className="content"
+    >
+      Mines of Moria
+      <br />
+      <small>
+        Level: 
+        54
+        
+      </small>
+    </div>
   </div>,
-  <div>
-    The Grand Stair
+  <div
+    className="card-content"
+  >
+    <article
+      className="media"
+    >
+      <div
+        className="media-left"
+      >
+        <figure
+          className="image is-48x48"
+        >
+          <img
+            src="https://via.placeholder.com/96x96"
+          />
+        </figure>
+      </div>
+      <div
+        className="media-content"
+      >
+        <h1
+          className="title is-4"
+        >
+          The Grand Stair
+        </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          GS
+        </h2>
+      </div>
+    </article>
+    <div
+      className="content"
+    >
+      Mines of Moria
+      <br />
+      <small>
+        Level: 
+        56
+        
+      </small>
+    </div>
   </div>,
-  <div>
-    Forges of Khazad-dûm
+  <div
+    className="card-content"
+  >
+    <article
+      className="media"
+    >
+      <div
+        className="media-left"
+      >
+        <figure
+          className="image is-48x48"
+        >
+          <img
+            src="https://via.placeholder.com/96x96"
+          />
+        </figure>
+      </div>
+      <div
+        className="media-content"
+      >
+        <h1
+          className="title is-4"
+        >
+          Forges of Khazad-dûm
+        </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Forges
+        </h2>
+      </div>
+    </article>
+    <div
+      className="content"
+    >
+      Mines of Moria
+      <br />
+      <small>
+        Level: 
+        58
+        
+      </small>
+    </div>
   </div>,
-  <div>
-    Fil Gashan
+  <div
+    className="card-content"
+  >
+    <article
+      className="media"
+    >
+      <div
+        className="media-left"
+      >
+        <figure
+          className="image is-48x48"
+        >
+          <img
+            src="https://via.placeholder.com/96x96"
+          />
+        </figure>
+      </div>
+      <div
+        className="media-content"
+      >
+        <h1
+          className="title is-4"
+        >
+          Fil Gashan
+        </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          FG
+        </h2>
+      </div>
+    </article>
+    <div
+      className="content"
+    >
+      Mines of Moria
+      <br />
+      <small>
+        Level: 
+        58
+        
+      </small>
+    </div>
   </div>,
-  <div>
-    The Sixteenth Hall
+  <div
+    className="card-content"
+  >
+    <article
+      className="media"
+    >
+      <div
+        className="media-left"
+      >
+        <figure
+          className="image is-48x48"
+        >
+          <img
+            src="https://via.placeholder.com/96x96"
+          />
+        </figure>
+      </div>
+      <div
+        className="media-content"
+      >
+        <h1
+          className="title is-4"
+        >
+          The Sixteenth Hall
+        </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          16th
+        </h2>
+      </div>
+    </article>
+    <div
+      className="content"
+    >
+      Mines of Moria
+      <br />
+      <small>
+        Level: 
+        58
+        
+      </small>
+    </div>
   </div>,
-  <div>
-    Skûmfil
+  <div
+    className="card-content"
+  >
+    <article
+      className="media"
+    >
+      <div
+        className="media-left"
+      >
+        <figure
+          className="image is-48x48"
+        >
+          <img
+            src="https://via.placeholder.com/96x96"
+          />
+        </figure>
+      </div>
+      <div
+        className="media-content"
+      >
+        <h1
+          className="title is-4"
+        >
+          Skûmfil
+        </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Skum
+        </h2>
+      </div>
+    </article>
+    <div
+      className="content"
+    >
+      Mines of Moria
+      <br />
+      <small>
+        Level: 
+        58
+        
+      </small>
+    </div>
   </div>,
-  <div>
-    The Mirror-halls of Lumul-nar
+  <div
+    className="card-content"
+  >
+    <article
+      className="media"
+    >
+      <div
+        className="media-left"
+      >
+        <figure
+          className="image is-48x48"
+        >
+          <img
+            src="https://via.placeholder.com/96x96"
+          />
+        </figure>
+      </div>
+      <div
+        className="media-content"
+      >
+        <h1
+          className="title is-4"
+        >
+          The Mirror-halls of Lumul-nar
+        </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          HoM
+        </h2>
+      </div>
+    </article>
+    <div
+      className="content"
+    >
+      Scourge of Khazad-dûm (Introduced via Mirkwood)
+      <br />
+      <small>
+        Level: 
+        58
+        
+      </small>
+    </div>
   </div>,
-  <div>
-    The Water Wheels: Nalâ-dûm
+  <div
+    className="card-content"
+  >
+    <article
+      className="media"
+    >
+      <div
+        className="media-left"
+      >
+        <figure
+          className="image is-48x48"
+        >
+          <img
+            src="https://via.placeholder.com/96x96"
+          />
+        </figure>
+      </div>
+      <div
+        className="media-content"
+      >
+        <h1
+          className="title is-4"
+        >
+          The Water Wheels: Nalâ-dûm
+        </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          WW
+        </h2>
+      </div>
+    </article>
+    <div
+      className="content"
+    >
+      Scourge of Khazad-dûm (Introduced via Mirkwood)
+      <br />
+      <small>
+        Level: 
+        58
+        
+      </small>
+    </div>
   </div>,
-  <div>
-    Halls of Crafting
+  <div
+    className="card-content"
+  >
+    <article
+      className="media"
+    >
+      <div
+        className="media-left"
+      >
+        <figure
+          className="image is-48x48"
+        >
+          <img
+            src="https://via.placeholder.com/96x96"
+          />
+        </figure>
+      </div>
+      <div
+        className="media-content"
+      >
+        <h1
+          className="title is-4"
+        >
+          Halls of Crafting
+        </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          HoC
+        </h2>
+      </div>
+    </article>
+    <div
+      className="content"
+    >
+      Scourge of Khazad-dûm (Introduced via Mirkwood)
+      <br />
+      <small>
+        Level: 
+        58
+        
+      </small>
+    </div>
   </div>,
-  <div>
-    Sword-hall of Dol Guldur
+  <div
+    className="card-content"
+  >
+    <article
+      className="media"
+    >
+      <div
+        className="media-left"
+      >
+        <figure
+          className="image is-48x48"
+        >
+          <img
+            src="https://via.placeholder.com/96x96"
+          />
+        </figure>
+      </div>
+      <div
+        className="media-content"
+      >
+        <h1
+          className="title is-4"
+        >
+          Sword-hall of Dol Guldur
+        </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          SH
+        </h2>
+      </div>
+    </article>
+    <div
+      className="content"
+    >
+      Tower of Dol Guldur
+      <br />
+      <small>
+        Level: 
+        65
+         - 115
+      </small>
+    </div>
   </div>,
-  <div>
-    Dungeons of Dol Guldur
+  <div
+    className="card-content"
+  >
+    <article
+      className="media"
+    >
+      <div
+        className="media-left"
+      >
+        <figure
+          className="image is-48x48"
+        >
+          <img
+            src="https://via.placeholder.com/96x96"
+          />
+        </figure>
+      </div>
+      <div
+        className="media-content"
+      >
+        <h1
+          className="title is-4"
+        >
+          Dungeons of Dol Guldur
+        </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Dungeons
+        </h2>
+      </div>
+    </article>
+    <div
+      className="content"
+    >
+      Tower of Dol Guldur
+      <br />
+      <small>
+        Level: 
+        65
+         - 115
+      </small>
+    </div>
   </div>,
-  <div>
-    Warg-pens of Dol Guldur
+  <div
+    className="card-content"
+  >
+    <article
+      className="media"
+    >
+      <div
+        className="media-left"
+      >
+        <figure
+          className="image is-48x48"
+        >
+          <img
+            src="https://via.placeholder.com/96x96"
+          />
+        </figure>
+      </div>
+      <div
+        className="media-content"
+      >
+        <h1
+          className="title is-4"
+        >
+          Warg-pens of Dol Guldur
+        </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          WP
+        </h2>
+      </div>
+    </article>
+    <div
+      className="content"
+    >
+      Tower of Dol Guldur
+      <br />
+      <small>
+        Level: 
+        65
+         - 115
+      </small>
+    </div>
   </div>,
-  <div>
-    Sammath Gûl
+  <div
+    className="card-content"
+  >
+    <article
+      className="media"
+    >
+      <div
+        className="media-left"
+      >
+        <figure
+          className="image is-48x48"
+        >
+          <img
+            src="https://via.placeholder.com/96x96"
+          />
+        </figure>
+      </div>
+      <div
+        className="media-content"
+      >
+        <h1
+          className="title is-4"
+        >
+          Sammath Gûl
+        </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          SG
+        </h2>
+      </div>
+    </article>
+    <div
+      className="content"
+    >
+      Tower of Dol Guldur
+      <br />
+      <small>
+        Level: 
+        65
+         - 115
+      </small>
+    </div>
   </div>,
-  <div>
-    Lost Temple
+  <div
+    className="card-content"
+  >
+    <article
+      className="media"
+    >
+      <div
+        className="media-left"
+      >
+        <figure
+          className="image is-48x48"
+        >
+          <img
+            src="https://via.placeholder.com/96x96"
+          />
+        </figure>
+      </div>
+      <div
+        className="media-content"
+      >
+        <h1
+          className="title is-4"
+        >
+          Lost Temple
+        </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          LT
+        </h2>
+      </div>
+    </article>
+    <div
+      className="content"
+    >
+      In Their Absence
+      <br />
+      <small>
+        Level: 
+        65
+         - 115
+      </small>
+    </div>
   </div>,
-  <div>
-    Sâri-surma
+  <div
+    className="card-content"
+  >
+    <article
+      className="media"
+    >
+      <div
+        className="media-left"
+      >
+        <figure
+          className="image is-48x48"
+        >
+          <img
+            src="https://via.placeholder.com/96x96"
+          />
+        </figure>
+      </div>
+      <div
+        className="media-content"
+      >
+        <h1
+          className="title is-4"
+        >
+          Sâri-surma
+        </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          SS
+        </h2>
+      </div>
+    </article>
+    <div
+      className="content"
+    >
+      In Their Absence
+      <br />
+      <small>
+        Level: 
+        65
+         - 115
+      </small>
+    </div>
   </div>,
-  <div>
-    Northcotton Farms
+  <div
+    className="card-content"
+  >
+    <article
+      className="media"
+    >
+      <div
+        className="media-left"
+      >
+        <figure
+          className="image is-48x48"
+        >
+          <img
+            src="https://via.placeholder.com/96x96"
+          />
+        </figure>
+      </div>
+      <div
+        className="media-content"
+      >
+        <h1
+          className="title is-4"
+        >
+          Northcotton Farms
+        </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          NF, Ncf
+        </h2>
+      </div>
+    </article>
+    <div
+      className="content"
+    >
+      In Their Absence
+      <br />
+      <small>
+        Level: 
+        65
+         - 115
+      </small>
+    </div>
   </div>,
-  <div>
-    Stoneheight
+  <div
+    className="card-content"
+  >
+    <article
+      className="media"
+    >
+      <div
+        className="media-left"
+      >
+        <figure
+          className="image is-48x48"
+        >
+          <img
+            src="https://via.placeholder.com/96x96"
+          />
+        </figure>
+      </div>
+      <div
+        className="media-content"
+      >
+        <h1
+          className="title is-4"
+        >
+          Stoneheight
+        </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Sth
+        </h2>
+      </div>
+    </article>
+    <div
+      className="content"
+    >
+      In Their Absence
+      <br />
+      <small>
+        Level: 
+        65
+         - 115
+      </small>
+    </div>
   </div>,
-  <div>
-    Dargnákh Unleashed
+  <div
+    className="card-content"
+  >
+    <article
+      className="media"
+    >
+      <div
+        className="media-left"
+      >
+        <figure
+          className="image is-48x48"
+        >
+          <img
+            src="https://via.placeholder.com/96x96"
+          />
+        </figure>
+      </div>
+      <div
+        className="media-content"
+      >
+        <h1
+          className="title is-4"
+        >
+          Dargnákh Unleashed
+        </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          DU
+        </h2>
+      </div>
+    </article>
+    <div
+      className="content"
+    >
+      Rise of Isengard
+      <br />
+      <small>
+        Level: 
+        75
+        
+      </small>
+    </div>
   </div>,
-  <div>
-    Fangorn's Edge
+  <div
+    className="card-content"
+  >
+    <article
+      className="media"
+    >
+      <div
+        className="media-left"
+      >
+        <figure
+          className="image is-48x48"
+        >
+          <img
+            src="https://via.placeholder.com/96x96"
+          />
+        </figure>
+      </div>
+      <div
+        className="media-content"
+      >
+        <h1
+          className="title is-4"
+        >
+          Fangorn's Edge
+        </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          FE
+        </h2>
+      </div>
+    </article>
+    <div
+      className="content"
+    >
+      Rise of Isengard
+      <br />
+      <small>
+        Level: 
+        75
+        
+      </small>
+    </div>
   </div>,
-  <div>
-    Pits of Isengard
+  <div
+    className="card-content"
+  >
+    <article
+      className="media"
+    >
+      <div
+        className="media-left"
+      >
+        <figure
+          className="image is-48x48"
+        >
+          <img
+            src="https://via.placeholder.com/96x96"
+          />
+        </figure>
+      </div>
+      <div
+        className="media-content"
+      >
+        <h1
+          className="title is-4"
+        >
+          Pits of Isengard
+        </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          PoI, Pits
+        </h2>
+      </div>
+    </article>
+    <div
+      className="content"
+    >
+      Rise of Isengard
+      <br />
+      <small>
+        Level: 
+        75
+        
+      </small>
+    </div>
   </div>,
-  <div>
-    The Foundry
+  <div
+    className="card-content"
+  >
+    <article
+      className="media"
+    >
+      <div
+        className="media-left"
+      >
+        <figure
+          className="image is-48x48"
+        >
+          <img
+            src="https://via.placeholder.com/96x96"
+          />
+        </figure>
+      </div>
+      <div
+        className="media-content"
+      >
+        <h1
+          className="title is-4"
+        >
+          The Foundry
+        </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Foundry
+        </h2>
+      </div>
+    </article>
+    <div
+      className="content"
+    >
+      Rise of Isengard
+      <br />
+      <small>
+        Level: 
+        75
+        
+      </small>
+    </div>
   </div>,
-  <div>
-    Roots of Fangorn
+  <div
+    className="card-content"
+  >
+    <article
+      className="media"
+    >
+      <div
+        className="media-left"
+      >
+        <figure
+          className="image is-48x48"
+        >
+          <img
+            src="https://via.placeholder.com/96x96"
+          />
+        </figure>
+      </div>
+      <div
+        className="media-content"
+      >
+        <h1
+          className="title is-4"
+        >
+          Roots of Fangorn
+        </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          RoF
+        </h2>
+      </div>
+    </article>
+    <div
+      className="content"
+    >
+      Rise of Isengard
+      <br />
+      <small>
+        Level: 
+        75
+        
+      </small>
+    </div>
   </div>,
-  <div>
-    Seat of the Great Goblin
+  <div
+    className="card-content"
+  >
+    <article
+      className="media"
+    >
+      <div
+        className="media-left"
+      >
+        <figure
+          className="image is-48x48"
+        >
+          <img
+            src="https://via.placeholder.com/96x96"
+          />
+        </figure>
+      </div>
+      <div
+        className="media-content"
+      >
+        <h1
+          className="title is-4"
+        >
+          Seat of the Great Goblin
+        </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          SGG
+        </h2>
+      </div>
+    </article>
+    <div
+      className="content"
+    >
+      The Road to Erebor (Introduced via the Riders of Rohan)
+      <br />
+      <small>
+        Level: 
+        20
+         - 115
+      </small>
+    </div>
   </div>,
-  <div>
-    Iorbar's Peak
+  <div
+    className="card-content"
+  >
+    <article
+      className="media"
+    >
+      <div
+        className="media-left"
+      >
+        <figure
+          className="image is-48x48"
+        >
+          <img
+            src="https://via.placeholder.com/96x96"
+          />
+        </figure>
+      </div>
+      <div
+        className="media-content"
+      >
+        <h1
+          className="title is-4"
+        >
+          Iorbar's Peak
+        </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          IP
+        </h2>
+      </div>
+    </article>
+    <div
+      className="content"
+    >
+      The Road to Erebor (Introduced via the Riders of Rohan)
+      <br />
+      <small>
+        Level: 
+        20
+         - 115
+      </small>
+    </div>
   </div>,
-  <div>
-    Webs of the Scuttledells
+  <div
+    className="card-content"
+  >
+    <article
+      className="media"
+    >
+      <div
+        className="media-left"
+      >
+        <figure
+          className="image is-48x48"
+        >
+          <img
+            src="https://via.placeholder.com/96x96"
+          />
+        </figure>
+      </div>
+      <div
+        className="media-content"
+      >
+        <h1
+          className="title is-4"
+        >
+          Webs of the Scuttledells
+        </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Webs
+        </h2>
+      </div>
+    </article>
+    <div
+      className="content"
+    >
+      The Road to Erebor (Introduced via the Riders of Rohan)
+      <br />
+      <small>
+        Level: 
+        20
+         - 115
+      </small>
+    </div>
   </div>,
-  <div>
-    The Bells of Dale
+  <div
+    className="card-content"
+  >
+    <article
+      className="media"
+    >
+      <div
+        className="media-left"
+      >
+        <figure
+          className="image is-48x48"
+        >
+          <img
+            src="https://via.placeholder.com/96x96"
+          />
+        </figure>
+      </div>
+      <div
+        className="media-content"
+      >
+        <h1
+          className="title is-4"
+        >
+          The Bells of Dale
+        </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Bells
+        </h2>
+      </div>
+    </article>
+    <div
+      className="content"
+    >
+      The Road to Erebor (Introduced via the Riders of Rohan)
+      <br />
+      <small>
+        Level: 
+        20
+         - 115
+      </small>
+    </div>
   </div>,
-  <div>
-    Helm's Dike
+  <div
+    className="card-content"
+  >
+    <article
+      className="media"
+    >
+      <div
+        className="media-left"
+      >
+        <figure
+          className="image is-48x48"
+        >
+          <img
+            src="https://via.placeholder.com/96x96"
+          />
+        </figure>
+      </div>
+      <div
+        className="media-content"
+      >
+        <h1
+          className="title is-4"
+        >
+          Helm's Dike
+        </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Dike
+        </h2>
+      </div>
+    </article>
+    <div
+      className="content"
+    >
+      Helm's Deep
+      <br />
+      <small>
+        Level: 
+        10
+         - 115
+      </small>
+    </div>
   </div>,
-  <div>
-    The Deeping Wall
+  <div
+    className="card-content"
+  >
+    <article
+      className="media"
+    >
+      <div
+        className="media-left"
+      >
+        <figure
+          className="image is-48x48"
+        >
+          <img
+            src="https://via.placeholder.com/96x96"
+          />
+        </figure>
+      </div>
+      <div
+        className="media-content"
+      >
+        <h1
+          className="title is-4"
+        >
+          The Deeping Wall
+        </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Wall, DW
+        </h2>
+      </div>
+    </article>
+    <div
+      className="content"
+    >
+      Helm's Deep
+      <br />
+      <small>
+        Level: 
+        10
+         - 115
+      </small>
+    </div>
   </div>,
-  <div>
-    The Deeping-coomb
+  <div
+    className="card-content"
+  >
+    <article
+      className="media"
+    >
+      <div
+        className="media-left"
+      >
+        <figure
+          className="image is-48x48"
+        >
+          <img
+            src="https://via.placeholder.com/96x96"
+          />
+        </figure>
+      </div>
+      <div
+        className="media-content"
+      >
+        <h1
+          className="title is-4"
+        >
+          The Deeping-coomb
+        </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Coomb, DC
+        </h2>
+      </div>
+    </article>
+    <div
+      className="content"
+    >
+      Helm's Deep
+      <br />
+      <small>
+        Level: 
+        10
+         - 115
+      </small>
+    </div>
   </div>,
-  <div>
-    The Glittering Caves
+  <div
+    className="card-content"
+  >
+    <article
+      className="media"
+    >
+      <div
+        className="media-left"
+      >
+        <figure
+          className="image is-48x48"
+        >
+          <img
+            src="https://via.placeholder.com/96x96"
+          />
+        </figure>
+      </div>
+      <div
+        className="media-content"
+      >
+        <h1
+          className="title is-4"
+        >
+          The Glittering Caves
+        </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          GC
+        </h2>
+      </div>
+    </article>
+    <div
+      className="content"
+    >
+      Helm's Deep
+      <br />
+      <small>
+        Level: 
+        10
+         - 115
+      </small>
+    </div>
   </div>,
-  <div>
-    The Hornburg
+  <div
+    className="card-content"
+  >
+    <article
+      className="media"
+    >
+      <div
+        className="media-left"
+      >
+        <figure
+          className="image is-48x48"
+        >
+          <img
+            src="https://via.placeholder.com/96x96"
+          />
+        </figure>
+      </div>
+      <div
+        className="media-content"
+      >
+        <h1
+          className="title is-4"
+        >
+          The Hornburg
+        </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Hornburg
+        </h2>
+      </div>
+    </article>
+    <div
+      className="content"
+    >
+      Helm's Deep
+      <br />
+      <small>
+        Level: 
+        10
+         - 115
+      </small>
+    </div>
   </div>,
-  <div>
-    Retaking Pelargir
+  <div
+    className="card-content"
+  >
+    <article
+      className="media"
+    >
+      <div
+        className="media-left"
+      >
+        <figure
+          className="image is-48x48"
+        >
+          <img
+            src="https://via.placeholder.com/96x96"
+          />
+        </figure>
+      </div>
+      <div
+        className="media-content"
+      >
+        <h1
+          className="title is-4"
+        >
+          Retaking Pelargir
+        </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Pela, Pel, Pelargir
+        </h2>
+      </div>
+    </article>
+    <div
+      className="content"
+    >
+      War for Gondor
+      <br />
+      <small>
+        Level: 
+        10
+         - 115
+      </small>
+    </div>
   </div>,
-  <div>
-    Defence of Minas Tirith
+  <div
+    className="card-content"
+  >
+    <article
+      className="media"
+    >
+      <div
+        className="media-left"
+      >
+        <figure
+          className="image is-48x48"
+        >
+          <img
+            src="https://via.placeholder.com/96x96"
+          />
+        </figure>
+      </div>
+      <div
+        className="media-content"
+      >
+        <h1
+          className="title is-4"
+        >
+          Defence of Minas Tirith
+        </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          MT, Defence
+        </h2>
+      </div>
+    </article>
+    <div
+      className="content"
+    >
+      War for Gondor
+      <br />
+      <small>
+        Level: 
+        10
+         - 115
+      </small>
+    </div>
   </div>,
-  <div>
-    Hammer of the Underworld
+  <div
+    className="card-content"
+  >
+    <article
+      className="media"
+    >
+      <div
+        className="media-left"
+      >
+        <figure
+          className="image is-48x48"
+        >
+          <img
+            src="https://via.placeholder.com/96x96"
+          />
+        </figure>
+      </div>
+      <div
+        className="media-content"
+      >
+        <h1
+          className="title is-4"
+        >
+          Hammer of the Underworld
+        </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Hammer
+        </h2>
+      </div>
+    </article>
+    <div
+      className="content"
+    >
+      War for Gondor
+      <br />
+      <small>
+        Level: 
+        10
+         - 115
+      </small>
+    </div>
   </div>,
-  <div>
-    Sunken Labyrinth
+  <div
+    className="card-content"
+  >
+    <article
+      className="media"
+    >
+      <div
+        className="media-left"
+      >
+        <figure
+          className="image is-48x48"
+        >
+          <img
+            src="https://via.placeholder.com/96x96"
+          />
+        </figure>
+      </div>
+      <div
+        className="media-content"
+      >
+        <h1
+          className="title is-4"
+        >
+          Sunken Labyrinth
+        </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          SL
+        </h2>
+      </div>
+    </article>
+    <div
+      className="content"
+    >
+      Osgiliath
+      <br />
+      <small>
+        Level: 
+        50
+         - 115
+      </small>
+    </div>
   </div>,
-  <div>
-    The Ruined City
+  <div
+    className="card-content"
+  >
+    <article
+      className="media"
+    >
+      <div
+        className="media-left"
+      >
+        <figure
+          className="image is-48x48"
+        >
+          <img
+            src="https://via.placeholder.com/96x96"
+          />
+        </figure>
+      </div>
+      <div
+        className="media-content"
+      >
+        <h1
+          className="title is-4"
+        >
+          The Ruined City
+        </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          RC
+        </h2>
+      </div>
+    </article>
+    <div
+      className="content"
+    >
+      Osgiliath
+      <br />
+      <small>
+        Level: 
+        50
+         - 115
+      </small>
+    </div>
   </div>,
-  <div>
-    The Dome of Stars
+  <div
+    className="card-content"
+  >
+    <article
+      className="media"
+    >
+      <div
+        className="media-left"
+      >
+        <figure
+          className="image is-48x48"
+        >
+          <img
+            src="https://via.placeholder.com/96x96"
+          />
+        </figure>
+      </div>
+      <div
+        className="media-content"
+      >
+        <h1
+          className="title is-4"
+        >
+          The Dome of Stars
+        </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          DoS, Dome
+        </h2>
+      </div>
+    </article>
+    <div
+      className="content"
+    >
+      Osgiliath
+      <br />
+      <small>
+        Level: 
+        50
+         - 115
+      </small>
+    </div>
   </div>,
-  <div>
-    Blood of the Black Serpent
+  <div
+    className="card-content"
+  >
+    <article
+      className="media"
+    >
+      <div
+        className="media-left"
+      >
+        <figure
+          className="image is-48x48"
+        >
+          <img
+            src="https://via.placeholder.com/96x96"
+          />
+        </figure>
+      </div>
+      <div
+        className="media-content"
+      >
+        <h1
+          className="title is-4"
+        >
+          Blood of the Black Serpent
+        </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          BBS
+        </h2>
+      </div>
+    </article>
+    <div
+      className="content"
+    >
+      Battle of Pelennor
+      <br />
+      <small>
+        Level: 
+        75
+         - 115
+      </small>
+    </div>
   </div>,
-  <div>
-    The Quays of the Harlond
+  <div
+    className="card-content"
+  >
+    <article
+      className="media"
+    >
+      <div
+        className="media-left"
+      >
+        <figure
+          className="image is-48x48"
+        >
+          <img
+            src="https://via.placeholder.com/96x96"
+          />
+        </figure>
+      </div>
+      <div
+        className="media-content"
+      >
+        <h1
+          className="title is-4"
+        >
+          The Quays of the Harlond
+        </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Quays
+        </h2>
+      </div>
+    </article>
+    <div
+      className="content"
+    >
+      Battle of Pelennor
+      <br />
+      <small>
+        Level: 
+        75
+         - 115
+      </small>
+    </div>
   </div>,
-  <div>
-    The Silent Street
+  <div
+    className="card-content"
+  >
+    <article
+      className="media"
+    >
+      <div
+        className="media-left"
+      >
+        <figure
+          className="image is-48x48"
+        >
+          <img
+            src="https://via.placeholder.com/96x96"
+          />
+        </figure>
+      </div>
+      <div
+        className="media-content"
+      >
+        <h1
+          className="title is-4"
+        >
+          The Silent Street
+        </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          TSS
+        </h2>
+      </div>
+    </article>
+    <div
+      className="content"
+    >
+      Battle of Pelennor
+      <br />
+      <small>
+        Level: 
+        75
+         - 115
+      </small>
+    </div>
   </div>,
 ]
 `;
