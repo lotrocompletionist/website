@@ -1,5 +1,5 @@
-import React from "react";
-import renderer from "react-test-renderer";
+import * as React from "react";
+import { create } from "react-test-renderer";
 import { Raid } from "./Raid";
 import { Challenge, Availability, Tiers, Group } from "../../data/models";
 
@@ -20,6 +20,6 @@ test("<Raid> renders correctly", () => {
     challenge: Challenge.Daily,
     cluster: "Shadows of Angmar"
   };
-  const tree = renderer.create(<Raid raid={raid} />).toJSON();
+  const tree = create(<Raid raid={raid} />).toJSON();
   expect(tree).toMatchSnapshot();
 });
