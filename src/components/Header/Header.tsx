@@ -17,13 +17,13 @@ import {
   Button
 } from "bloomer";
 
-import "./Header.scss"
+import "./Header.scss";
 import icon from "../../assets/icon.png";
 
 interface HeaderProps {}
 
 interface HeaderState {
-  isActive: boolean
+  isActive: boolean;
 }
 
 export class Header extends React.Component<HeaderProps, HeaderState> {
@@ -34,18 +34,21 @@ export class Header extends React.Component<HeaderProps, HeaderState> {
 
   onClickNav = () => {
     this.setState({ isActive: !this.state.isActive });
-  }
+  };
 
   render() {
-    return  (
+    return (
       <Navbar className="Header is-link">
         <NavbarBrand>
           <NavbarItem href="/">
             <img src={icon} className="icon" /> LoTRO completionist
           </NavbarItem>
-          <NavbarBurger isActive={this.state.isActive} onClick={this.onClickNav}>
-            <span></span>
-            <span></span>
+          <NavbarBurger
+            isActive={this.state.isActive}
+            onClick={this.onClickNav}
+          >
+            <span />
+            <span />
           </NavbarBurger>
         </NavbarBrand>
         <NavbarMenu isActive={this.state.isActive} onClick={this.onClickNav}>
@@ -57,4 +60,4 @@ export class Header extends React.Component<HeaderProps, HeaderState> {
       </Navbar>
     );
   }
-};
+}

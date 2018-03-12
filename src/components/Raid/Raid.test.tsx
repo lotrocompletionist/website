@@ -5,29 +5,21 @@ import { Challenge, Availability, Tiers, Group } from "../../data/models";
 
 test("<Raid> renders correctly", () => {
   const raid = {
-
-    "name": "Helegrod: Spider Wing",
-    "abbreviations": [
-        "Spider-wing"
-    ],
-    "region": "The Misty Mountains",
-    "level": {
-        "minimum": 50,
-        "maximum": 115
+    name: "Helegrod: Spider Wing",
+    abbreviations: ["Spider-wing"],
+    region: "The Misty Mountains",
+    level: {
+      minimum: 50,
+      maximum: 115
     },
-    "bossEncounters": 1,
-    "tiers": Tiers.One,
-    "groups": [
-        Group.Raid
-    ],
-    "availability": [
-        Availability.VIP,
-        Availability.QuestPack
-    ],
-    "prerequisites": "",
-    "challenge": Challenge.Daily,
-    "cluster": "Shadows of Angmar"
-};
+    bossEncounters: 1,
+    tiers: Tiers.One,
+    groups: [Group.Raid],
+    availability: [Availability.VIP, Availability.QuestPack],
+    prerequisites: "",
+    challenge: Challenge.Daily,
+    cluster: "Shadows of Angmar"
+  };
   const tree = renderer.create(<Raid raid={raid} />).toJSON();
   expect(tree).toMatchSnapshot();
 });
