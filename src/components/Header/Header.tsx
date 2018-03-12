@@ -40,7 +40,7 @@ export class Header extends React.Component<HeaderProps, HeaderState> {
     return (
       <Navbar className="Header is-link">
         <NavbarBrand>
-          <NavbarItem href="/">
+          <NavbarItem>
             <img src={icon} className="icon" /> LoTRO completionist
           </NavbarItem>
           <NavbarBurger
@@ -53,8 +53,12 @@ export class Header extends React.Component<HeaderProps, HeaderState> {
         </NavbarBrand>
         <NavbarMenu isActive={this.state.isActive} onClick={this.onClickNav}>
           <NavbarStart>
-            <NavbarItem href="/instances">Instances</NavbarItem>
-            <NavbarItem href="/raids">Raids</NavbarItem>
+            <Link to="/instances" className="navbar-item">
+              Instances
+            </Link>
+            <Link to="/raids" className="navbar-item">
+              Raids
+            </Link>
           </NavbarStart>
         </NavbarMenu>
       </Navbar>

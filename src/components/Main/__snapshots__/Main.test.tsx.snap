@@ -7,16 +7,15 @@ exports[`<Main> renders correctly 1`] = `
   <div
     className="navbar-brand"
   >
-    <a
+    <div
       className="navbar-item"
-      href="/"
     >
       <img
         className="icon"
         src="icon.png"
       />
        LoTRO completionist
-    </a>
+    </div>
     <div
       className="navbar-burger"
       onClick={[Function]}
@@ -36,12 +35,14 @@ exports[`<Main> renders correctly 1`] = `
       <a
         className="navbar-item"
         href="/instances"
+        onClick={[Function]}
       >
         Instances
       </a>
       <a
         className="navbar-item"
         href="/raids"
+        onClick={[Function]}
       >
         Raids
       </a>
