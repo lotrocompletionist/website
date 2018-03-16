@@ -7,8 +7,8 @@
     "dist/"
   ],
   "scripts": {
-    "dev": "webpack-dev-server --mode development --open --history-api-fallback --env.NODE_ENV=development",
-    "build": "webpack --mode production --env.NODE_ENV=production",
+    "dev": "webpack-dev-server --mode development --open --history-api-fallback",
+    "build": "webpack --mode production",
     "deploy": "firebase deploy",
     "test": "jest",
     "test:update": "jest -u",
@@ -30,9 +30,9 @@
     "@types/react": "^16.0.40",
     "@types/react-dom": "^16.0.4",
     "@types/react-loadable": "^5.3.3",
-    "@types/react-router-dom": "^4.2.4",
+    "@types/react-router-dom": "^4.2.5",
     "@types/react-test-renderer": "^16.0.1",
-    "css-loader": "^0.28.10",
+    "css-loader": "^0.28.11",
     "file-loader": "^1.1.11",
     "html-loader": "^0.5.5",
     "html-webpack-plugin": "^3.0.6",
@@ -45,9 +45,9 @@
     "ts-loader": "^4.0.1",
     "typescript": "^2.7.2",
     "url-loader": "^1.0.1",
-    "webapp-webpack-plugin": "^1.1.2",
+    "webapp-webpack-plugin": "^1.2.0",
     "webpack": "^4.1.1",
-    "webpack-cli": "^2.0.11",
+    "webpack-cli": "^2.0.12",
     "webpack-dev-server": "^3.1.1"
   },
   "repository": {
