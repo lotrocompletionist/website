@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`<Instance> renders correctly 1`] = `
+exports[`<Skirmish> renders correctly 1`] = `
 <div
   className="card-content"
 >
@@ -24,19 +24,14 @@ exports[`<Instance> renders correctly 1`] = `
       <h1
         className="title is-4"
       >
-        Great Barrow: The Maze
+        The Siege of Gondamon
       </h1>
-      <h2
-        className="subtitle is-6"
-      >
-        Maze
-      </h2>
     </div>
   </article>
   <div
     className="content"
   >
-    Shadows of Angmar
+    Defense
     <br />
     <small>
       Level: 
@@ -44,7 +39,7 @@ exports[`<Instance> renders correctly 1`] = `
        - 115
       <br />
       Bosses: 
-      Barrow-wight Caller, Gaerdring, Gaerthel
+      Thrastar, Hergill, Agi Gatebreaker, Ghashnâkh, Sigurmar
     </small>
   </div>
 </div>

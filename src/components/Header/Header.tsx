@@ -59,6 +59,9 @@ export class Header extends React.Component<HeaderProps, HeaderState> {
             <Link to="/raids" className="navbar-item">
               Raids
             </Link>
+            <Link to="/skirmishes" className="navbar-item">
+              Skirmishes
+            </Link>
           </NavbarStart>
         </NavbarMenu>
       </Navbar>

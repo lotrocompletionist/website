@@ -11,13 +11,13 @@ import {
 } from "bloomer";
 import { Level } from "../Level/Level";
 import { Bosses } from "../Bosses/Bosses";
-import { IRaid } from "../../data/raid";
+import { ISkirmish } from "../../data/skirmish";
 
-export interface RaidProps {
-  raid: IRaid;
+export interface SkirmishProps {
+  skirmish: ISkirmish;
 }
 
-export function Raid(props: RaidProps) {
+export function Skirmish(props: SkirmishProps) {
   return (
     <>
       <CardContent>
@@ -26,19 +26,16 @@ export function Raid(props: RaidProps) {
             <Image isSize="48x48" src="https://via.placeholder.com/96x96" />
           </MediaLeft>
           <MediaContent>
-            <Title isSize={4}>{props.raid.name}</Title>
-            <Subtitle isSize={6}>
-              {props.raid.abbreviations.join(", ")}
-            </Subtitle>
+            <Title isSize={4}>{props.skirmish.name}</Title>
           </MediaContent>
         </Media>
         <Content>
-          {props.raid.cluster}
+          {props.skirmish.type}
           <br />
           <small>
-            <Level level={props.raid.level} />
+            <Level level={props.skirmish.level} />
             <br />
-            <Bosses bosses={props.raid.bosses} />
+            <Bosses bosses={props.skirmish.bosses} />
           </small>
         </Content>
       </CardContent>

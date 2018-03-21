@@ -9,11 +9,12 @@ import {
   Title,
   Subtitle
 } from "bloomer";
-import { Instance } from "../../data/models";
 import { Level } from "../Level/Level";
+import { Bosses } from "../Bosses/Bosses";
+import { IInstance } from "../../data/instance";
 
 export interface InstanceProps {
-  instance: Instance;
+  instance: IInstance;
 }
 
 export function Instance(props: InstanceProps) {
@@ -36,6 +37,8 @@ export function Instance(props: InstanceProps) {
           <br />
           <small>
             <Level level={props.instance.level} />
+            <br />
+            <Bosses bosses={props.instance.bosses} />
           </small>
         </Content>
       </CardContent>

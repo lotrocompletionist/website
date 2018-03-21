@@ -24,12 +24,12 @@ exports[`<Raid> renders correctly 1`] = `
       <h1
         className="title is-4"
       >
-        Helegrod: Spider Wing
+        Helegrod: Drake Wing
       </h1>
       <h2
         className="subtitle is-6"
       >
-        Spider-wing
+        Drake-wing
       </h2>
     </div>
   </article>
@@ -42,6 +42,9 @@ exports[`<Raid> renders correctly 1`] = `
       Level: 
       50
        - 115
+      <br />
+      Bosses: 
+      Grisgart, Praunk-Goj, Rémgoj, Burzdyr, Burzgost
     </small>
   </div>
 </div>

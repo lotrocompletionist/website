@@ -19,6 +19,11 @@ const Raids = Loadable({
   loading: Loading
 });
 
+const Skirmishes = Loadable({
+  loader: () => import("../Skirmishes/Skirmishes"),
+  loading: Loading
+});
+
 const NotFound = Loadable({
   loader: () => import("../NotFound/NotFound"),
   loading: Loading
@@ -32,6 +37,7 @@ export const Main = () => (
         <Redirect exact from="/" to="/instances" />
         <Route exact path="/instances" component={Instances} />
         <Route exact path="/raids" component={Raids} />
+        <Route exact path="/skirmishes" component={Skirmishes} />
         <Route component={NotFound} />
       </Switch>
     </>

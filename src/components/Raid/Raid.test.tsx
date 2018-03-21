@@ -1,24 +1,23 @@
 import * as React from "react";
 import { create } from "react-test-renderer";
 import { Raid } from "./Raid";
-import { Challenge, Availability, Tiers, Group } from "../../data/models";
+import { IRaid } from "../../data/raid";
 
 test("<Raid> renders correctly", () => {
-  const raid = {
-    name: "Helegrod: Spider Wing",
-    abbreviations: ["Spider-wing"],
+  const raid: IRaid = {
+    name: "Helegrod: Drake Wing",
+    abbreviations: ["Drake-wing"],
     region: "The Misty Mountains",
-    level: {
-      minimum: 50,
-      maximum: 115
-    },
+    level: { minimum: 50, maximum: 115 },
     bossEncounters: 1,
-    tiers: Tiers.One,
-    groups: [Group.Raid],
-    availability: [Availability.VIP, Availability.QuestPack],
-    prerequisites: "",
-    challenge: Challenge.Daily,
-    cluster: "Shadows of Angmar"
+    tiers: 1,
+    groups: ["Raid"],
+    availability: ["VIP", "QuestPack"],
+    challenge: "Daily",
+    cluster: "Shadows of Angmar",
+    note:
+      "In this wing of Helegrod, Drakes and Drakelings have built their nests.",
+    bosses: ["Grisgart", "Praunk-Goj", "Rémgoj", "Burzdyr", "Burzgost"]
   };
   const tree = create(<Raid raid={raid} />).toJSON();
   expect(tree).toMatchSnapshot();

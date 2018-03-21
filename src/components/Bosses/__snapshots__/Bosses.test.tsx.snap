@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Bosses> renders correctly 1`] = `
+Array [
+  "Bosses: ",
+  "Barrow-wight Caller, Gaerdring, Gaerthel",
+]
+`;
