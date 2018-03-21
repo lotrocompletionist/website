@@ -42,6 +42,9 @@ exports[`<Raid> renders correctly 1`] = `
       Level: 
       50
        - 115
+      <br />
+      Bosses: 
+      Grisgart, Praunk-Goj, Rémgoj, Burzdyr, Burzgost
     </small>
   </div>
 </div>

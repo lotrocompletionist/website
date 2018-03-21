@@ -43,6 +43,9 @@ Array [
         Level: 
         20
          - 115
+        <br />
+        Bosses: 
+        Barrow-wight Caller, Gaerdring, Gaerthel
       </small>
     </div>
   </div>,
@@ -87,6 +90,9 @@ Array [
         Level: 
         20
          - 115
+        <br />
+        Bosses: 
+        Thadúr
       </small>
     </div>
   </div>,
@@ -131,6 +137,9 @@ Array [
         Level: 
         20
          - 115
+        <br />
+        Bosses: 
+        Sambrog
       </small>
     </div>
   </div>,
@@ -175,6 +184,9 @@ Array [
         Level: 
         20
          - 115
+        <br />
+        Bosses: 
+        Umín, Spirit of the Necklace
       </small>
     </div>
   </div>,
@@ -219,6 +231,9 @@ Array [
         Level: 
         32
         
+        <br />
+        Bosses: 
+        Grimbark, Rot-heart
       </small>
     </div>
   </div>,
@@ -263,6 +278,9 @@ Array [
         Level: 
         32
         
+        <br />
+        Bosses: 
+        Ivar, Blogkritar
       </small>
     </div>
   </div>,
@@ -307,6 +325,9 @@ Array [
         Level: 
         32
         
+        <br />
+        Bosses: 
+        Dúnlang, Edan, Esyld, Raugzdrok, Vatar, Naruhel
       </small>
     </div>
   </div>,
@@ -351,6 +372,9 @@ Array [
         Level: 
         45
         
+        <br />
+        Bosses: 
+        Ashûrz, Bhoghad, Horm
       </small>
     </div>
   </div>,
@@ -395,6 +419,9 @@ Array [
         Level: 
         25
          - 115
+        <br />
+        Bosses: 
+        Zhurmat, Shiruk, Kamordî, Megoriath
       </small>
     </div>
   </div>,
@@ -439,6 +466,9 @@ Array [
         Level: 
         25
          - 115
+        <br />
+        Bosses: 
+        Warchief Búrzghâsh, Gurkâmâb, Rhavameldir
       </small>
     </div>
   </div>,
@@ -483,6 +513,9 @@ Array [
         Level: 
         25
          - 115
+        <br />
+        Bosses: 
+        Riamul, Zanthrug, Brogadan
       </small>
     </div>
   </div>,
@@ -527,6 +560,9 @@ Array [
         Level: 
         25
          - 115
+        <br />
+        Bosses: 
+        Krithmog, Einiora, Remmenaeg
       </small>
     </div>
   </div>,
@@ -571,6 +607,9 @@ Array [
         Level: 
         40
          - 115
+        <br />
+        Bosses: 
+        Nightmare, Panic, Terror
       </small>
     </div>
   </div>,
@@ -615,6 +654,9 @@ Array [
         Level: 
         40
          - 115
+        <br />
+        Bosses: 
+        Nengon
       </small>
     </div>
   </div>,
@@ -659,6 +701,9 @@ Array [
         Level: 
         40
          - 115
+        <br />
+        Bosses: 
+        Guloth, Balhest
       </small>
     </div>
   </div>,
@@ -703,6 +748,9 @@ Array [
         Level: 
         40
          - 115
+        <br />
+        Bosses: 
+        Shingrinder, Dolvaethor, Valandil of Arnor
       </small>
     </div>
   </div>,
@@ -747,6 +795,9 @@ Array [
         Level: 
         50
         
+        <br />
+        Bosses: 
+        Sorkrank, Burzfîl, Dushkâl, Akrûr, Dafrim, Kughûrz, Gríshakrum, Lâmkarn, Athpukh, Lhugrien, Brízrip, Thordragh, Morthrâng, Gruglok, Lagmâs
       </small>
     </div>
   </div>,
@@ -791,6 +842,9 @@ Array [
         Level: 
         50
         
+        <br />
+        Bosses: 
+        Urro, Barashal, Helchgam, Sálvakh, Azgoth, Avalgaith, Tárlakh, Târlug, Mormoz, Rodakhan, Múra, Gúrthul, Mordirith
       </small>
     </div>
   </div>,
@@ -835,6 +889,9 @@ Array [
         Level: 
         50
         
+        <br />
+        Bosses: 
+        Forvengwath, Afraig, Coblaith, Castellan Wisdán, Múlvuirë, Udúnion
       </small>
     </div>
   </div>,
@@ -879,6 +936,9 @@ Array [
         Level: 
         50
          - 115
+        <br />
+        Bosses: 
+        Commander Piztor, Commander Unudhu, Chieftain Gûrsh
       </small>
     </div>
   </div>,
@@ -923,6 +983,9 @@ Array [
         Level: 
         50
          - 115
+        <br />
+        Bosses: 
+        Llygad the Blade, Chief Warrior Thurgtârk, Commander Târsh
       </small>
     </div>
   </div>,
@@ -967,6 +1030,9 @@ Array [
         Level: 
         58
         
+        <br />
+        Bosses: 
+        Void-eater, Doom-speaker, Gurvand
       </small>
     </div>
   </div>,
@@ -1011,6 +1077,9 @@ Array [
         Level: 
         54
         
+        <br />
+        Bosses: 
+        Darûkûrz, Frûzgûl, Lorzgûl, Mokza, Nardurgûl, Narghug, Morhûn, Skûm, Urauth
       </small>
     </div>
   </div>,
@@ -1055,6 +1124,9 @@ Array [
         Level: 
         56
         
+        <br />
+        Bosses: 
+        Ilzkâl the Pummeler, Gothghaash the Firecaller, Dorozg the Beast Tamer, The Beast, Glothrok the Vile, Nardur the Shield, Igash the Fanatic
       </small>
     </div>
   </div>,
@@ -1099,6 +1171,9 @@ Array [
         Level: 
         58
         
+        <br />
+        Bosses: 
+        Narkû, Dhaub, Thrug, Kranklûk
       </small>
     </div>
   </div>,
@@ -1143,6 +1218,9 @@ Array [
         Level: 
         58
         
+        <br />
+        Bosses: 
+        Vrarz, Greb, Talug
       </small>
     </div>
   </div>,
@@ -1187,6 +1265,9 @@ Array [
         Level: 
         58
         
+        <br />
+        Bosses: 
+        Tramug, Dhûrz, The Lost One
       </small>
     </div>
   </div>,
@@ -1231,6 +1312,9 @@ Array [
         Level: 
         58
         
+        <br />
+        Bosses: 
+        Bonetooth, Rockjaw, Shalebiter, Old Gnawer, Cracktooth, Brúmbereth, Uammaethor, Grog, Grothulun, Nestaduan, Ulugon, Longpincer, Grimreaver, Hwandrin
       </small>
     </div>
   </div>,
@@ -1275,6 +1359,9 @@ Array [
         Level: 
         58
         
+        <br />
+        Bosses: 
+        Frost-tail, Ergoth
       </small>
     </div>
   </div>,
@@ -1319,6 +1406,9 @@ Array [
         Level: 
         58
         
+        <br />
+        Bosses: 
+        Spit-tail, Caerlûg
       </small>
     </div>
   </div>,
@@ -1363,6 +1453,9 @@ Array [
         Level: 
         58
         
+        <br />
+        Bosses: 
+        Âmbal, Bashkuga, Thaguzg
       </small>
     </div>
   </div>,
@@ -1407,6 +1500,9 @@ Array [
         Level: 
         65
          - 115
+        <br />
+        Bosses: 
+        Urcheron, Carchrien, Durkâr
       </small>
     </div>
   </div>,
@@ -1451,6 +1547,9 @@ Array [
         Level: 
         65
          - 115
+        <br />
+        Bosses: 
+        Guldur Keeper, Guldur Sentinel, Palefolk Prisoner, Broken Prisoner, The Warden
       </small>
     </div>
   </div>,
@@ -1495,6 +1594,9 @@ Array [
         Level: 
         65
          - 115
+        <br />
+        Bosses: 
+        Athgrat, Kranklob
       </small>
     </div>
   </div>,
@@ -1539,6 +1641,9 @@ Array [
         Level: 
         65
          - 115
+        <br />
+        Bosses: 
+        Urchír, Alagossír, Gorothúl, Demafaer
       </small>
     </div>
   </div>,
@@ -1583,6 +1688,9 @@ Array [
         Level: 
         65
          - 115
+        <br />
+        Bosses: 
+        Angaidh, Sidhág, Vernon Thistlethorn, Múl Dúin, Frûmolog, Ferndúr the Virulent
       </small>
     </div>
   </div>,
@@ -1627,6 +1735,9 @@ Array [
         Level: 
         65
          - 115
+        <br />
+        Bosses: 
+        Coldbear the Wight, Ghost of Coldbear, Osan, Drugoth the Death-monger
       </small>
     </div>
   </div>,
@@ -1671,6 +1782,9 @@ Array [
         Level: 
         65
          - 115
+        <br />
+        Bosses: 
+        Legbarthil, Thadúr, Úmheryn
       </small>
     </div>
   </div>,
@@ -1715,6 +1829,9 @@ Array [
         Level: 
         65
          - 115
+        <br />
+        Bosses: 
+        Gundúl, Búbhosh-grat, Dale Truitt, Gundúl, Búbhosh-grat, Dale Truitt, Búbhosh-grat
       </small>
     </div>
   </div>,
@@ -1759,6 +1876,9 @@ Array [
         Level: 
         75
         
+        <br />
+        Bosses: 
+        Huva, Dargnákh
       </small>
     </div>
   </div>,
@@ -1803,6 +1923,9 @@ Array [
         Level: 
         75
         
+        <br />
+        Bosses: 
+        Undúrz, Gathaz, Kabor, Zagh
       </small>
     </div>
   </div>,
@@ -1847,6 +1970,9 @@ Array [
         Level: 
         75
         
+        <br />
+        Bosses: 
+        Zabúrz, Fúshbraf, Ironarm
       </small>
     </div>
   </div>,
@@ -1891,6 +2017,9 @@ Array [
         Level: 
         75
         
+        <br />
+        Bosses: 
+        Dhâr, Gurbák, Ghashanuz, Penrith, The Ring-Forge of Orthanc
       </small>
     </div>
   </div>,
@@ -1935,6 +2064,9 @@ Array [
         Level: 
         75
         
+        <br />
+        Bosses: 
+        Frûshkul, Gurthúl
       </small>
     </div>
   </div>,
@@ -1979,6 +2111,9 @@ Array [
         Level: 
         20
          - 115
+        <br />
+        Bosses: 
+        Uloga, Mârubhis, Brosh
       </small>
     </div>
   </div>,
@@ -2023,6 +2158,9 @@ Array [
         Level: 
         20
          - 115
+        <br />
+        Bosses: 
+        Guthfinn, Helf
       </small>
     </div>
   </div>,
@@ -2067,6 +2205,9 @@ Array [
         Level: 
         20
          - 115
+        <br />
+        Bosses: 
+        Beremud, Dígelir
       </small>
     </div>
   </div>,
@@ -2111,6 +2252,9 @@ Array [
         Level: 
         20
          - 115
+        <br />
+        Bosses: 
+        Graz
       </small>
     </div>
   </div>,
@@ -2155,6 +2299,9 @@ Array [
         Level: 
         10
          - 115
+        <br />
+        Bosses: 
+        
       </small>
     </div>
   </div>,
@@ -2199,6 +2346,9 @@ Array [
         Level: 
         10
          - 115
+        <br />
+        Bosses: 
+        
       </small>
     </div>
   </div>,
@@ -2243,6 +2393,9 @@ Array [
         Level: 
         10
          - 115
+        <br />
+        Bosses: 
+        
       </small>
     </div>
   </div>,
@@ -2287,6 +2440,9 @@ Array [
         Level: 
         10
          - 115
+        <br />
+        Bosses: 
+        
       </small>
     </div>
   </div>,
@@ -2331,6 +2487,9 @@ Array [
         Level: 
         10
          - 115
+        <br />
+        Bosses: 
+        
       </small>
     </div>
   </div>,
@@ -2375,6 +2534,9 @@ Array [
         Level: 
         10
          - 115
+        <br />
+        Bosses: 
+        Kang-kethek, Ugturu, Kisung Teng, Thisarti, Okurayo, Zagarôth
       </small>
     </div>
   </div>,
@@ -2419,6 +2581,9 @@ Array [
         Level: 
         10
          - 115
+        <br />
+        Bosses: 
+        Ahârta, Raghathai
       </small>
     </div>
   </div>,
@@ -2463,6 +2628,9 @@ Array [
         Level: 
         10
          - 115
+        <br />
+        Bosses: 
+        Mâsorgh, Ughâsh
       </small>
     </div>
   </div>,
@@ -2507,6 +2675,9 @@ Array [
         Level: 
         50
          - 115
+        <br />
+        Bosses: 
+        Dagron, Muzgásh
       </small>
     </div>
   </div>,
@@ -2551,6 +2722,9 @@ Array [
         Level: 
         50
          - 115
+        <br />
+        Bosses: 
+        Jukotor, Thrug, Lúmithil
       </small>
     </div>
   </div>,
@@ -2595,6 +2769,9 @@ Array [
         Level: 
         50
          - 115
+        <br />
+        Bosses: 
+        Upâl-keng, The Lord of Pinions, The Black Blade of Lebenni
       </small>
     </div>
   </div>,
@@ -2639,6 +2816,9 @@ Array [
         Level: 
         75
          - 115
+        <br />
+        Bosses: 
+        
       </small>
     </div>
   </div>,
@@ -2683,6 +2863,9 @@ Array [
         Level: 
         75
          - 115
+        <br />
+        Bosses: 
+        Kálmok, Barash, Akhun, Khurat, Mumak, The Forsaken Reave
       </small>
     </div>
   </div>,
@@ -2727,6 +2910,9 @@ Array [
         Level: 
         75
          - 115
+        <br />
+        Bosses: 
+        Lintanar, Boromir, Telemnar, Tarannon Falastur, Atanatar II, The Gloom of Nurn
       </small>
     </div>
   </div>,

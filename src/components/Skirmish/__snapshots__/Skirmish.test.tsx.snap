@@ -37,6 +37,9 @@ exports[`<Skirmish> renders correctly 1`] = `
       Level: 
       20
        - 115
+      <br />
+      Bosses: 
+      Thrastar, Hergill, Agi Gatebreaker, Ghashnâkh, Sigurmar
     </small>
   </div>
 </div>

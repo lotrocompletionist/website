@@ -10,6 +10,7 @@ import {
   Subtitle
 } from "bloomer";
 import { Level } from "../Level/Level";
+import { Bosses } from "../Bosses/Bosses";
 import { ISkirmish } from "../../data/skirmish";
 
 export interface SkirmishProps {
@@ -33,6 +34,8 @@ export function Skirmish(props: SkirmishProps) {
           <br />
           <small>
             <Level level={props.skirmish.level} />
+            <br />
+            <Bosses bosses={props.skirmish.bosses} />
           </small>
         </Content>
       </CardContent>

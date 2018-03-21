@@ -10,6 +10,7 @@ import {
   Subtitle
 } from "bloomer";
 import { Level } from "../Level/Level";
+import { Bosses } from "../Bosses/Bosses";
 import { IRaid } from "../../data/raid";
 
 export interface RaidProps {
@@ -36,6 +37,8 @@ export function Raid(props: RaidProps) {
           <br />
           <small>
             <Level level={props.raid.level} />
+            <br />
+            <Bosses bosses={props.raid.bosses} />
           </small>
         </Content>
       </CardContent>

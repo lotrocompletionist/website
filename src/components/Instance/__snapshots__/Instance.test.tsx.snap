@@ -42,6 +42,9 @@ exports[`<Instance> renders correctly 1`] = `
       Level: 
       20
        - 115
+      <br />
+      Bosses: 
+      Barrow-wight Caller, Gaerdring, Gaerthel
     </small>
   </div>
 </div>

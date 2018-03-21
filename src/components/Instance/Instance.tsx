@@ -10,6 +10,7 @@ import {
   Subtitle
 } from "bloomer";
 import { Level } from "../Level/Level";
+import { Bosses } from "../Bosses/Bosses";
 import { IInstance } from "../../data/instance";
 
 export interface InstanceProps {
@@ -36,6 +37,8 @@ export function Instance(props: InstanceProps) {
           <br />
           <small>
             <Level level={props.instance.level} />
+            <br />
+            <Bosses bosses={props.instance.bosses} />
           </small>
         </Content>
       </CardContent>
