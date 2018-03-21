@@ -1,4 +1,4 @@
-import { Level } from "./level";
+import { ILevel } from "./level";
 
 export enum SkirmishType {
   Offense = "Offense",
@@ -6,16 +6,16 @@ export enum SkirmishType {
   Survival = "Survival"
 }
 
-export interface Skirmish {
+export interface ISkirmish {
   name: string;
-  level: Level;
+  level: ILevel;
   faction?: string;
   type: string;
   requirements: string[];
   bosses: string[];
 }
 
-export const skirmishes: Skirmish[] = [
+export const skirmishes: ISkirmish[] = [
   {
     name: "The Siege of Gondamon",
     level: { minimum: 20, maximum: 115 },

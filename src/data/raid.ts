@@ -1,10 +1,10 @@
-import { Level } from "./level";
+import { ILevel } from "./level";
 
-export interface Raid {
+export interface IRaid {
   name: string;
   abbreviations: string[];
   region: string;
-  level: Level;
+  level: ILevel;
   bossEncounters?: number;
   tiers: number;
   groups: string[];
@@ -16,7 +16,7 @@ export interface Raid {
   bosses: string[];
 }
 
-export const raids: Raid[] = [
+export const raids: IRaid[] = [
   {
     name: "Helegrod: Drake Wing",
     abbreviations: ["Drake-wing"],

@@ -1,8 +1,8 @@
 import * as React from "react";
-import { Level } from "../../data/models";
+import { ILevel } from "../../data/level";
 
 export interface LevelProps {
-  level: Level;
+  level: ILevel;
 }
 
 export function Level(props: LevelProps) {

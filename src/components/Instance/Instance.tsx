@@ -9,11 +9,11 @@ import {
   Title,
   Subtitle
 } from "bloomer";
-import { Instance } from "../../data/models";
 import { Level } from "../Level/Level";
+import { IInstance } from "../../data/instance";
 
 export interface InstanceProps {
-  instance: Instance;
+  instance: IInstance;
 }
 
 export function Instance(props: InstanceProps) {

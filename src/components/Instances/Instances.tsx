@@ -1,7 +1,7 @@
 import * as React from "react";
 
 import { Instance } from "../Instance/Instance";
-import { instances } from "../../data/data";
+import { instances } from "../../data/instance";
 
 export default function Instances() {
   return (
