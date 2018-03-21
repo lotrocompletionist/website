@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`<Raid> renders correctly 1`] = `
+exports[`<Skirmish> renders correctly 1`] = `
 <div
   className="card-content"
 >
@@ -24,23 +24,18 @@ exports[`<Raid> renders correctly 1`] = `
       <h1
         className="title is-4"
       >
-        Helegrod: Drake Wing
+        The Siege of Gondamon
       </h1>
-      <h2
-        className="subtitle is-6"
-      >
-        Drake-wing
-      </h2>
     </div>
   </article>
   <div
     className="content"
   >
-    Shadows of Angmar
+    Defense
     <br />
     <small>
       Level: 
-      50
+      20
        - 115
     </small>
   </div>

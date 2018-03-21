@@ -1,7 +1,51 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Instances renders correctly 1`] = `
+exports[`<Instances> renders correctly 1`] = `
 Array [
+  <div
+    className="card-content"
+  >
+    <article
+      className="media"
+    >
+      <div
+        className="media-left"
+      >
+        <figure
+          className="image is-48x48"
+        >
+          <img
+            src="https://via.placeholder.com/96x96"
+          />
+        </figure>
+      </div>
+      <div
+        className="media-content"
+      >
+        <h1
+          className="title is-4"
+        >
+          Great Barrow: The Maze
+        </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Maze
+        </h2>
+      </div>
+    </article>
+    <div
+      className="content"
+    >
+      Shadows of Angmar
+      <br />
+      <small>
+        Level: 
+        20
+         - 115
+      </small>
+    </div>
+  </div>,
   <div
     className="card-content"
   >
@@ -729,7 +773,7 @@ Array [
         <h1
           className="title is-4"
         >
-          Carn Dûm
+          Carn Dûm[4]
         </h1>
         <h2
           className="subtitle is-6"
@@ -1225,7 +1269,7 @@ Array [
     <div
       className="content"
     >
-      Scourge of Khazad-dûm (Introduced via Mirkwood)
+      Scourge of Khazad-dûm
       <br />
       <small>
         Level: 
@@ -1269,7 +1313,7 @@ Array [
     <div
       className="content"
     >
-      Scourge of Khazad-dûm (Introduced via Mirkwood)
+      Scourge of Khazad-dûm
       <br />
       <small>
         Level: 
@@ -1313,7 +1357,7 @@ Array [
     <div
       className="content"
     >
-      Scourge of Khazad-dûm (Introduced via Mirkwood)
+      Scourge of Khazad-dûm
       <br />
       <small>
         Level: 
@@ -1929,7 +1973,7 @@ Array [
     <div
       className="content"
     >
-      The Road to Erebor (Introduced via the Riders of Rohan)
+      The Road to Erebor
       <br />
       <small>
         Level: 
@@ -1973,7 +2017,7 @@ Array [
     <div
       className="content"
     >
-      The Road to Erebor (Introduced via the Riders of Rohan)
+      The Road to Erebor
       <br />
       <small>
         Level: 
@@ -2017,7 +2061,7 @@ Array [
     <div
       className="content"
     >
-      The Road to Erebor (Introduced via the Riders of Rohan)
+      The Road to Erebor
       <br />
       <small>
         Level: 
@@ -2061,7 +2105,7 @@ Array [
     <div
       className="content"
     >
-      The Road to Erebor (Introduced via the Riders of Rohan)
+      The Road to Erebor
       <br />
       <small>
         Level: 

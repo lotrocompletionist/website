@@ -46,6 +46,13 @@ exports[`<Header> renders correctly 1`] = `
       >
         Raids
       </a>
+      <a
+        className="navbar-item"
+        href="/skirmishes"
+        onClick={[Function]}
+      >
+        Skirmishes
+      </a>
     </div>
   </div>
 </nav>

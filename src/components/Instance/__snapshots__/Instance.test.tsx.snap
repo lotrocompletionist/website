@@ -24,24 +24,24 @@ exports[`<Instance> renders correctly 1`] = `
       <h1
         className="title is-4"
       >
-        The Sixteenth Hall
+        Great Barrow: The Maze
       </h1>
       <h2
         className="subtitle is-6"
       >
-        16th
+        Maze
       </h2>
     </div>
   </article>
   <div
     className="content"
   >
-    Mines of Moria
+    Shadows of Angmar
     <br />
     <small>
       Level: 
-      58
-      
+      20
+       - 115
     </small>
   </div>
 </div>
