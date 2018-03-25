@@ -1,5 +1,5 @@
 import * as React from "react";
-import { Link } from "react-router-dom";
+import { NavLink } from "react-router-dom";
 import {
   Navbar,
   NavbarBrand,
@@ -53,15 +53,27 @@ export class Header extends React.Component<HeaderProps, HeaderState> {
         </NavbarBrand>
         <NavbarMenu isActive={this.state.isActive} onClick={this.onClickNav}>
           <NavbarStart>
-            <Link to="/instances" className="navbar-item">
+            <NavLink
+              to="/instances"
+              className="navbar-item"
+              activeClassName="is-active"
+            >
               Instances
-            </Link>
-            <Link to="/raids" className="navbar-item">
+            </NavLink>
+            <NavLink
+              to="/raids"
+              className="navbar-item"
+              activeClassName="is-active"
+            >
               Raids
-            </Link>
-            <Link to="/skirmishes" className="navbar-item">
+            </NavLink>
+            <NavLink
+              to="/skirmishes"
+              className="navbar-item"
+              activeClassName="is-active"
+            >
               Skirmishes
-            </Link>
+            </NavLink>
           </NavbarStart>
         </NavbarMenu>
       </Navbar>

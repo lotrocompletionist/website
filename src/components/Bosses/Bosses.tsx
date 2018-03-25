@@ -1,10 +1,10 @@
 import * as React from "react";
-import { ILevel } from "../../data/level";
+import { IBoss } from "../../data/boss";
 
 export interface BossesProps {
-  bosses: string[];
+  bosses: IBoss[];
 }
 
 export function Bosses(props: BossesProps) {
-  return <>Bosses: {props.bosses.join(", ")}</>;
+  return <>Bosses: {props.bosses.map(boss => boss.name).join(", ")}</>;
 }
