@@ -5,6 +5,7 @@ import { IInstance } from "../../data/instance";
 
 test("<Instance> renders correctly", () => {
   const instance: IInstance = {
+    id: 1,
     name: "Great Barrow: The Maze",
     abbreviations: ["Maze"],
     region: "Bree-land",
@@ -15,7 +16,11 @@ test("<Instance> renders correctly", () => {
     challenge: "Daily",
     cluster: "Shadows of Angmar",
     note: "Located in Southern Barrow-downs, see also the Great Barrow",
-    bosses: ["Barrow-wight Caller", "Gaerdring", "Gaerthel"]
+    bosses: [
+      { id: 1, name: "Barrow-wight Caller" },
+      { id: 2, name: "Gaerdring" },
+      { id: 3, name: "Gaerthel" }
+    ]
   };
   const tree = create(<Instance instance={instance} />).toJSON();
   expect(tree).toMatchSnapshot();
