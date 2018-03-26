@@ -6,6 +6,29 @@ export interface IVirtueDeed {
   level?: number;
 }
 
+export const virtues = [
+  "Charity",
+  "Compassion",
+  "Confidence",
+  "Determination",
+  "Discipline",
+  "Empathy",
+  "Fidelity",
+  "Fortitude",
+  "Honesty",
+  "Honour",
+  "Idealism",
+  "Innocence",
+  "Justice",
+  "Loyalty",
+  "Mercy",
+  "Patience",
+  "Tolerance",
+  "Valour",
+  "Wisdom",
+  "Zeal"
+];
+
 export const virtueDeeds: IVirtueDeed[] = [
   {
     id: 1,
