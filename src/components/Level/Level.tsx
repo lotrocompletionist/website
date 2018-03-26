@@ -1,17 +1,11 @@
 import * as React from "react";
-import { ILevel } from "../../data/level";
 
 export interface LevelProps {
-  level: ILevel;
+  level?: number;
 }
 
 export function Level(props: LevelProps) {
-  const maximum = props.level.maximum ? " - " + props.level.maximum : "";
+  if (props.level === undefined) return null;
 
-  return (
-    <>
-      Level: {props.level.minimum}
-      {maximum}
-    </>
-  );
+  return <>Level: {props.level}</>;
 }

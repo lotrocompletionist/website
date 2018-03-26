@@ -10,7 +10,7 @@ import { Header } from "../Header/Header";
 import { Loading } from "../Loading/Loading";
 
 const Instances = Loadable({
-  loader: () => import("../Instances/Instances"),
+  loader: () => import("../WorldInstances/WorldInstances"),
   loading: Loading
 });
 
@@ -21,6 +21,11 @@ const Raids = Loadable({
 
 const Skirmishes = Loadable({
   loader: () => import("../Skirmishes/Skirmishes"),
+  loading: Loading
+});
+
+const VirtueDeeds = Loadable({
+  loader: () => import("../VirtueDeeds/VirtueDeeds"),
   loading: Loading
 });
 
@@ -38,6 +43,7 @@ export const Main = () => (
         <Route exact path="/instances" component={Instances} />
         <Route exact path="/raids" component={Raids} />
         <Route exact path="/skirmishes" component={Skirmishes} />
+        <Route exact path="/virtue-deeds" component={VirtueDeeds} />
         <Route component={NotFound} />
       </Switch>
     </>

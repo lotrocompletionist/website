@@ -74,6 +74,13 @@ export class Header extends React.Component<HeaderProps, HeaderState> {
             >
               Skirmishes
             </NavLink>
+            <NavLink
+              to="/virtue-deeds"
+              className="navbar-item"
+              activeClassName="is-active"
+            >
+              Virtue deeds
+            </NavLink>
           </NavbarStart>
         </NavbarMenu>
       </Navbar>

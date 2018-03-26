@@ -3,7 +3,8 @@
 exports[`<Level> renders correctly 1`] = `
 Array [
   "Level: ",
-  "10",
-  " - 20",
+  "5",
 ]
 `;
+
+exports[`<LevelRange> renders correctly with  only mimimum specified 1`] = `null`;

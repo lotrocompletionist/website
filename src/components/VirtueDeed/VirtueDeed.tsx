@@ -9,15 +9,14 @@ import {
   Title,
   Subtitle
 } from "bloomer";
-import { LevelRange } from "../LevelRange/LevelRange";
-import { Bosses } from "../Bosses/Bosses";
-import { ISkirmish } from "../../data/skirmish";
+import { IVirtueDeed } from "../../data/virtue-deed";
+import { Level } from "../Level/Level";
 
-export interface SkirmishProps {
-  skirmish: ISkirmish;
+export interface VirtueDeedProps {
+  virtueDeed: IVirtueDeed;
 }
 
-export function Skirmish(props: SkirmishProps) {
+export function VirtueDeed(props: VirtueDeedProps) {
   return (
     <>
       <CardContent>
@@ -26,16 +25,15 @@ export function Skirmish(props: SkirmishProps) {
             <Image isSize="48x48" src="https://via.placeholder.com/96x96" />
           </MediaLeft>
           <MediaContent>
-            <Title isSize={4}>{props.skirmish.name}</Title>
+            <Title isSize={4}>{props.virtueDeed.deed}</Title>
+            <Subtitle isSize={6}>{props.virtueDeed.region}</Subtitle>
           </MediaContent>
         </Media>
         <Content>
-          {props.skirmish.type}
+          {props.virtueDeed.virtue}
           <br />
           <small>
-            <LevelRange range={props.skirmish.level} />
-            <br />
-            <Bosses bosses={props.skirmish.bosses} />
+            <Level level={props.virtueDeed.level} />
           </small>
         </Content>
       </CardContent>

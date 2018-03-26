@@ -1,10 +1,10 @@
 import * as React from "react";
 import { create } from "react-test-renderer";
-import { Instance } from "./Instance";
-import { IInstance } from "../../data/instance";
+import { WorldInstance } from "./WorldInstance";
+import { IWorldInstance } from "../../data/world-instance";
 
-test("<Instance> renders correctly", () => {
-  const instance: IInstance = {
+test("<WorldInstance> renders correctly", () => {
+  const worldInstance: IWorldInstance = {
     id: 1,
     name: "Great Barrow: The Maze",
     abbreviations: ["Maze"],
@@ -22,6 +22,6 @@ test("<Instance> renders correctly", () => {
       { id: 3, name: "Gaerthel" }
     ]
   };
-  const tree = create(<Instance instance={instance} />).toJSON();
+  const tree = create(<WorldInstance worldInstance={worldInstance} />).toJSON();
   expect(tree).toMatchSnapshot();
 });

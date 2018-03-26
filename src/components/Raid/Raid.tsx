@@ -9,7 +9,7 @@ import {
   Title,
   Subtitle
 } from "bloomer";
-import { Level } from "../Level/Level";
+import { LevelRange } from "../LevelRange/LevelRange";
 import { Bosses } from "../Bosses/Bosses";
 import { IRaid } from "../../data/raid";
 
@@ -36,7 +36,7 @@ export function Raid(props: RaidProps) {
           {props.raid.cluster}
           <br />
           <small>
-            <Level level={props.raid.level} />
+            <LevelRange range={props.raid.level} />
             <br />
             <Bosses bosses={props.raid.bosses} />
           </small>
