@@ -7,7 +7,7 @@ export default function WorldInstances() {
   return (
     <>
       {worldInstances.map(worldInstance => (
-        <WorldInstance key={worldInstance.name} worldInstance={worldInstance} />
+        <WorldInstance key={worldInstance.id} worldInstance={worldInstance} />
       ))}
     </>
   );

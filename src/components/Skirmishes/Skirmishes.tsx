@@ -6,7 +6,7 @@ export default function Skirmishes() {
   return (
     <>
       {skirmishes.map(skirmish => (
-        <Skirmish key={skirmish.name} skirmish={skirmish} />
+        <Skirmish key={skirmish.id} skirmish={skirmish} />
       ))}
     </>
   );
