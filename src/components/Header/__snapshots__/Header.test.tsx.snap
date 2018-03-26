@@ -33,23 +33,29 @@ exports[`<Header> renders correctly 1`] = `
       className="navbar-start"
     >
       <a
+        aria-current={false}
         className="navbar-item"
         href="/instances"
         onClick={[Function]}
+        style={undefined}
       >
         Instances
       </a>
       <a
+        aria-current={false}
         className="navbar-item"
         href="/raids"
         onClick={[Function]}
+        style={undefined}
       >
         Raids
       </a>
       <a
+        aria-current={false}
         className="navbar-item"
         href="/skirmishes"
         onClick={[Function]}
+        style={undefined}
       >
         Skirmishes
       </a>

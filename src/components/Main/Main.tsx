@@ -10,7 +10,7 @@ import { Header } from "../Header/Header";
 import { Loading } from "../Loading/Loading";
 
 const Instances = Loadable({
-  loader: () => import("../Instances/Instances"),
+  loader: () => import("../WorldInstances/WorldInstances"),
   loading: Loading
 });
 

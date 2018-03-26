@@ -1,4 +1,4 @@
-import { ILevel } from "./level";
+import { ILevelRange } from "./level-range";
 import { IBoss } from "./boss";
 
 export enum SkirmishType {
@@ -10,7 +10,7 @@ export enum SkirmishType {
 export interface ISkirmish {
   id: number;
   name: string;
-  level: ILevel;
+  level: ILevelRange;
   faction?: string;
   type: string;
   requirements: string[];

@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`<Instances> renders correctly 1`] = `
+exports[`<WorldInstances> renders correctly 1`] = `
 Array [
   <div
     className="card-content"

@@ -9,15 +9,15 @@ import {
   Title,
   Subtitle
 } from "bloomer";
-import { Level } from "../Level/Level";
+import { LevelRange } from "../LevelRange/LevelRange";
 import { Bosses } from "../Bosses/Bosses";
-import { IInstance } from "../../data/instance";
+import { IWorldInstance } from "../../data/world-instance";
 
-export interface InstanceProps {
-  instance: IInstance;
+export interface WorldInstanceProps {
+  worldInstance: IWorldInstance;
 }
 
-export function Instance(props: InstanceProps) {
+export function WorldInstance(props: WorldInstanceProps) {
   return (
     <>
       <CardContent>
@@ -26,19 +26,19 @@ export function Instance(props: InstanceProps) {
             <Image isSize="48x48" src="https://via.placeholder.com/96x96" />
           </MediaLeft>
           <MediaContent>
-            <Title isSize={4}>{props.instance.name}</Title>
+            <Title isSize={4}>{props.worldInstance.name}</Title>
             <Subtitle isSize={6}>
-              {props.instance.abbreviations.join(", ")}
+              {props.worldInstance.abbreviations.join(", ")}
             </Subtitle>
           </MediaContent>
         </Media>
         <Content>
-          {props.instance.cluster}
+          {props.worldInstance.cluster}
           <br />
           <small>
-            <Level level={props.instance.level} />
+            <LevelRange range={props.worldInstance.level} />
             <br />
-            <Bosses bosses={props.instance.bosses} />
+            <Bosses bosses={props.worldInstance.bosses} />
           </small>
         </Content>
       </CardContent>

@@ -1,12 +1,12 @@
-import { ILevel } from "./level";
+import { ILevelRange } from "./level-range";
 import { IBoss } from "./boss";
 
-export interface IInstance {
+export interface IWorldInstance {
   id: number;
   name: string;
   abbreviations: string[];
   region: string;
-  level: ILevel;
+  level: ILevelRange;
   tiers: number;
   groups: string[];
   availability: string[];
@@ -17,7 +17,7 @@ export interface IInstance {
   bosses: IBoss[];
 }
 
-export const instances: IInstance[] = [
+export const worldInstances: IWorldInstance[] = [
   {
     id: 1,
     name: "Great Barrow: The Maze",

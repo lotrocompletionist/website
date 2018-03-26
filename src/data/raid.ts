@@ -1,4 +1,4 @@
-import { ILevel } from "./level";
+import { ILevelRange } from "./level-range";
 import { IBoss } from "./boss";
 
 export interface IRaid {
@@ -6,7 +6,7 @@ export interface IRaid {
   name: string;
   abbreviations: string[];
   region: string;
-  level: ILevel;
+  level: ILevelRange;
   bossEncounters?: number;
   tiers: number;
   groups: string[];

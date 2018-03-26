@@ -9,7 +9,7 @@ import {
   Title,
   Subtitle
 } from "bloomer";
-import { Level } from "../Level/Level";
+import { LevelRange } from "../LevelRange/LevelRange";
 import { Bosses } from "../Bosses/Bosses";
 import { ISkirmish } from "../../data/skirmish";
 
@@ -33,7 +33,7 @@ export function Skirmish(props: SkirmishProps) {
           {props.skirmish.type}
           <br />
           <small>
-            <Level level={props.skirmish.level} />
+            <LevelRange range={props.skirmish.level} />
             <br />
             <Bosses bosses={props.skirmish.bosses} />
           </small>
