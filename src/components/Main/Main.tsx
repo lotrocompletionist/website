@@ -24,6 +24,11 @@ const Skirmishes = Loadable({
   loading: Loading
 });
 
+const VirtueDeeds = Loadable({
+  loader: () => import("../VirtueDeeds/VirtueDeeds"),
+  loading: Loading
+});
+
 const NotFound = Loadable({
   loader: () => import("../NotFound/NotFound"),
   loading: Loading
@@ -38,6 +43,7 @@ export const Main = () => (
         <Route exact path="/instances" component={Instances} />
         <Route exact path="/raids" component={Raids} />
         <Route exact path="/skirmishes" component={Skirmishes} />
+        <Route exact path="/virtue-deeds" component={VirtueDeeds} />
         <Route component={NotFound} />
       </Switch>
     </>

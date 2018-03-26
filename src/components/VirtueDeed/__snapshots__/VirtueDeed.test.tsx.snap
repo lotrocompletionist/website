@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<VirtueDeed> renders correctly 1`] = `
+<div
+  className="card-content"
+>
+  <article
+    className="media"
+  >
+    <div
+      className="media-left"
+    >
+      <figure
+        className="image is-48x48"
+      >
+        <img
+          src="https://via.placeholder.com/96x96"
+        />
+      </figure>
+    </div>
+    <div
+      className="media-content"
+    >
+      <h1
+        className="title is-4"
+      >
+        Bree-land Adventurer (Advanced)
+      </h1>
+    </div>
+  </article>
+  <div
+    className="content"
+  >
+    Charity
+    <br />
+    <small>
+      4
+      <br />
+      Bree-land Deeds
+    </small>
+  </div>
+</div>
+`;

@@ -59,6 +59,15 @@ exports[`<Main> renders correctly 1`] = `
       >
         Skirmishes
       </a>
+      <a
+        aria-current={false}
+        className="navbar-item"
+        href="/virtue-deeds"
+        onClick={[Function]}
+        style={undefined}
+      >
+        Virtue deeds
+      </a>
     </div>
   </div>
 </nav>

@@ -4,7 +4,7 @@ import { Skirmish } from "./Skirmish";
 import { ISkirmish } from "../../data/skirmish";
 
 test("<Skirmish> renders correctly", () => {
-  const instance: ISkirmish = {
+  const skirmish: ISkirmish = {
     id: 1,
     name: "The Siege of Gondamon",
     level: { minimum: 20, maximum: 115 },
@@ -19,6 +19,6 @@ test("<Skirmish> renders correctly", () => {
       { id: 5, name: "Sigurmar" }
     ]
   };
-  const tree = create(<Skirmish skirmish={instance} />).toJSON();
+  const tree = create(<Skirmish skirmish={skirmish} />).toJSON();
   expect(tree).toMatchSnapshot();
 });
