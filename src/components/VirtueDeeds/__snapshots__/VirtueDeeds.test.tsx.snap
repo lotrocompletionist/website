@@ -27,6 +27,11 @@ Array [
         >
           Bree-land Adventurer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Bree-land
+        </h2>
       </div>
     </article>
     <div
@@ -35,9 +40,8 @@ Array [
       Charity
       <br />
       <small>
+        Level: 
         4
-        <br />
-        Bree-land Deeds
       </small>
     </div>
   </div>,
@@ -66,6 +70,11 @@ Array [
         >
           Ally of Ered Luin
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Ered Luin
+        </h2>
       </div>
     </article>
     <div
@@ -74,9 +83,8 @@ Array [
       Charity
       <br />
       <small>
+        Level: 
         1
-        <br />
-        Ered Luin Deeds
       </small>
     </div>
   </div>,
@@ -105,6 +113,11 @@ Array [
         >
           Hero of Ered Luin
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Ered Luin
+        </h2>
       </div>
     </article>
     <div
@@ -113,9 +126,8 @@ Array [
       Charity
       <br />
       <small>
+        Level: 
         6
-        <br />
-        Ered Luin Deeds
       </small>
     </div>
   </div>,
@@ -144,6 +156,11 @@ Array [
         >
           Of Glories Long Past (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The North Downs
+        </h2>
       </div>
     </article>
     <div
@@ -152,9 +169,8 @@ Array [
       Charity
       <br />
       <small>
+        Level: 
         22
-        <br />
-        The North Downs Deeds
       </small>
     </div>
   </div>,
@@ -183,6 +199,11 @@ Array [
         >
           Tales of the Lonely Road
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The Lone-lands
+        </h2>
       </div>
     </article>
     <div
@@ -191,9 +212,8 @@ Array [
       Charity
       <br />
       <small>
+        Level: 
         8
-        <br />
-        The Lone-lands Deeds
       </small>
     </div>
   </div>,
@@ -222,6 +242,11 @@ Array [
         >
           The Minions of Wisdán (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Angmar
+        </h2>
       </div>
     </article>
     <div
@@ -230,9 +255,8 @@ Array [
       Charity
       <br />
       <small>
+        Level: 
         45
-        <br />
-        Angmar Deeds
       </small>
     </div>
   </div>,
@@ -261,6 +285,11 @@ Array [
         >
           Forochel Expeditionary
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Forochel
+        </h2>
       </div>
     </article>
     <div
@@ -269,9 +298,8 @@ Array [
       Charity
       <br />
       <small>
+        Level: 
         39
-        <br />
-        Forochel Deeds
       </small>
     </div>
   </div>,
@@ -300,6 +328,11 @@ Array [
         >
           Silent and Restless (Intermediate)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Eregion
+        </h2>
       </div>
     </article>
     <div
@@ -308,9 +341,8 @@ Array [
       Charity
       <br />
       <small>
+        Level: 
         50
-        <br />
-        Eregion Deeds
       </small>
     </div>
   </div>,
@@ -339,6 +371,11 @@ Array [
         >
           Defilers of the Forgotten Treasury (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Moria
+        </h2>
       </div>
     </article>
     <div
@@ -347,9 +384,8 @@ Array [
       Charity
       <br />
       <small>
+        Level: 
         50
-        <br />
-        Moria Deeds
       </small>
     </div>
   </div>,
@@ -378,6 +414,11 @@ Array [
         >
           The Vile Maw
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Moria
+        </h2>
       </div>
     </article>
     <div
@@ -386,9 +427,8 @@ Array [
       Charity
       <br />
       <small>
+        Level: 
         55
-        <br />
-        Moria Deeds
       </small>
     </div>
   </div>,
@@ -417,6 +457,11 @@ Array [
         >
           Legend of the Deeps
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Moria
+        </h2>
       </div>
     </article>
     <div
@@ -425,9 +470,8 @@ Array [
       Charity
       <br />
       <small>
+        Level: 
         50
-        <br />
-        Moria Deeds
       </small>
     </div>
   </div>,
@@ -456,6 +500,11 @@ Array [
         >
           Quests of the Great Delving
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Moria
+        </h2>
       </div>
     </article>
     <div
@@ -464,9 +513,8 @@ Array [
       Charity
       <br />
       <small>
+        Level: 
         50
-        <br />
-        Moria Deeds
       </small>
     </div>
   </div>,
@@ -495,6 +543,11 @@ Array [
         >
           Quests of the Dimrill Dale
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Moria
+        </h2>
       </div>
     </article>
     <div
@@ -503,9 +556,8 @@ Array [
       Charity
       <br />
       <small>
+        Level: 
         55
-        <br />
-        Moria Deeds
       </small>
     </div>
   </div>,
@@ -534,6 +586,11 @@ Array [
         >
           Adventurer in the Upper Levels
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Moria
+        </h2>
       </div>
     </article>
     <div
@@ -542,9 +599,8 @@ Array [
       Charity
       <br />
       <small>
+        Level: 
         55
-        <br />
-        Moria Deeds
       </small>
     </div>
   </div>,
@@ -573,6 +629,11 @@ Array [
         >
           Mysteries of Enedwaith (Intermediate)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Enedwaith
+        </h2>
       </div>
     </article>
     <div
@@ -581,9 +642,8 @@ Array [
       Charity
       <br />
       <small>
+        Level: 
         62
-        <br />
-        Enedwaith Deeds
       </small>
     </div>
   </div>,
@@ -612,6 +672,11 @@ Array [
         >
           Exploring Starkmoor
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Dunland
+        </h2>
       </div>
     </article>
     <div
@@ -620,9 +685,8 @@ Array [
       Charity
       <br />
       <small>
+        Level: 
         65
-        <br />
-        Dunland Deeds
       </small>
     </div>
   </div>,
@@ -651,6 +715,11 @@ Array [
         >
           Goblin-slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Dunland
+        </h2>
       </div>
     </article>
     <div
@@ -659,9 +728,8 @@ Array [
       Charity
       <br />
       <small>
+        Level: 
         65
-        <br />
-        Dunland Deeds
       </small>
     </div>
   </div>,
@@ -690,6 +758,11 @@ Array [
         >
           Quests of Dunland
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Dunland
+        </h2>
       </div>
     </article>
     <div
@@ -698,9 +771,8 @@ Array [
       Charity
       <br />
       <small>
+        Level: 
         70
-        <br />
-        Dunland Deeds
       </small>
     </div>
   </div>,
@@ -729,6 +801,11 @@ Array [
         >
           Cities of Eastern Rohan
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          East Rohan
+        </h2>
       </div>
     </article>
     <div
@@ -737,9 +814,8 @@ Array [
       Charity
       <br />
       <small>
+        Level: 
         75
-        <br />
-        East Rohan Deeds
       </small>
     </div>
   </div>,
@@ -768,6 +844,11 @@ Array [
         >
           Ancient Evil-slayer of the Eastemnet (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          East Rohan
+        </h2>
       </div>
     </article>
     <div
@@ -776,9 +857,8 @@ Array [
       Charity
       <br />
       <small>
+        Level: 
         75
-        <br />
-        East Rohan Deeds
       </small>
     </div>
   </div>,
@@ -807,6 +887,11 @@ Array [
         >
           Settlements of Wildermore
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Wildermore
+        </h2>
       </div>
     </article>
     <div
@@ -815,9 +900,8 @@ Array [
       Charity
       <br />
       <small>
+        Level: 
         85
-        <br />
-        Wildermore Deeds
       </small>
     </div>
   </div>,
@@ -846,6 +930,11 @@ Array [
         >
           Broadacres Exploration
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          West Rohan
+        </h2>
       </div>
     </article>
     <div
@@ -854,9 +943,8 @@ Array [
       Charity
       <br />
       <small>
+        Level: 
         95
-        <br />
-        West Rohan Deeds
       </small>
     </div>
   </div>,
@@ -885,6 +973,11 @@ Array [
         >
           Warg Slayer of the Westemnet (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          West Rohan
+        </h2>
       </div>
     </article>
     <div
@@ -893,9 +986,8 @@ Array [
       Charity
       <br />
       <small>
+        Level: 
         95
-        <br />
-        West Rohan Deeds
       </small>
     </div>
   </div>,
@@ -924,6 +1016,11 @@ Array [
         >
           The Legacy of Pelargir
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Central Gondor
+        </h2>
       </div>
     </article>
     <div
@@ -932,9 +1029,8 @@ Array [
       Charity
       <br />
       <small>
+        Level: 
         100
-        <br />
-        Central Gondor Deeds
       </small>
     </div>
   </div>,
@@ -963,6 +1059,11 @@ Array [
         >
           Quests of Upper Lebennin
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Eastern Gondor
+        </h2>
       </div>
     </article>
     <div
@@ -971,9 +1072,8 @@ Array [
       Charity
       <br />
       <small>
+        Level: 
         100
-        <br />
-        Eastern Gondor Deeds
       </small>
     </div>
   </div>,
@@ -1002,6 +1102,11 @@ Array [
         >
           Old Anórien Farms
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Old Anórien
+        </h2>
       </div>
     </article>
     <div
@@ -1010,9 +1115,8 @@ Array [
       Charity
       <br />
       <small>
+        Level: 
         100
-        <br />
-        Old Anórien Deeds
       </small>
     </div>
   </div>,
@@ -1041,6 +1145,11 @@ Array [
         >
           Deeds of North Ithilien
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          March of the King
+        </h2>
       </div>
     </article>
     <div
@@ -1048,10 +1157,7 @@ Array [
     >
       Charity
       <br />
-      <small>
-        <br />
-        March of the King Deeds
-      </small>
+      <small />
     </div>
   </div>,
   <div
@@ -1079,6 +1185,11 @@ Array [
         >
           The Life of a Bounder
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The Shire
+        </h2>
       </div>
     </article>
     <div
@@ -1087,9 +1198,8 @@ Array [
       Compassion
       <br />
       <small>
+        Level: 
         1
-        <br />
-        The Shire Deeds
       </small>
     </div>
   </div>,
@@ -1118,6 +1228,11 @@ Array [
         >
           Defender of Ered Luin
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Ered Luin
+        </h2>
       </div>
     </article>
     <div
@@ -1126,9 +1241,8 @@ Array [
       Compassion
       <br />
       <small>
+        Level: 
         3
-        <br />
-        Ered Luin Deeds
       </small>
     </div>
   </div>,
@@ -1157,6 +1271,11 @@ Array [
         >
           Tales of the Lonely Road (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The Lone-lands
+        </h2>
       </div>
     </article>
     <div
@@ -1165,9 +1284,8 @@ Array [
       Compassion
       <br />
       <small>
+        Level: 
         10
-        <br />
-        The Lone-lands Deeds
       </small>
     </div>
   </div>,
@@ -1196,6 +1314,11 @@ Array [
         >
           Peril of the Mountains
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The Misty Mountains
+        </h2>
       </div>
     </article>
     <div
@@ -1204,9 +1327,8 @@ Array [
       Compassion
       <br />
       <small>
+        Level: 
         35
-        <br />
-        The Misty Mountains Deeds
       </small>
     </div>
   </div>,
@@ -1235,6 +1357,11 @@ Array [
         >
           Wanderer of Evendim
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Evendim
+        </h2>
       </div>
     </article>
     <div
@@ -1243,9 +1370,8 @@ Array [
       Compassion
       <br />
       <small>
+        Level: 
         25
-        <br />
-        Evendim Deeds
       </small>
     </div>
   </div>,
@@ -1274,6 +1400,11 @@ Array [
         >
           Warden of Evendim
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Evendim
+        </h2>
       </div>
     </article>
     <div
@@ -1282,9 +1413,8 @@ Array [
       Compassion
       <br />
       <small>
+        Level: 
         25
-        <br />
-        Evendim Deeds
       </small>
     </div>
   </div>,
@@ -1313,6 +1443,11 @@ Array [
         >
           Allies of the Enemy (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Angmar
+        </h2>
       </div>
     </article>
     <div
@@ -1321,9 +1456,8 @@ Array [
       Compassion
       <br />
       <small>
+        Level: 
         45
-        <br />
-        Angmar Deeds
       </small>
     </div>
   </div>,
@@ -1352,6 +1486,11 @@ Array [
         >
           Forochel Pioneer
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Forochel
+        </h2>
       </div>
     </article>
     <div
@@ -1360,9 +1499,8 @@ Array [
       Compassion
       <br />
       <small>
+        Level: 
         43
-        <br />
-        Forochel Deeds
       </small>
     </div>
   </div>,
@@ -1391,6 +1529,11 @@ Array [
         >
           Silent and Restless (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Eregion
+        </h2>
       </div>
     </article>
     <div
@@ -1399,9 +1542,8 @@ Array [
       Compassion
       <br />
       <small>
+        Level: 
         50
-        <br />
-        Eregion Deeds
       </small>
     </div>
   </div>,
@@ -1430,6 +1572,11 @@ Array [
         >
           Invaders of Tham Mírdain (Complete)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Eregion
+        </h2>
       </div>
     </article>
     <div
@@ -1438,9 +1585,8 @@ Array [
       Compassion
       <br />
       <small>
+        Level: 
         50
-        <br />
-        Eregion Deeds
       </small>
     </div>
   </div>,
@@ -1469,6 +1615,11 @@ Array [
         >
           Globsnaga-slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Moria
+        </h2>
       </div>
     </article>
     <div
@@ -1477,9 +1628,8 @@ Array [
       Compassion
       <br />
       <small>
+        Level: 
         50
-        <br />
-        Moria Deeds
       </small>
     </div>
   </div>,
@@ -1508,6 +1658,11 @@ Array [
         >
           Brutes of the Grand Stair (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Moria
+        </h2>
       </div>
     </article>
     <div
@@ -1516,9 +1671,8 @@ Array [
       Compassion
       <br />
       <small>
+        Level: 
         55
-        <br />
-        Moria Deeds
       </small>
     </div>
   </div>,
@@ -1547,6 +1701,11 @@ Array [
         >
           Quests of the Foundations of Stone
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Moria
+        </h2>
       </div>
     </article>
     <div
@@ -1555,9 +1714,8 @@ Array [
       Compassion
       <br />
       <small>
+        Level: 
         55
-        <br />
-        Moria Deeds
       </small>
     </div>
   </div>,
@@ -1586,6 +1744,11 @@ Array [
         >
           Orc and Uruk-slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Mirkwood
+        </h2>
       </div>
     </article>
     <div
@@ -1594,9 +1757,8 @@ Array [
       Compassion
       <br />
       <small>
+        Level: 
         60
-        <br />
-        Mirkwood Deeds
       </small>
     </div>
   </div>,
@@ -1625,6 +1787,11 @@ Array [
         >
           Exploring Pren Gwydh
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Dunland
+        </h2>
       </div>
     </article>
     <div
@@ -1633,9 +1800,8 @@ Array [
       Compassion
       <br />
       <small>
+        Level: 
         65
-        <br />
-        Dunland Deeds
       </small>
     </div>
   </div>,
@@ -1664,6 +1830,11 @@ Array [
         >
           Slayer of Dunland
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Dunland
+        </h2>
       </div>
     </article>
     <div
@@ -1672,9 +1843,8 @@ Array [
       Compassion
       <br />
       <small>
+        Level: 
         65
-        <br />
-        Dunland Deeds
       </small>
     </div>
   </div>,
@@ -1703,6 +1873,11 @@ Array [
         >
           Brown Lands Explorer
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The Great River
+        </h2>
       </div>
     </article>
     <div
@@ -1711,9 +1886,8 @@ Array [
       Compassion
       <br />
       <small>
+        Level: 
         70
-        <br />
-        The Great River Deeds
       </small>
     </div>
   </div>,
@@ -1742,6 +1916,11 @@ Array [
         >
           East Wall Explorer
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          East Rohan
+        </h2>
       </div>
     </article>
     <div
@@ -1750,9 +1929,8 @@ Array [
       Compassion
       <br />
       <small>
+        Level: 
         75
-        <br />
-        East Rohan Deeds
       </small>
     </div>
   </div>,
@@ -1781,6 +1959,11 @@ Array [
         >
           Quests of the Wold
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          East Rohan
+        </h2>
       </div>
     </article>
     <div
@@ -1789,9 +1972,8 @@ Array [
       Compassion
       <br />
       <small>
+        Level: 
         75
-        <br />
-        East Rohan Deeds
       </small>
     </div>
   </div>,
@@ -1820,6 +2002,11 @@ Array [
         >
           Slayer of Wolves and Wargs in Wildermore (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Wildermore
+        </h2>
       </div>
     </article>
     <div
@@ -1828,9 +2015,8 @@ Array [
       Compassion
       <br />
       <small>
+        Level: 
         85
-        <br />
-        Wildermore Deeds
       </small>
     </div>
   </div>,
@@ -1859,6 +2045,11 @@ Array [
         >
           Uruk Slayer of the Westemnet (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          West Rohan
+        </h2>
       </div>
     </article>
     <div
@@ -1867,9 +2058,8 @@ Array [
       Compassion
       <br />
       <small>
+        Level: 
         95
-        <br />
-        West Rohan Deeds
       </small>
     </div>
   </div>,
@@ -1898,6 +2088,11 @@ Array [
         >
           Oath-breaker Slayer of West Gondor (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Western Gondor
+        </h2>
       </div>
     </article>
     <div
@@ -1906,9 +2101,8 @@ Array [
       Compassion
       <br />
       <small>
+        Level: 
         95
-        <br />
-        Western Gondor Deeds
       </small>
     </div>
   </div>,
@@ -1937,6 +2131,11 @@ Array [
         >
           Beast-slayer of Central Gondor (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Central Gondor
+        </h2>
       </div>
     </article>
     <div
@@ -1945,9 +2144,8 @@ Array [
       Compassion
       <br />
       <small>
+        Level: 
         100
-        <br />
-        Central Gondor Deeds
       </small>
     </div>
   </div>,
@@ -1976,6 +2174,11 @@ Array [
         >
           Rath Teraig Exploration
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Ered Luin
+        </h2>
       </div>
     </article>
     <div
@@ -1984,9 +2187,8 @@ Array [
       Confidence
       <br />
       <small>
+        Level: 
         6
-        <br />
-        Ered Luin Deeds
       </small>
     </div>
   </div>,
@@ -2015,6 +2217,11 @@ Array [
         >
           Strongholds Exploration
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The North Downs
+        </h2>
       </div>
     </article>
     <div
@@ -2023,9 +2230,8 @@ Array [
       Confidence
       <br />
       <small>
+        Level: 
         27
-        <br />
-        The North Downs Deeds
       </small>
     </div>
   </div>,
@@ -2054,6 +2260,11 @@ Array [
         >
           The Grimfens
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The Lone-lands
+        </h2>
       </div>
     </article>
     <div
@@ -2062,9 +2273,8 @@ Array [
       Confidence
       <br />
       <small>
+        Level: 
         20
-        <br />
-        The Lone-lands Deeds
       </small>
     </div>
   </div>,
@@ -2093,6 +2303,11 @@ Array [
         >
           Garth Agarwen Exploration
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The Lone-lands
+        </h2>
       </div>
     </article>
     <div
@@ -2101,9 +2316,8 @@ Array [
       Confidence
       <br />
       <small>
+        Level: 
         30
-        <br />
-        The Lone-lands Deeds
       </small>
     </div>
   </div>,
@@ -2132,6 +2346,11 @@ Array [
         >
           Where Giants Dwell
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The Misty Mountains
+        </h2>
       </div>
     </article>
     <div
@@ -2140,9 +2359,8 @@ Array [
       Confidence
       <br />
       <small>
+        Level: 
         35
-        <br />
-        The Misty Mountains Deeds
       </small>
     </div>
   </div>,
@@ -2171,6 +2389,11 @@ Array [
         >
           The Road to War
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Angmar
+        </h2>
       </div>
     </article>
     <div
@@ -2179,9 +2402,8 @@ Array [
       Confidence
       <br />
       <small>
+        Level: 
         25
-        <br />
-        Angmar Deeds
       </small>
     </div>
   </div>,
@@ -2210,6 +2432,11 @@ Array [
         >
           The Angmarim of Carn Dûm (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Angmar
+        </h2>
       </div>
     </article>
     <div
@@ -2218,9 +2445,8 @@ Array [
       Confidence
       <br />
       <small>
+        Level: 
         45
-        <br />
-        Angmar Deeds
       </small>
     </div>
   </div>,
@@ -2249,6 +2475,11 @@ Array [
         >
           Angmarim-slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Forochel
+        </h2>
       </div>
     </article>
     <div
@@ -2257,9 +2488,8 @@ Array [
       Confidence
       <br />
       <small>
+        Level: 
         42
-        <br />
-        Forochel Deeds
       </small>
     </div>
   </div>,
@@ -2288,6 +2518,11 @@ Array [
         >
           Troll-slayer (Advanced) (Moria)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Moria
+        </h2>
       </div>
     </article>
     <div
@@ -2296,9 +2531,8 @@ Array [
       Confidence
       <br />
       <small>
+        Level: 
         50
-        <br />
-        Moria Deeds
       </small>
     </div>
   </div>,
@@ -2327,6 +2561,11 @@ Array [
         >
           The Cliffs of Zirakzigil
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Moria
+        </h2>
       </div>
     </article>
     <div
@@ -2335,9 +2574,8 @@ Array [
       Confidence
       <br />
       <small>
+        Level: 
         53
-        <br />
-        Moria Deeds
       </small>
     </div>
   </div>,
@@ -2366,6 +2604,11 @@ Array [
         >
           Mysteries of Enedwaith
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Enedwaith
+        </h2>
       </div>
     </article>
     <div
@@ -2374,9 +2617,8 @@ Array [
       Confidence
       <br />
       <small>
+        Level: 
         62
-        <br />
-        Enedwaith Deeds
       </small>
     </div>
   </div>,
@@ -2405,6 +2647,11 @@ Array [
         >
           Wolf and Shadow-wolf Slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Enedwaith
+        </h2>
       </div>
     </article>
     <div
@@ -2413,9 +2660,8 @@ Array [
       Confidence
       <br />
       <small>
+        Level: 
         62
-        <br />
-        Enedwaith Deeds
       </small>
     </div>
   </div>,
@@ -2444,6 +2690,11 @@ Array [
         >
           Quests in Trum Dreng
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Dunland
+        </h2>
       </div>
     </article>
     <div
@@ -2452,9 +2703,8 @@ Array [
       Confidence
       <br />
       <small>
+        Level: 
         60
-        <br />
-        Dunland Deeds
       </small>
     </div>
   </div>,
@@ -2483,6 +2733,11 @@ Array [
         >
           Warg-slayer (Advanced) (Dunland)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Dunland
+        </h2>
       </div>
     </article>
     <div
@@ -2491,9 +2746,8 @@ Array [
       Confidence
       <br />
       <small>
+        Level: 
         65
-        <br />
-        Dunland Deeds
       </small>
     </div>
   </div>,
@@ -2522,6 +2776,11 @@ Array [
         >
           Quests of Parth Celebrant
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The Great River
+        </h2>
       </div>
     </article>
     <div
@@ -2530,9 +2789,8 @@ Array [
       Confidence
       <br />
       <small>
+        Level: 
         70
-        <br />
-        The Great River Deeds
       </small>
     </div>
   </div>,
@@ -2561,6 +2819,11 @@ Array [
         >
           Beast-slayer of the Eastemnet (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          East Rohan
+        </h2>
       </div>
     </article>
     <div
@@ -2569,9 +2832,8 @@ Array [
       Confidence
       <br />
       <small>
+        Level: 
         75
-        <br />
-        East Rohan Deeds
       </small>
     </div>
   </div>,
@@ -2600,6 +2862,11 @@ Array [
         >
           Forlaw Explorer
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Wildermore
+        </h2>
       </div>
     </article>
     <div
@@ -2608,9 +2875,8 @@ Array [
       Confidence
       <br />
       <small>
+        Level: 
         85
-        <br />
-        Wildermore Deeds
       </small>
     </div>
   </div>,
@@ -2639,6 +2905,11 @@ Array [
         >
           Stonedeans Exploration
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          West Rohan
+        </h2>
       </div>
     </article>
     <div
@@ -2647,9 +2918,8 @@ Array [
       Confidence
       <br />
       <small>
+        Level: 
         95
-        <br />
-        West Rohan Deeds
       </small>
     </div>
   </div>,
@@ -2678,6 +2948,11 @@ Array [
         >
           Prosperity of West Gondor
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Western Gondor
+        </h2>
       </div>
     </article>
     <div
@@ -2686,9 +2961,8 @@ Array [
       Confidence
       <br />
       <small>
+        Level: 
         100
-        <br />
-        Western Gondor Deeds
       </small>
     </div>
   </div>,
@@ -2717,6 +2991,11 @@ Array [
         >
           Central Gondor: Under Siege
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Central Gondor
+        </h2>
       </div>
     </article>
     <div
@@ -2725,9 +3004,8 @@ Array [
       Confidence
       <br />
       <small>
+        Level: 
         100
-        <br />
-        Central Gondor Deeds
       </small>
     </div>
   </div>,
@@ -2756,6 +3034,11 @@ Array [
         >
           The Legacy of Osgiliath
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Eastern Gondor
+        </h2>
       </div>
     </article>
     <div
@@ -2764,9 +3047,8 @@ Array [
       Confidence
       <br />
       <small>
+        Level: 
         100
-        <br />
-        Eastern Gondor Deeds
       </small>
     </div>
   </div>,
@@ -2795,6 +3077,11 @@ Array [
         >
           Quests of Talath Anor
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Old Anórien
+        </h2>
       </div>
     </article>
     <div
@@ -2803,9 +3090,8 @@ Array [
       Confidence
       <br />
       <small>
+        Level: 
         100
-        <br />
-        Old Anórien Deeds
       </small>
     </div>
   </div>,
@@ -2834,6 +3120,11 @@ Array [
         >
           Slug-slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The Shire
+        </h2>
       </div>
     </article>
     <div
@@ -2842,9 +3133,8 @@ Array [
       Determination
       <br />
       <small>
+        Level: 
         1
-        <br />
-        The Shire Deeds
       </small>
     </div>
   </div>,
@@ -2873,6 +3163,11 @@ Array [
         >
           Wolf-slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Ered Luin
+        </h2>
       </div>
     </article>
     <div
@@ -2881,9 +3176,8 @@ Array [
       Determination
       <br />
       <small>
+        Level: 
         1
-        <br />
-        Ered Luin Deeds
       </small>
     </div>
   </div>,
@@ -2912,6 +3206,11 @@ Array [
         >
           Barghest-slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Bree-land
+        </h2>
       </div>
     </article>
     <div
@@ -2920,9 +3219,8 @@ Array [
       Determination
       <br />
       <small>
+        Level: 
         11
-        <br />
-        Bree-land Deeds
       </small>
     </div>
   </div>,
@@ -2951,6 +3249,11 @@ Array [
         >
           Warg-slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The North Downs
+        </h2>
       </div>
     </article>
     <div
@@ -2959,9 +3262,8 @@ Array [
       Determination
       <br />
       <small>
+        Level: 
         18
-        <br />
-        The North Downs Deeds
       </small>
     </div>
   </div>,
@@ -2990,6 +3292,11 @@ Array [
         >
           Crawler-slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The Trollshaws
+        </h2>
       </div>
     </article>
     <div
@@ -2998,9 +3305,8 @@ Array [
       Determination
       <br />
       <small>
+        Level: 
         30
-        <br />
-        The Trollshaws Deeds
       </small>
     </div>
   </div>,
@@ -3029,6 +3335,11 @@ Array [
         >
           Snow-beast-slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The Misty Mountains
+        </h2>
       </div>
     </article>
     <div
@@ -3037,9 +3348,8 @@ Array [
       Determination
       <br />
       <small>
+        Level: 
         29
-        <br />
-        The Misty Mountains Deeds
       </small>
     </div>
   </div>,
@@ -3068,6 +3378,11 @@ Array [
         >
           Salamander-slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Evendim
+        </h2>
       </div>
     </article>
     <div
@@ -3076,9 +3391,8 @@ Array [
       Determination
       <br />
       <small>
+        Level: 
         26
-        <br />
-        Evendim Deeds
       </small>
     </div>
   </div>,
@@ -3107,6 +3421,11 @@ Array [
         >
           Warg-slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Angmar
+        </h2>
       </div>
     </article>
     <div
@@ -3115,9 +3434,8 @@ Array [
       Determination
       <br />
       <small>
+        Level: 
         37
-        <br />
-        Angmar Deeds
       </small>
     </div>
   </div>,
@@ -3146,6 +3464,11 @@ Array [
         >
           Lizard and Crawler-slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Eregion
+        </h2>
       </div>
     </article>
     <div
@@ -3154,9 +3477,8 @@ Array [
       Determination
       <br />
       <small>
+        Level: 
         50
-        <br />
-        Eregion Deeds
       </small>
     </div>
   </div>,
@@ -3185,6 +3507,11 @@ Array [
         >
           Uruk-captains of Eregion
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Eregion
+        </h2>
       </div>
     </article>
     <div
@@ -3193,9 +3520,8 @@ Array [
       Determination
       <br />
       <small>
+        Level: 
         50
-        <br />
-        Eregion Deeds
       </small>
     </div>
   </div>,
@@ -3224,6 +3550,11 @@ Array [
         >
           Mercenaries of the White-hand (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Eregion
+        </h2>
       </div>
     </article>
     <div
@@ -3232,9 +3563,8 @@ Array [
       Determination
       <br />
       <small>
+        Level: 
         55
-        <br />
-        Eregion Deeds
       </small>
     </div>
   </div>,
@@ -3263,6 +3593,11 @@ Array [
         >
           Orc-slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Moria
+        </h2>
       </div>
     </article>
     <div
@@ -3271,9 +3606,8 @@ Array [
       Determination
       <br />
       <small>
+        Level: 
         50
-        <br />
-        Moria Deeds
       </small>
     </div>
   </div>,
@@ -3302,6 +3636,11 @@ Array [
         >
           Overseers of the Forge
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Moria
+        </h2>
       </div>
     </article>
     <div
@@ -3310,9 +3649,8 @@ Array [
       Determination
       <br />
       <small>
+        Level: 
         55
-        <br />
-        Moria Deeds
       </small>
     </div>
   </div>,
@@ -3341,6 +3679,11 @@ Array [
         >
           Slaves to the Forge (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Moria
+        </h2>
       </div>
     </article>
     <div
@@ -3349,9 +3692,8 @@ Array [
       Determination
       <br />
       <small>
+        Level: 
         55
-        <br />
-        Moria Deeds
       </small>
     </div>
   </div>,
@@ -3380,6 +3722,11 @@ Array [
         >
           Beast-slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Mirkwood
+        </h2>
       </div>
     </article>
     <div
@@ -3388,9 +3735,8 @@ Array [
       Determination
       <br />
       <small>
+        Level: 
         60
-        <br />
-        Mirkwood Deeds
       </small>
     </div>
   </div>,
@@ -3419,6 +3765,11 @@ Array [
         >
           Quests in Pren Gwydh
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Dunland
+        </h2>
       </div>
     </article>
     <div
@@ -3427,9 +3778,8 @@ Array [
       Determination
       <br />
       <small>
+        Level: 
         65
-        <br />
-        Dunland Deeds
       </small>
     </div>
   </div>,
@@ -3458,6 +3808,11 @@ Array [
         >
           Quests of Limlight Gorge
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The Great River
+        </h2>
       </div>
     </article>
     <div
@@ -3466,9 +3821,8 @@ Array [
       Determination
       <br />
       <small>
+        Level: 
         70
-        <br />
-        The Great River Deeds
       </small>
     </div>
   </div>,
@@ -3497,6 +3851,11 @@ Array [
         >
           Quests of the Eaves of Fangorn
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          East Rohan
+        </h2>
       </div>
     </article>
     <div
@@ -3505,9 +3864,8 @@ Array [
       Determination
       <br />
       <small>
+        Level: 
         75
-        <br />
-        East Rohan Deeds
       </small>
     </div>
   </div>,
@@ -3536,6 +3894,11 @@ Array [
         >
           The Path of Núrzum
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Wildermore
+        </h2>
       </div>
     </article>
     <div
@@ -3544,9 +3907,8 @@ Array [
       Determination
       <br />
       <small>
+        Level: 
         85
-        <br />
-        Wildermore Deeds
       </small>
     </div>
   </div>,
@@ -3575,6 +3937,11 @@ Array [
         >
           Herd-creature Slayer of the Westemnet (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          West Rohan
+        </h2>
       </div>
     </article>
     <div
@@ -3583,9 +3950,8 @@ Array [
       Determination
       <br />
       <small>
+        Level: 
         85
-        <br />
-        West Rohan Deeds
       </small>
     </div>
   </div>,
@@ -3614,6 +3980,11 @@ Array [
         >
           Gondorian Treasure Cache
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Western Gondor
+        </h2>
       </div>
     </article>
     <div
@@ -3622,9 +3993,8 @@ Array [
       Determination
       <br />
       <small>
+        Level: 
         95
-        <br />
-        Western Gondor Deeds
       </small>
     </div>
   </div>,
@@ -3653,6 +4023,11 @@ Array [
         >
           Treasure of Central Gondor
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Central Gondor
+        </h2>
       </div>
     </article>
     <div
@@ -3661,9 +4036,8 @@ Array [
       Determination
       <br />
       <small>
+        Level: 
         100
-        <br />
-        Central Gondor Deeds
       </small>
     </div>
   </div>,
@@ -3692,6 +4066,11 @@ Array [
         >
           Goblin-slayer of Eastern Gondor (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Eastern Gondor
+        </h2>
       </div>
     </article>
     <div
@@ -3700,9 +4079,8 @@ Array [
       Determination
       <br />
       <small>
+        Level: 
         100
-        <br />
-        Eastern Gondor Deeds
       </small>
     </div>
   </div>,
@@ -3731,6 +4109,11 @@ Array [
         >
           Easterling-slayer of Old Anórien (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Old Anórien
+        </h2>
       </div>
     </article>
     <div
@@ -3739,9 +4122,8 @@ Array [
       Determination
       <br />
       <small>
+        Level: 
         100
-        <br />
-        Old Anórien Deeds
       </small>
     </div>
   </div>,
@@ -3770,6 +4152,11 @@ Array [
         >
           Sicklefly-slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Bree-land
+        </h2>
       </div>
     </article>
     <div
@@ -3778,9 +4165,8 @@ Array [
       Discipline
       <br />
       <small>
+        Level: 
         5
-        <br />
-        Bree-land Deeds
       </small>
     </div>
   </div>,
@@ -3809,6 +4195,11 @@ Array [
         >
           Wolf-slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The Shire
+        </h2>
       </div>
     </article>
     <div
@@ -3817,9 +4208,8 @@ Array [
       Discipline
       <br />
       <small>
+        Level: 
         1
-        <br />
-        The Shire Deeds
       </small>
     </div>
   </div>,
@@ -3848,6 +4238,11 @@ Array [
         >
           Hendroval-slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Ered Luin
+        </h2>
       </div>
     </article>
     <div
@@ -3856,9 +4251,8 @@ Array [
       Discipline
       <br />
       <small>
+        Level: 
         1
-        <br />
-        Ered Luin Deeds
       </small>
     </div>
   </div>,
@@ -3887,6 +4281,11 @@ Array [
         >
           Master of Beasts (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Ered Luin
+        </h2>
       </div>
     </article>
     <div
@@ -3895,9 +4294,8 @@ Array [
       Discipline
       <br />
       <small>
+        Level: 
         41
-        <br />
-        Ered Luin Deeds
       </small>
     </div>
   </div>,
@@ -3926,6 +4324,11 @@ Array [
         >
           Bog-lurker Slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The Lone-lands
+        </h2>
       </div>
     </article>
     <div
@@ -3934,9 +4337,8 @@ Array [
       Discipline
       <br />
       <small>
+        Level: 
         14
-        <br />
-        The Lone-lands Deeds
       </small>
     </div>
   </div>,
@@ -3965,6 +4367,11 @@ Array [
         >
           Wolf-slayer (Advanced) (Trollshaws)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The Trollshaws
+        </h2>
       </div>
     </article>
     <div
@@ -3973,9 +4380,8 @@ Array [
       Discipline
       <br />
       <small>
+        Level: 
         29
-        <br />
-        The Trollshaws Deeds
       </small>
     </div>
   </div>,
@@ -4004,6 +4410,11 @@ Array [
         >
           Tomb-defender (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Evendim
+        </h2>
       </div>
     </article>
     <div
@@ -4012,9 +4423,8 @@ Array [
       Discipline
       <br />
       <small>
+        Level: 
         25
-        <br />
-        Evendim Deeds
       </small>
     </div>
   </div>,
@@ -4043,6 +4453,11 @@ Array [
         >
           Troll-slayer (Advanced) (Angmar)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Angmar
+        </h2>
       </div>
     </article>
     <div
@@ -4051,9 +4466,8 @@ Array [
       Discipline
       <br />
       <small>
+        Level: 
         36
-        <br />
-        Angmar Deeds
       </small>
     </div>
   </div>,
@@ -4082,6 +4496,11 @@ Array [
         >
           Champions of Urugarth (Final)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Angmar
+        </h2>
       </div>
     </article>
     <div
@@ -4090,9 +4509,8 @@ Array [
       Discipline
       <br />
       <small>
+        Level: 
         43
-        <br />
-        Angmar Deeds
       </small>
     </div>
   </div>,
@@ -4121,6 +4539,11 @@ Array [
         >
           Wolf and Warg-slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Eregion
+        </h2>
       </div>
     </article>
     <div
@@ -4129,9 +4552,8 @@ Array [
       Discipline
       <br />
       <small>
+        Level: 
         50
-        <br />
-        Eregion Deeds
       </small>
     </div>
   </div>,
@@ -4160,6 +4582,11 @@ Array [
         >
           Scholars from Angmar (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Eregion
+        </h2>
       </div>
     </article>
     <div
@@ -4168,9 +4595,8 @@ Array [
       Discipline
       <br />
       <small>
+        Level: 
         55
-        <br />
-        Eregion Deeds
       </small>
     </div>
   </div>,
@@ -4199,6 +4625,11 @@ Array [
         >
           Grodbog-slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Moria
+        </h2>
       </div>
     </article>
     <div
@@ -4207,9 +4638,8 @@ Array [
       Discipline
       <br />
       <small>
+        Level: 
         46
-        <br />
-        Moria Deeds
       </small>
     </div>
   </div>,
@@ -4238,6 +4668,11 @@ Array [
         >
           Arms of the Watcher (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Moria
+        </h2>
       </div>
     </article>
     <div
@@ -4246,9 +4681,8 @@ Array [
       Discipline
       <br />
       <small>
+        Level: 
         60
-        <br />
-        Moria Deeds
       </small>
     </div>
   </div>,
@@ -4277,6 +4711,11 @@ Array [
         >
           Dunlending-slayer (Advanced) (Enedwaith)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Enedwaith
+        </h2>
       </div>
     </article>
     <div
@@ -4285,9 +4724,8 @@ Array [
       Discipline
       <br />
       <small>
+        Level: 
         62
-        <br />
-        Enedwaith Deeds
       </small>
     </div>
   </div>,
@@ -4316,6 +4754,11 @@ Array [
         >
           Exploring the Gravenwood
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Dunland
+        </h2>
       </div>
     </article>
     <div
@@ -4324,9 +4767,8 @@ Array [
       Discipline
       <br />
       <small>
+        Level: 
         65
-        <br />
-        Dunland Deeds
       </small>
     </div>
   </div>,
@@ -4355,6 +4797,11 @@ Array [
         >
           Quests in the Isendale
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Dunland
+        </h2>
       </div>
     </article>
     <div
@@ -4363,9 +4810,8 @@ Array [
       Discipline
       <br />
       <small>
+        Level: 
         65
-        <br />
-        Dunland Deeds
       </small>
     </div>
   </div>,
@@ -4394,6 +4840,11 @@ Array [
         >
           Quests of Eorlsmead
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The Great River
+        </h2>
       </div>
     </article>
     <div
@@ -4402,9 +4853,8 @@ Array [
       Discipline
       <br />
       <small>
+        Level: 
         75
-        <br />
-        The Great River Deeds
       </small>
     </div>
   </div>,
@@ -4433,6 +4883,11 @@ Array [
         >
           Uruk-slayer of the Eastemnet (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          East Rohan
+        </h2>
       </div>
     </article>
     <div
@@ -4441,9 +4896,8 @@ Array [
       Discipline
       <br />
       <small>
+        Level: 
         75
-        <br />
-        East Rohan Deeds
       </small>
     </div>
   </div>,
@@ -4472,6 +4926,11 @@ Array [
         >
           Wood-troll Slayer of Wildermore (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Wildermore
+        </h2>
       </div>
     </article>
     <div
@@ -4480,9 +4939,8 @@ Array [
       Discipline
       <br />
       <small>
+        Level: 
         85
-        <br />
-        Wildermore Deeds
       </small>
     </div>
   </div>,
@@ -4511,6 +4969,11 @@ Array [
         >
           Craban Slayer of the Westemnet (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          West Rohan
+        </h2>
       </div>
     </article>
     <div
@@ -4519,9 +4982,8 @@ Array [
       Discipline
       <br />
       <small>
+        Level: 
         95
-        <br />
-        West Rohan Deeds
       </small>
     </div>
   </div>,
@@ -4550,6 +5012,11 @@ Array [
         >
           Beast-slayer of West Gondor (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Western Gondor
+        </h2>
       </div>
     </article>
     <div
@@ -4558,9 +5025,8 @@ Array [
       Discipline
       <br />
       <small>
+        Level: 
         100
-        <br />
-        Western Gondor Deeds
       </small>
     </div>
   </div>,
@@ -4589,6 +5055,11 @@ Array [
         >
           Half-troll slayer of Central Gondor
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Central Gondor
+        </h2>
       </div>
     </article>
     <div
@@ -4597,9 +5068,8 @@ Array [
       Discipline
       <br />
       <small>
+        Level: 
         100
-        <br />
-        Central Gondor Deeds
       </small>
     </div>
   </div>,
@@ -4628,6 +5098,11 @@ Array [
         >
           Easterling-slayer of Eastern Gondor (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Eastern Gondor
+        </h2>
       </div>
     </article>
     <div
@@ -4636,9 +5111,8 @@ Array [
       Discipline
       <br />
       <small>
+        Level: 
         100
-        <br />
-        Eastern Gondor Deeds
       </small>
     </div>
   </div>,
@@ -4667,6 +5141,11 @@ Array [
         >
           Troll-slayer of Old Anórien (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Old Anórien
+        </h2>
       </div>
     </article>
     <div
@@ -4675,9 +5154,8 @@ Array [
       Discipline
       <br />
       <small>
+        Level: 
         100
-        <br />
-        Old Anórien Deeds
       </small>
     </div>
   </div>,
@@ -4706,6 +5184,11 @@ Array [
         >
           Quests of Pelennor (After Battle)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          March of the King
+        </h2>
       </div>
     </article>
     <div
@@ -4714,9 +5197,8 @@ Array [
       Discipline
       <br />
       <small>
+        Level: 
         105
-        <br />
-        March of the King Deeds
       </small>
     </div>
   </div>,
@@ -4745,6 +5227,11 @@ Array [
         >
           Bree-land Adventurer
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Bree-land
+        </h2>
       </div>
     </article>
     <div
@@ -4753,9 +5240,8 @@ Array [
       Empathy
       <br />
       <small>
+        Level: 
         1
-        <br />
-        Bree-land Deeds
       </small>
     </div>
   </div>,
@@ -4784,6 +5270,11 @@ Array [
         >
           The Life of a Bounder (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+           The Shire
+        </h2>
       </div>
     </article>
     <div
@@ -4792,9 +5283,8 @@ Array [
       Empathy
       <br />
       <small>
+        Level: 
         3
-        <br />
-         The Shire Deeds
       </small>
     </div>
   </div>,
@@ -4823,6 +5313,11 @@ Array [
         >
           Of Glories Long Past
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+           The North Downs
+        </h2>
       </div>
     </article>
     <div
@@ -4831,9 +5326,8 @@ Array [
       Empathy
       <br />
       <small>
+        Level: 
         20
-        <br />
-         The North Downs Deeds
       </small>
     </div>
   </div>,
@@ -4862,6 +5356,11 @@ Array [
         >
           Peril of the Mountains (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+           The Misty Mountains
+        </h2>
       </div>
     </article>
     <div
@@ -4870,9 +5369,8 @@ Array [
       Empathy
       <br />
       <small>
+        Level: 
         37
-        <br />
-         The Misty Mountains Deeds
       </small>
     </div>
   </div>,
@@ -4901,6 +5399,11 @@ Array [
         >
           Marching into Shadow (Final)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+           Angmar
+        </h2>
       </div>
     </article>
     <div
@@ -4909,9 +5412,8 @@ Array [
       Empathy
       <br />
       <small>
+        Level: 
         41
-        <br />
-         Angmar Deeds
       </small>
     </div>
   </div>,
@@ -4940,6 +5442,11 @@ Array [
         >
           The Dead That Live (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+           Angmar
+        </h2>
       </div>
     </article>
     <div
@@ -4948,9 +5455,8 @@ Array [
       Empathy
       <br />
       <small>
+        Level: 
         45
-        <br />
-         Angmar Deeds
       </small>
     </div>
   </div>,
@@ -4979,6 +5485,11 @@ Array [
         >
           Forochel Survivor
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Forochel
+        </h2>
       </div>
     </article>
     <div
@@ -4987,9 +5498,8 @@ Array [
       Empathy
       <br />
       <small>
+        Level: 
         41
-        <br />
-        Forochel Deeds
       </small>
     </div>
   </div>,
@@ -5018,6 +5528,11 @@ Array [
         >
           Silent and Restless (Final)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Eregion
+        </h2>
       </div>
     </article>
     <div
@@ -5026,9 +5541,8 @@ Array [
       Empathy
       <br />
       <small>
+        Level: 
         50
-        <br />
-        Eregion Deeds
       </small>
     </div>
   </div>,
@@ -5057,6 +5571,11 @@ Array [
         >
           Beasts of the Grand Stair (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Moria
+        </h2>
       </div>
     </article>
     <div
@@ -5065,9 +5584,8 @@ Array [
       Empathy
       <br />
       <small>
+        Level: 
         55
-        <br />
-        Moria Deeds
       </small>
     </div>
   </div>,
@@ -5096,6 +5614,11 @@ Array [
         >
           Eyes of the Enemy (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Moria
+        </h2>
       </div>
     </article>
     <div
@@ -5104,9 +5627,8 @@ Array [
       Empathy
       <br />
       <small>
+        Level: 
         55
-        <br />
-        Moria Deeds
       </small>
     </div>
   </div>,
@@ -5135,6 +5657,11 @@ Array [
         >
           Quests of the Flaming Deeps
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Moria
+        </h2>
       </div>
     </article>
     <div
@@ -5143,9 +5670,8 @@ Array [
       Empathy
       <br />
       <small>
+        Level: 
         50
-        <br />
-        Moria Deeds
       </small>
     </div>
   </div>,
@@ -5174,6 +5700,11 @@ Array [
         >
           Quests of the Silvertine Lodes
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Moria
+        </h2>
       </div>
     </article>
     <div
@@ -5182,9 +5713,8 @@ Array [
       Empathy
       <br />
       <small>
+        Level: 
         50
-        <br />
-        Moria Deeds
       </small>
     </div>
   </div>,
@@ -5213,6 +5743,11 @@ Array [
         >
           Exemplar of the Central Levels
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Moria
+        </h2>
       </div>
     </article>
     <div
@@ -5221,9 +5756,8 @@ Array [
       Empathy
       <br />
       <small>
+        Level: 
         50
-        <br />
-        Moria Deeds
       </small>
     </div>
   </div>,
@@ -5252,6 +5786,11 @@ Array [
         >
           Defender of the Upper Levels
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Moria
+        </h2>
       </div>
     </article>
     <div
@@ -5260,9 +5799,8 @@ Array [
       Empathy
       <br />
       <small>
+        Level: 
         55
-        <br />
-        Moria Deeds
       </small>
     </div>
   </div>,
@@ -5291,6 +5829,11 @@ Array [
         >
           Warg-slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Mirkwood
+        </h2>
       </div>
     </article>
     <div
@@ -5299,9 +5842,8 @@ Array [
       Empathy
       <br />
       <small>
+        Level: 
         60
-        <br />
-        Mirkwood Deeds
       </small>
     </div>
   </div>,
@@ -5330,6 +5872,11 @@ Array [
         >
           Explorer of Dunland
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Dunland
+        </h2>
       </div>
     </article>
     <div
@@ -5338,9 +5885,8 @@ Array [
       Empathy
       <br />
       <small>
+        Level: 
         65
-        <br />
-        Dunland Deeds
       </small>
     </div>
   </div>,
@@ -5369,6 +5915,11 @@ Array [
         >
           Exploring Nan Curunír
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Dunland
+        </h2>
       </div>
     </article>
     <div
@@ -5377,9 +5928,8 @@ Array [
       Empathy
       <br />
       <small>
+        Level: 
         65
-        <br />
-        Dunland Deeds
       </small>
     </div>
   </div>,
@@ -5408,6 +5958,11 @@ Array [
         >
           Half-orc Slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Dunland
+        </h2>
       </div>
     </article>
     <div
@@ -5416,9 +5971,8 @@ Array [
       Empathy
       <br />
       <small>
+        Level: 
         65
-        <br />
-        Dunland Deeds
       </small>
     </div>
   </div>,
@@ -5447,6 +6001,11 @@ Array [
         >
           Half-orc Slayer of the Eastemnet (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          East Rohan
+        </h2>
       </div>
     </article>
     <div
@@ -5455,9 +6014,8 @@ Array [
       Empathy
       <br />
       <small>
+        Level: 
         75
-        <br />
-        East Rohan Deeds
       </small>
     </div>
   </div>,
@@ -5486,6 +6044,11 @@ Array [
         >
           Loved and Lost
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Wildermore
+        </h2>
       </div>
     </article>
     <div
@@ -5494,9 +6057,8 @@ Array [
       Empathy
       <br />
       <small>
+        Level: 
         85
-        <br />
-        Wildermore Deeds
       </small>
     </div>
   </div>,
@@ -5525,6 +6087,11 @@ Array [
         >
           Quests of the Broadacres
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          West Rohan
+        </h2>
       </div>
     </article>
     <div
@@ -5533,9 +6100,8 @@ Array [
       Empathy
       <br />
       <small>
+        Level: 
         95
-        <br />
-        West Rohan Deeds
       </small>
     </div>
   </div>,
@@ -5564,6 +6130,11 @@ Array [
         >
           Quests of Lamedon
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Western Gondor
+        </h2>
       </div>
     </article>
     <div
@@ -5572,9 +6143,8 @@ Array [
       Empathy
       <br />
       <small>
+        Level: 
         100
-        <br />
-        Western Gondor Deeds
       </small>
     </div>
   </div>,
@@ -5603,6 +6173,11 @@ Array [
         >
           Quests of Ringló Vale
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Central Gondor
+        </h2>
       </div>
     </article>
     <div
@@ -5611,9 +6186,8 @@ Array [
       Empathy
       <br />
       <small>
+        Level: 
         100
-        <br />
-        Central Gondor Deeds
       </small>
     </div>
   </div>,
@@ -5642,6 +6216,11 @@ Array [
         >
           Quests of Minas Tirith
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Old Anórien
+        </h2>
       </div>
     </article>
     <div
@@ -5650,9 +6229,8 @@ Array [
       Empathy
       <br />
       <small>
+        Level: 
         100
-        <br />
-        Old Anórien Deeds
       </small>
     </div>
   </div>,
@@ -5681,6 +6259,11 @@ Array [
         >
           The Sights of the Shire
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The Shire
+        </h2>
       </div>
     </article>
     <div
@@ -5689,9 +6272,8 @@ Array [
       Fidelity
       <br />
       <small>
+        Level: 
         1
-        <br />
-        The Shire Deeds
       </small>
     </div>
   </div>,
@@ -5720,6 +6302,11 @@ Array [
         >
           Scouting the Dourhands
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Ered Luin
+        </h2>
       </div>
     </article>
     <div
@@ -5728,9 +6315,8 @@ Array [
       Fidelity
       <br />
       <small>
+        Level: 
         6
-        <br />
-        Ered Luin Deeds
       </small>
     </div>
   </div>,
@@ -5759,6 +6345,11 @@ Array [
         >
           Defences of the Lone-lands
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The Lone-lands
+        </h2>
       </div>
     </article>
     <div
@@ -5767,9 +6358,8 @@ Array [
       Fidelity
       <br />
       <small>
+        Level: 
         12
-        <br />
-        The Lone-lands Deeds
       </small>
     </div>
   </div>,
@@ -5798,6 +6388,11 @@ Array [
         >
           The Road to Rivendell
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The Trollshaws
+        </h2>
       </div>
     </article>
     <div
@@ -5806,9 +6401,8 @@ Array [
       Fidelity
       <br />
       <small>
+        Level: 
         30
-        <br />
-        The Trollshaws Deeds
       </small>
     </div>
   </div>,
@@ -5837,6 +6431,11 @@ Array [
         >
           Ruins of Evendim
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Evendim
+        </h2>
       </div>
     </article>
     <div
@@ -5845,9 +6444,8 @@ Array [
       Fidelity
       <br />
       <small>
+        Level: 
         25
-        <br />
-        Evendim Deeds
       </small>
     </div>
   </div>,
@@ -5876,6 +6474,11 @@ Array [
         >
           Tombs of Evendim
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Evendim
+        </h2>
       </div>
     </article>
     <div
@@ -5884,9 +6487,8 @@ Array [
       Fidelity
       <br />
       <small>
+        Level: 
         25
-        <br />
-        Evendim Deeds
       </small>
     </div>
   </div>,
@@ -5915,6 +6517,11 @@ Array [
         >
           The Circle of Despair
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Angmar
+        </h2>
       </div>
     </article>
     <div
@@ -5923,9 +6530,8 @@ Array [
       Fidelity
       <br />
       <small>
+        Level: 
         45
-        <br />
-        Angmar Deeds
       </small>
     </div>
   </div>,
@@ -5954,6 +6560,11 @@ Array [
         >
           Dourhand-slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Forochel
+        </h2>
       </div>
     </article>
     <div
@@ -5962,9 +6573,8 @@ Array [
       Fidelity
       <br />
       <small>
+        Level: 
         42
-        <br />
-        Forochel Deeds
       </small>
     </div>
   </div>,
@@ -5993,6 +6603,11 @@ Array [
         >
           Ring-lore of Eregion
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Eregion
+        </h2>
       </div>
     </article>
     <div
@@ -6001,9 +6616,8 @@ Array [
       Fidelity
       <br />
       <small>
+        Level: 
         50
-        <br />
-        Eregion Deeds
       </small>
     </div>
   </div>,
@@ -6032,6 +6646,11 @@ Array [
         >
           Intruders in the Vault (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Moria
+        </h2>
       </div>
     </article>
     <div
@@ -6040,9 +6659,8 @@ Array [
       Fidelity
       <br />
       <small>
+        Level: 
         55
-        <br />
-        Moria Deeds
       </small>
     </div>
   </div>,
@@ -6071,6 +6689,11 @@ Array [
         >
           Tamers of the Vile Wargs (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Moria
+        </h2>
       </div>
     </article>
     <div
@@ -6079,9 +6702,8 @@ Array [
       Fidelity
       <br />
       <small>
+        Level: 
         55
-        <br />
-        Moria Deeds
       </small>
     </div>
   </div>,
@@ -6110,6 +6732,11 @@ Array [
         >
           The Silvertine Lodes
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Moria
+        </h2>
       </div>
     </article>
     <div
@@ -6118,9 +6745,8 @@ Array [
       Fidelity
       <br />
       <small>
+        Level: 
         50
-        <br />
-        Moria Deeds
       </small>
     </div>
   </div>,
@@ -6149,6 +6775,11 @@ Array [
         >
           Quests of Nud-melek
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Moria
+        </h2>
       </div>
     </article>
     <div
@@ -6157,9 +6788,8 @@ Array [
       Fidelity
       <br />
       <small>
+        Level: 
         50
-        <br />
-        Moria Deeds
       </small>
     </div>
   </div>,
@@ -6188,6 +6818,11 @@ Array [
         >
           Eastern Durin's Way
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Moria
+        </h2>
       </div>
     </article>
     <div
@@ -6196,9 +6831,8 @@ Array [
       Fidelity
       <br />
       <small>
+        Level: 
         53
-        <br />
-        Moria Deeds
       </small>
     </div>
   </div>,
@@ -6227,6 +6861,11 @@ Array [
         >
           Dead-slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Mirkwood
+        </h2>
       </div>
     </article>
     <div
@@ -6235,9 +6874,8 @@ Array [
       Fidelity
       <br />
       <small>
+        Level: 
         60
-        <br />
-        Mirkwood Deeds
       </small>
     </div>
   </div>,
@@ -6266,6 +6904,11 @@ Array [
         >
           Dunlending-slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Dunland
+        </h2>
       </div>
     </article>
     <div
@@ -6274,9 +6917,8 @@ Array [
       Fidelity
       <br />
       <small>
+        Level: 
         65
-        <br />
-        Dunland Deeds
       </small>
     </div>
   </div>,
@@ -6305,6 +6947,11 @@ Array [
         >
           Quests of Thinglad
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The Great River
+        </h2>
       </div>
     </article>
     <div
@@ -6313,9 +6960,8 @@ Array [
       Fidelity
       <br />
       <small>
+        Level: 
         70
-        <br />
-        The Great River Deeds
       </small>
     </div>
   </div>,
@@ -6344,6 +6990,11 @@ Array [
         >
           Spider-slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The Great River
+        </h2>
       </div>
     </article>
     <div
@@ -6352,9 +7003,8 @@ Array [
       Fidelity
       <br />
       <small>
+        Level: 
         70
-        <br />
-        The Great River Deeds
       </small>
     </div>
   </div>,
@@ -6383,6 +7033,11 @@ Array [
         >
           Farms and Crofts of the Eastemnet
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          East Rohan
+        </h2>
       </div>
     </article>
     <div
@@ -6391,9 +7046,8 @@ Array [
       Fidelity
       <br />
       <small>
+        Level: 
         75
-        <br />
-        East Rohan Deeds
       </small>
     </div>
   </div>,
@@ -6422,6 +7076,11 @@ Array [
         >
           Quests of the Whitshaws
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Wildermore
+        </h2>
       </div>
     </article>
     <div
@@ -6430,9 +7089,8 @@ Array [
       Fidelity
       <br />
       <small>
+        Level: 
         85
-        <br />
-        Wildermore Deeds
       </small>
     </div>
   </div>,
@@ -6461,6 +7119,11 @@ Array [
         >
           Quests of Kingstead
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          West Rohan
+        </h2>
       </div>
     </article>
     <div
@@ -6469,9 +7132,8 @@ Array [
       Fidelity
       <br />
       <small>
+        Level: 
         95
-        <br />
-        West Rohan Deeds
       </small>
     </div>
   </div>,
@@ -6500,6 +7162,11 @@ Array [
         >
           Quests of Tarlang's Crown
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Western Gondor
+        </h2>
       </div>
     </article>
     <div
@@ -6508,9 +7175,8 @@ Array [
       Fidelity
       <br />
       <small>
+        Level: 
         100
-        <br />
-        Western Gondor Deeds
       </small>
     </div>
   </div>,
@@ -6539,6 +7205,11 @@ Array [
         >
           Vanguard of Central Gondor
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Central Gondor
+        </h2>
       </div>
     </article>
     <div
@@ -6547,9 +7218,8 @@ Array [
       Fidelity
       <br />
       <small>
+        Level: 
         100
-        <br />
-        Central Gondor Deeds
       </small>
     </div>
   </div>,
@@ -6578,6 +7248,11 @@ Array [
         >
           Ruins of South Ithilien
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Eastern Gondor
+        </h2>
       </div>
     </article>
     <div
@@ -6586,9 +7261,8 @@ Array [
       Fidelity
       <br />
       <small>
+        Level: 
         100
-        <br />
-        Eastern Gondor Deeds
       </small>
     </div>
   </div>,
@@ -6617,6 +7291,11 @@ Array [
         >
           Warbands: Old Anórien's Roaming Enemies
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Old Anórien
+        </h2>
       </div>
     </article>
     <div
@@ -6625,9 +7304,8 @@ Array [
       Fidelity
       <br />
       <small>
+        Level: 
         100
-        <br />
-        Old Anórien Deeds
       </small>
     </div>
   </div>,
@@ -6656,6 +7334,11 @@ Array [
         >
           Neekerbreeker-slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Bree-land
+        </h2>
       </div>
     </article>
     <div
@@ -6664,9 +7347,8 @@ Array [
       Fortitude
       <br />
       <small>
+        Level: 
         1
-        <br />
-        Bree-land Deeds
       </small>
     </div>
   </div>,
@@ -6695,6 +7377,11 @@ Array [
         >
           Bree-land Woodsman (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Bree-land
+        </h2>
       </div>
     </article>
     <div
@@ -6703,9 +7390,8 @@ Array [
       Fortitude
       <br />
       <small>
+        Level: 
         11
-        <br />
-        Bree-land Deeds
       </small>
     </div>
   </div>,
@@ -6734,6 +7420,11 @@ Array [
         >
           Harvest-fly Slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The Shire
+        </h2>
       </div>
     </article>
     <div
@@ -6742,9 +7433,8 @@ Array [
       Fortitude
       <br />
       <small>
+        Level: 
         1
-        <br />
-        The Shire Deeds
       </small>
     </div>
   </div>,
@@ -6773,6 +7463,11 @@ Array [
         >
           Troll-slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The North Downs
+        </h2>
       </div>
     </article>
     <div
@@ -6781,9 +7476,8 @@ Array [
       Fortitude
       <br />
       <small>
+        Level: 
         23
-        <br />
-        The North Downs Deeds
       </small>
     </div>
   </div>,
@@ -6812,6 +7506,11 @@ Array [
         >
           Warg-slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The Lone-lands
+        </h2>
       </div>
     </article>
     <div
@@ -6820,9 +7519,8 @@ Array [
       Fortitude
       <br />
       <small>
+        Level: 
         10
-        <br />
-        The Lone-lands Deeds
       </small>
     </div>
   </div>,
@@ -6851,6 +7549,11 @@ Array [
         >
           Giant-slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The Trollshaws
+        </h2>
       </div>
     </article>
     <div
@@ -6859,9 +7562,8 @@ Array [
       Fortitude
       <br />
       <small>
+        Level: 
         39
-        <br />
-        The Trollshaws Deeds
       </small>
     </div>
   </div>,
@@ -6890,6 +7592,11 @@ Array [
         >
           Bear-slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The Misty Mountains
+        </h2>
       </div>
     </article>
     <div
@@ -6898,9 +7605,8 @@ Array [
       Fortitude
       <br />
       <small>
+        Level: 
         30
-        <br />
-        The Misty Mountains Deeds
       </small>
     </div>
   </div>,
@@ -6929,6 +7635,11 @@ Array [
         >
           Gauradan-slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Evendim
+        </h2>
       </div>
     </article>
     <div
@@ -6937,9 +7648,8 @@ Array [
       Fortitude
       <br />
       <small>
+        Level: 
         31
-        <br />
-        Evendim Deeds
       </small>
     </div>
   </div>,
@@ -6968,6 +7678,11 @@ Array [
         >
           Brutes from the North (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Evendim
+        </h2>
       </div>
     </article>
     <div
@@ -6976,9 +7691,8 @@ Array [
       Fortitude
       <br />
       <small>
+        Level: 
         45
-        <br />
-        Evendim Deeds
       </small>
     </div>
   </div>,
@@ -7007,6 +7721,11 @@ Array [
         >
           Sabre-tooth Slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Forochel
+        </h2>
       </div>
     </article>
     <div
@@ -7015,9 +7734,8 @@ Array [
       Fortitude
       <br />
       <small>
+        Level: 
         40
-        <br />
-        Forochel Deeds
       </small>
     </div>
   </div>,
@@ -7046,6 +7764,11 @@ Array [
         >
           Warg-slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Moria
+        </h2>
       </div>
     </article>
     <div
@@ -7054,9 +7777,8 @@ Array [
       Fortitude
       <br />
       <small>
+        Level: 
         50
-        <br />
-        Moria Deeds
       </small>
     </div>
   </div>,
@@ -7085,6 +7807,11 @@ Array [
         >
           Blinded by Fire (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Moria
+        </h2>
       </div>
     </article>
     <div
@@ -7093,9 +7820,8 @@ Array [
       Fortitude
       <br />
       <small>
+        Level: 
         55
-        <br />
-        Moria Deeds
       </small>
     </div>
   </div>,
@@ -7124,6 +7850,11 @@ Array [
         >
           Into the Black and Twisted Forest (Intermediate)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Mirkwood
+        </h2>
       </div>
     </article>
     <div
@@ -7132,9 +7863,8 @@ Array [
       Fortitude
       <br />
       <small>
+        Level: 
         60
-        <br />
-        Mirkwood Deeds
       </small>
     </div>
   </div>,
@@ -7163,6 +7893,11 @@ Array [
         >
           Exploring the Heathfells
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Dunland
+        </h2>
       </div>
     </article>
     <div
@@ -7171,9 +7906,8 @@ Array [
       Fortitude
       <br />
       <small>
+        Level: 
         65
-        <br />
-        Dunland Deeds
       </small>
     </div>
   </div>,
@@ -7202,6 +7936,11 @@ Array [
         >
           Quests in the Heathfells
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Dunland
+        </h2>
       </div>
     </article>
     <div
@@ -7210,9 +7949,8 @@ Array [
       Fortitude
       <br />
       <small>
+        Level: 
         65
-        <br />
-        Dunland Deeds
       </small>
     </div>
   </div>,
@@ -7241,6 +7979,11 @@ Array [
         >
           Quests of Brown Lands
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The Great River
+        </h2>
       </div>
     </article>
     <div
@@ -7249,9 +7992,8 @@ Array [
       Fortitude
       <br />
       <small>
+        Level: 
         70
-        <br />
-        The Great River Deeds
       </small>
     </div>
   </div>,
@@ -7280,6 +8022,11 @@ Array [
         >
           Eaves of Fangorn Exploration
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          East Rohan
+        </h2>
       </div>
     </article>
     <div
@@ -7288,9 +8035,8 @@ Array [
       Fortitude
       <br />
       <small>
+        Level: 
         75
-        <br />
-        East Rohan Deeds
       </small>
     </div>
   </div>,
@@ -7319,6 +8065,11 @@ Array [
         >
           Dragon-kind Slayer of the Eastemnet (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          East Rohan
+        </h2>
       </div>
     </article>
     <div
@@ -7327,9 +8078,8 @@ Array [
       Fortitude
       <br />
       <small>
+        Level: 
         75
-        <br />
-        East Rohan Deeds
       </small>
     </div>
   </div>,
@@ -7358,6 +8108,11 @@ Array [
         >
           The Wilds of Wildermore
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Wildermore
+        </h2>
       </div>
     </article>
     <div
@@ -7366,9 +8121,8 @@ Array [
       Fortitude
       <br />
       <small>
+        Level: 
         85
-        <br />
-        Wildermore Deeds
       </small>
     </div>
   </div>,
@@ -7397,6 +8151,11 @@ Array [
         >
           Dunlending Slayer of the Westemnet (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          West Rohan
+        </h2>
       </div>
     </article>
     <div
@@ -7405,9 +8164,8 @@ Array [
       Fortitude
       <br />
       <small>
+        Level: 
         95
-        <br />
-        West Rohan Deeds
       </small>
     </div>
   </div>,
@@ -7436,6 +8194,11 @@ Array [
         >
           Half-troll slayer of Eastern Gondor (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Eastern Gondor
+        </h2>
       </div>
     </article>
     <div
@@ -7444,9 +8207,8 @@ Array [
       Fortitude
       <br />
       <small>
+        Level: 
         100
-        <br />
-        Eastern Gondor Deeds
       </small>
     </div>
   </div>,
@@ -7475,6 +8237,11 @@ Array [
         >
           Orc-slayer of Old Anórien (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Old Anórien
+        </h2>
       </div>
     </article>
     <div
@@ -7483,9 +8250,8 @@ Array [
       Fortitude
       <br />
       <small>
+        Level: 
         100
-        <br />
-        Old Anórien Deeds
       </small>
     </div>
   </div>,
@@ -7514,6 +8280,11 @@ Array [
         >
           Craban-slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The Lone-lands
+        </h2>
       </div>
     </article>
     <div
@@ -7522,9 +8293,8 @@ Array [
       Honesty
       <br />
       <small>
+        Level: 
         11
-        <br />
-        The Lone-lands Deeds
       </small>
     </div>
   </div>,
@@ -7553,6 +8323,11 @@ Array [
         >
           Troll-slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The Lone-lands
+        </h2>
       </div>
     </article>
     <div
@@ -7561,9 +8336,8 @@ Array [
       Honesty
       <br />
       <small>
+        Level: 
         23
-        <br />
-        The Lone-lands Deeds
       </small>
     </div>
   </div>,
@@ -7592,6 +8366,11 @@ Array [
         >
           The Wilds of Tâl Bruinen
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The Trollshaws
+        </h2>
       </div>
     </article>
     <div
@@ -7600,9 +8379,8 @@ Array [
       Honesty
       <br />
       <small>
+        Level: 
         40
-        <br />
-        The Trollshaws Deeds
       </small>
     </div>
   </div>,
@@ -7631,6 +8409,11 @@ Array [
         >
           The Forbidding Heights
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The Misty Mountains
+        </h2>
       </div>
     </article>
     <div
@@ -7639,9 +8422,8 @@ Array [
       Honesty
       <br />
       <small>
+        Level: 
         40
-        <br />
-        The Misty Mountains Deeds
       </small>
     </div>
   </div>,
@@ -7670,6 +8452,11 @@ Array [
         >
           Goblin-town
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The Misty Mountains
+        </h2>
       </div>
     </article>
     <div
@@ -7678,9 +8465,8 @@ Array [
       Honesty
       <br />
       <small>
+        Level: 
         45
-        <br />
-        The Misty Mountains Deeds
       </small>
     </div>
   </div>,
@@ -7709,6 +8495,11 @@ Array [
         >
           Bilbo's Buttons
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The Misty Mountains
+        </h2>
       </div>
     </article>
     <div
@@ -7717,9 +8508,8 @@ Array [
       Honesty
       <br />
       <small>
+        Level: 
         45
-        <br />
-        The Misty Mountains Deeds
       </small>
     </div>
   </div>,
@@ -7748,6 +8538,11 @@ Array [
         >
           Silent and Restless
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Eregion
+        </h2>
       </div>
     </article>
     <div
@@ -7756,9 +8551,8 @@ Array [
       Honesty
       <br />
       <small>
+        Level: 
         50
-        <br />
-        Eregion Deeds
       </small>
     </div>
   </div>,
@@ -7787,6 +8581,11 @@ Array [
         >
           The Ring Goes South
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Eregion
+        </h2>
       </div>
     </article>
     <div
@@ -7795,9 +8594,8 @@ Array [
       Honesty
       <br />
       <small>
+        Level: 
         50
-        <br />
-        Eregion Deeds
       </small>
     </div>
   </div>,
@@ -7826,6 +8624,11 @@ Array [
         >
           The Corpse-eaters
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Moria
+        </h2>
       </div>
     </article>
     <div
@@ -7834,9 +8637,8 @@ Array [
       Honesty
       <br />
       <small>
+        Level: 
         55
-        <br />
-        Moria Deeds
       </small>
     </div>
   </div>,
@@ -7865,6 +8667,11 @@ Array [
         >
           Villains of the Grand Stair (Part 1)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Moria
+        </h2>
       </div>
     </article>
     <div
@@ -7873,9 +8680,8 @@ Array [
       Honesty
       <br />
       <small>
+        Level: 
         55
-        <br />
-        Moria Deeds
       </small>
     </div>
   </div>,
@@ -7904,6 +8710,11 @@ Array [
         >
           The Great Delving
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Moria
+        </h2>
       </div>
     </article>
     <div
@@ -7912,9 +8723,8 @@ Array [
       Honesty
       <br />
       <small>
+        Level: 
         50
-        <br />
-        Moria Deeds
       </small>
     </div>
   </div>,
@@ -7943,6 +8753,11 @@ Array [
         >
           Zelem-melek
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Moria
+        </h2>
       </div>
     </article>
     <div
@@ -7951,9 +8766,8 @@ Array [
       Honesty
       <br />
       <small>
+        Level: 
         53
-        <br />
-        Moria Deeds
       </small>
     </div>
   </div>,
@@ -7982,6 +8796,11 @@ Array [
         >
           Into the Black and Twisted Forest (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Mirkwood
+        </h2>
       </div>
     </article>
     <div
@@ -7990,9 +8809,8 @@ Array [
       Honesty
       <br />
       <small>
+        Level: 
         60
-        <br />
-        Mirkwood Deeds
       </small>
     </div>
   </div>,
@@ -8021,6 +8839,11 @@ Array [
         >
           Uruk-hai Slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Dunland
+        </h2>
       </div>
     </article>
     <div
@@ -8029,9 +8852,8 @@ Array [
       Honesty
       <br />
       <small>
+        Level: 
         65
-        <br />
-        Dunland Deeds
       </small>
     </div>
   </div>,
@@ -8060,6 +8882,11 @@ Array [
         >
           Limlight Gorge Explorer
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The Great River
+        </h2>
       </div>
     </article>
     <div
@@ -8068,9 +8895,8 @@ Array [
       Honesty
       <br />
       <small>
+        Level: 
         70
-        <br />
-        The Great River Deeds
       </small>
     </div>
   </div>,
@@ -8099,6 +8925,11 @@ Array [
         >
           Quests of the Wailing Hills
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The Great River
+        </h2>
       </div>
     </article>
     <div
@@ -8107,9 +8938,8 @@ Array [
       Honesty
       <br />
       <small>
+        Level: 
         70
-        <br />
-        The Great River Deeds
       </small>
     </div>
   </div>,
@@ -8138,6 +8968,11 @@ Array [
         >
           Shade-slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The Great River
+        </h2>
       </div>
     </article>
     <div
@@ -8146,9 +8981,8 @@ Array [
       Honesty
       <br />
       <small>
+        Level: 
         70
-        <br />
-        The Great River Deeds
       </small>
     </div>
   </div>,
@@ -8177,6 +9011,11 @@ Array [
         >
           The Defences of Eastern Rohan
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          East Rohan
+        </h2>
       </div>
     </article>
     <div
@@ -8185,9 +9024,8 @@ Array [
       Honesty
       <br />
       <small>
+        Level: 
         75
-        <br />
-        East Rohan Deeds
       </small>
     </div>
   </div>,
@@ -8216,6 +9054,11 @@ Array [
         >
           Orc-slayer of the Eastemnet (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          East Rohan
+        </h2>
       </div>
     </article>
     <div
@@ -8224,9 +9067,8 @@ Array [
       Honesty
       <br />
       <small>
+        Level: 
         75
-        <br />
-        East Rohan Deeds
       </small>
     </div>
   </div>,
@@ -8255,6 +9097,11 @@ Array [
         >
           Quests of the Fallows
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Wildermore
+        </h2>
       </div>
     </article>
     <div
@@ -8263,9 +9110,8 @@ Array [
       Honesty
       <br />
       <small>
+        Level: 
         85
-        <br />
-        Wildermore Deeds
       </small>
     </div>
   </div>,
@@ -8294,6 +9140,11 @@ Array [
         >
           Quests of the Eastfold
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          West Rohan
+        </h2>
       </div>
     </article>
     <div
@@ -8302,9 +9153,8 @@ Array [
       Honesty
       <br />
       <small>
+        Level: 
         95
-        <br />
-        West Rohan Deeds
       </small>
     </div>
   </div>,
@@ -8333,6 +9183,11 @@ Array [
         >
           Quests of Blackroot Vale
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Western Gondor
+        </h2>
       </div>
     </article>
     <div
@@ -8341,9 +9196,8 @@ Array [
       Honesty
       <br />
       <small>
+        Level: 
         100
-        <br />
-        Western Gondor Deeds
       </small>
     </div>
   </div>,
@@ -8372,6 +9226,11 @@ Array [
         >
           Quests of Dor-en-Ernil
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Central Gondor
+        </h2>
       </div>
     </article>
     <div
@@ -8380,9 +9239,8 @@ Array [
       Honesty
       <br />
       <small>
+        Level: 
         100
-        <br />
-        Central Gondor Deeds
       </small>
     </div>
   </div>,
@@ -8411,6 +9269,11 @@ Array [
         >
           The Southern Beacons
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Eastern Gondor
+        </h2>
       </div>
     </article>
     <div
@@ -8419,9 +9282,8 @@ Array [
       Honesty
       <br />
       <small>
+        Level: 
         100
-        <br />
-        Eastern Gondor Deeds
       </small>
     </div>
   </div>,
@@ -8450,6 +9312,11 @@ Array [
         >
           Spider-slayer (Advanced) (Bree-land)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Bree-land
+        </h2>
       </div>
     </article>
     <div
@@ -8458,9 +9325,8 @@ Array [
       Honour
       <br />
       <small>
+        Level: 
         1
-        <br />
-        Bree-land Deeds
       </small>
     </div>
   </div>,
@@ -8489,6 +9355,11 @@ Array [
         >
           Spider-slayer (Advanced) (Shire)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The Shire
+        </h2>
       </div>
     </article>
     <div
@@ -8497,9 +9368,8 @@ Array [
       Honour
       <br />
       <small>
+        Level: 
         1
-        <br />
-        The Shire Deeds
       </small>
     </div>
   </div>,
@@ -8528,6 +9398,11 @@ Array [
         >
           Worm-slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The North Downs
+        </h2>
       </div>
     </article>
     <div
@@ -8536,9 +9411,8 @@ Array [
       Honour
       <br />
       <small>
+        Level: 
         26
-        <br />
-        The North Downs Deeds
       </small>
     </div>
   </div>,
@@ -8567,6 +9441,11 @@ Array [
         >
           Spider-slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The Lone-lands
+        </h2>
       </div>
     </article>
     <div
@@ -8575,9 +9454,8 @@ Array [
       Honour
       <br />
       <small>
+        Level: 
         10
-        <br />
-        The Lone-lands Deeds
       </small>
     </div>
   </div>,
@@ -8606,6 +9484,11 @@ Array [
         >
           Worm-slayer (Advanced) (Misty Mountains)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The Misty Mountains
+        </h2>
       </div>
     </article>
     <div
@@ -8614,9 +9497,8 @@ Array [
       Honour
       <br />
       <small>
+        Level: 
         33
-        <br />
-        The Misty Mountains Deeds
       </small>
     </div>
   </div>,
@@ -8645,6 +9527,11 @@ Array [
         >
           Giant-slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Evendim
+        </h2>
       </div>
     </article>
     <div
@@ -8653,9 +9540,8 @@ Array [
       Honour
       <br />
       <small>
+        Level: 
         34
-        <br />
-        Evendim Deeds
       </small>
     </div>
   </div>,
@@ -8684,6 +9570,11 @@ Array [
         >
           The Orcs of Urugarth (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Angmar
+        </h2>
       </div>
     </article>
     <div
@@ -8692,9 +9583,8 @@ Array [
       Honour
       <br />
       <small>
+        Level: 
         35
-        <br />
-        Angmar Deeds
       </small>
     </div>
   </div>,
@@ -8723,6 +9613,11 @@ Array [
         >
           Uruk-slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Angmar
+        </h2>
       </div>
     </article>
     <div
@@ -8731,9 +9626,8 @@ Array [
       Honour
       <br />
       <small>
+        Level: 
         41
-        <br />
-        Angmar Deeds
       </small>
     </div>
   </div>,
@@ -8762,6 +9656,11 @@ Array [
         >
           The Orcs of Carn Dûm (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Angmar
+        </h2>
       </div>
     </article>
     <div
@@ -8770,9 +9669,8 @@ Array [
       Honour
       <br />
       <small>
+        Level: 
         45
-        <br />
-        Angmar Deeds
       </small>
     </div>
   </div>,
@@ -8801,6 +9699,11 @@ Array [
         >
           Dunlending-slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Eregion
+        </h2>
       </div>
     </article>
     <div
@@ -8809,9 +9712,8 @@ Array [
       Honour
       <br />
       <small>
+        Level: 
         50
-        <br />
-        Eregion Deeds
       </small>
     </div>
   </div>,
@@ -8840,6 +9742,11 @@ Array [
         >
           In the Footsteps of the Fellowship
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Moria
+        </h2>
       </div>
     </article>
     <div
@@ -8848,9 +9755,8 @@ Array [
       Honour
       <br />
       <small>
+        Level: 
         53
-        <br />
-        Moria Deeds
       </small>
     </div>
   </div>,
@@ -8879,6 +9785,11 @@ Array [
         >
           Wanderer of the Golden Wood
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Lothlórien
+        </h2>
       </div>
     </article>
     <div
@@ -8887,9 +9798,8 @@ Array [
       Honour
       <br />
       <small>
+        Level: 
         55
-        <br />
-        Lothlórien Deeds
       </small>
     </div>
   </div>,
@@ -8918,6 +9828,11 @@ Array [
         >
           Mysteries of Enedwaith (Final)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Enedwaith
+        </h2>
       </div>
     </article>
     <div
@@ -8926,9 +9841,8 @@ Array [
       Honour
       <br />
       <small>
+        Level: 
         62
-        <br />
-        Enedwaith Deeds
       </small>
     </div>
   </div>,
@@ -8957,6 +9871,11 @@ Array [
         >
           Exploring the Dunbog
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Dunland
+        </h2>
       </div>
     </article>
     <div
@@ -8965,9 +9884,8 @@ Array [
       Honour
       <br />
       <small>
+        Level: 
         65
-        <br />
-        Dunland Deeds
       </small>
     </div>
   </div>,
@@ -8996,6 +9914,11 @@ Array [
         >
           Tracking an Old Goat
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Dunland
+        </h2>
       </div>
     </article>
     <div
@@ -9004,9 +9927,8 @@ Array [
       Honour
       <br />
       <small>
+        Level: 
         65
-        <br />
-        Dunland Deeds
       </small>
     </div>
   </div>,
@@ -9035,6 +9957,11 @@ Array [
         >
           Quests in the Gravenwood
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Dunland
+        </h2>
       </div>
     </article>
     <div
@@ -9043,9 +9970,8 @@ Array [
       Honour
       <br />
       <small>
+        Level: 
         65
-        <br />
-        Dunland Deeds
       </small>
     </div>
   </div>,
@@ -9074,6 +10000,11 @@ Array [
         >
           Eorlsmead Explorer
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The Great River
+        </h2>
       </div>
     </article>
     <div
@@ -9082,9 +10013,8 @@ Array [
       Honour
       <br />
       <small>
+        Level: 
         70
-        <br />
-        The Great River Deeds
       </small>
     </div>
   </div>,
@@ -9113,6 +10043,11 @@ Array [
         >
           Quests of Langhold
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          East Rohan
+        </h2>
       </div>
     </article>
     <div
@@ -9121,9 +10056,8 @@ Array [
       Honour
       <br />
       <small>
+        Level: 
         75
-        <br />
-        East Rohan Deeds
       </small>
     </div>
   </div>,
@@ -9152,6 +10086,11 @@ Array [
         >
           Orc-slayer of Wildermore (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Wildermore
+        </h2>
       </div>
     </article>
     <div
@@ -9160,9 +10099,8 @@ Array [
       Honour
       <br />
       <small>
+        Level: 
         85
-        <br />
-        Wildermore Deeds
       </small>
     </div>
   </div>,
@@ -9191,6 +10129,11 @@ Array [
         >
           Quests of the Stonedeans
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          West Rohan
+        </h2>
       </div>
     </article>
     <div
@@ -9199,9 +10142,8 @@ Array [
       Honour
       <br />
       <small>
+        Level: 
         95
-        <br />
-        West Rohan Deeds
       </small>
     </div>
   </div>,
@@ -9230,6 +10172,11 @@ Array [
         >
           Orc-slayer of West Gondor (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Western Gondor
+        </h2>
       </div>
     </article>
     <div
@@ -9238,9 +10185,8 @@ Array [
       Honour
       <br />
       <small>
+        Level: 
         100
-        <br />
-        Western Gondor Deeds
       </small>
     </div>
   </div>,
@@ -9269,6 +10215,11 @@ Array [
         >
           Roving Threats: Central Gondor's Roving Enemies
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Western Gondor
+        </h2>
       </div>
     </article>
     <div
@@ -9277,9 +10228,8 @@ Array [
       Honour
       <br />
       <small>
+        Level: 
         100
-        <br />
-        Western Gondor Deeds
       </small>
     </div>
   </div>,
@@ -9308,6 +10258,11 @@ Array [
         >
           Orc-slayer of Central Gondor (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Central Gondor
+        </h2>
       </div>
     </article>
     <div
@@ -9316,9 +10271,8 @@ Array [
       Honour
       <br />
       <small>
+        Level: 
         100
-        <br />
-        Central Gondor Deeds
       </small>
     </div>
   </div>,
@@ -9347,6 +10301,11 @@ Array [
         >
           Warbands: Eastern Gondor's Roaming Enemies
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Eastern Gondor
+        </h2>
       </div>
     </article>
     <div
@@ -9355,9 +10314,8 @@ Array [
       Honour
       <br />
       <small>
+        Level: 
         100
-        <br />
-        Eastern Gondor Deeds
       </small>
     </div>
   </div>,
@@ -9386,6 +10344,11 @@ Array [
         >
           Captains of Minas Tirith
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Old Anórien
+        </h2>
       </div>
     </article>
     <div
@@ -9394,9 +10357,8 @@ Array [
       Honour
       <br />
       <small>
+        Level: 
         100
-        <br />
-        Old Anórien Deeds
       </small>
     </div>
   </div>,
@@ -9425,6 +10387,11 @@ Array [
         >
           The History of the Dúnedain
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Bree-land
+        </h2>
       </div>
     </article>
     <div
@@ -9433,9 +10400,8 @@ Array [
       Idealism
       <br />
       <small>
+        Level: 
         1
-        <br />
-        Bree-land Deeds
       </small>
     </div>
   </div>,
@@ -9464,6 +10430,11 @@ Array [
         >
           Flowers of the Old Forest
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Bree-land
+        </h2>
       </div>
     </article>
     <div
@@ -9472,9 +10443,8 @@ Array [
       Idealism
       <br />
       <small>
+        Level: 
         1
-        <br />
-        Bree-land Deeds
       </small>
     </div>
   </div>,
@@ -9503,6 +10473,11 @@ Array [
         >
           Tales of the Lonely Road (Final)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The Lone-lands
+        </h2>
       </div>
     </article>
     <div
@@ -9511,9 +10486,8 @@ Array [
       Idealism
       <br />
       <small>
+        Level: 
         11
-        <br />
-        The Lone-lands Deeds
       </small>
     </div>
   </div>,
@@ -9542,6 +10516,11 @@ Array [
         >
           Deeds in the Wilderness (Final)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The Trollshaws
+        </h2>
       </div>
     </article>
     <div
@@ -9550,9 +10529,8 @@ Array [
       Idealism
       <br />
       <small>
+        Level: 
         39
-        <br />
-        The Trollshaws Deeds
       </small>
     </div>
   </div>,
@@ -9581,6 +10559,11 @@ Array [
         >
           Marching into Shadow (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Angmar
+        </h2>
       </div>
     </article>
     <div
@@ -9589,9 +10572,8 @@ Array [
       Idealism
       <br />
       <small>
+        Level: 
         39
-        <br />
-        Angmar Deeds
       </small>
     </div>
   </div>,
@@ -9620,6 +10602,11 @@ Array [
         >
           Gauradan-slayer (Advanced) (Forochel)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Forochel
+        </h2>
       </div>
     </article>
     <div
@@ -9628,9 +10615,8 @@ Array [
       Idealism
       <br />
       <small>
+        Level: 
         41
-        <br />
-        Forochel Deeds
       </small>
     </div>
   </div>,
@@ -9659,6 +10645,11 @@ Array [
         >
           Soldiers of the Enemy (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Eregion
+        </h2>
       </div>
     </article>
     <div
@@ -9667,9 +10658,8 @@ Array [
       Idealism
       <br />
       <small>
+        Level: 
         55
-        <br />
-        Eregion Deeds
       </small>
     </div>
   </div>,
@@ -9698,6 +10688,11 @@ Array [
         >
           Heart of the Enemy
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Moria
+        </h2>
       </div>
     </article>
     <div
@@ -9706,9 +10701,8 @@ Array [
       Idealism
       <br />
       <small>
+        Level: 
         55
-        <br />
-        Moria Deeds
       </small>
     </div>
   </div>,
@@ -9737,6 +10731,11 @@ Array [
         >
           Leaders of the Hive
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Moria
+        </h2>
       </div>
     </article>
     <div
@@ -9745,9 +10744,8 @@ Array [
       Idealism
       <br />
       <small>
+        Level: 
         55
-        <br />
-        Moria Deeds
       </small>
     </div>
   </div>,
@@ -9776,6 +10774,11 @@ Array [
         >
           Wanderer of the Central Levels
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Moria
+        </h2>
       </div>
     </article>
     <div
@@ -9784,9 +10787,8 @@ Array [
       Idealism
       <br />
       <small>
+        Level: 
         47
-        <br />
-        Moria Deeds
       </small>
     </div>
   </div>,
@@ -9815,6 +10817,11 @@ Array [
         >
           Western Durin's Way
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Moria
+        </h2>
       </div>
     </article>
     <div
@@ -9823,9 +10830,8 @@ Array [
       Idealism
       <br />
       <small>
+        Level: 
         50
-        <br />
-        Moria Deeds
       </small>
     </div>
   </div>,
@@ -9854,6 +10860,11 @@ Array [
         >
           Quests of Durin's Way
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Moria
+        </h2>
       </div>
     </article>
     <div
@@ -9862,9 +10873,8 @@ Array [
       Idealism
       <br />
       <small>
+        Level: 
         50
-        <br />
-        Moria Deeds
       </small>
     </div>
   </div>,
@@ -9893,6 +10903,11 @@ Array [
         >
           Uncovering the Ruins of Mirkwood
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Mirkwood
+        </h2>
       </div>
     </article>
     <div
@@ -9901,9 +10916,8 @@ Array [
       Idealism
       <br />
       <small>
+        Level: 
         60
-        <br />
-        Mirkwood Deeds
       </small>
     </div>
   </div>,
@@ -9932,6 +10946,11 @@ Array [
         >
           Exploring Trum Dreng
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Dunland
+        </h2>
       </div>
     </article>
     <div
@@ -9940,9 +10959,8 @@ Array [
       Idealism
       <br />
       <small>
+        Level: 
         65
-        <br />
-        Dunland Deeds
       </small>
     </div>
   </div>,
@@ -9971,6 +10989,11 @@ Array [
         >
           Deeds of Dunland
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Dunland
+        </h2>
       </div>
     </article>
     <div
@@ -9979,9 +11002,8 @@ Array [
       Idealism
       <br />
       <small>
+        Level: 
         65
-        <br />
-        Dunland Deeds
       </small>
     </div>
   </div>,
@@ -10010,6 +11032,11 @@ Array [
         >
           Orc-slayer (Advanced) (Dunland)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Dunland
+        </h2>
       </div>
     </article>
     <div
@@ -10018,9 +11045,8 @@ Array [
       Idealism
       <br />
       <small>
+        Level: 
         65
-        <br />
-        Dunland Deeds
       </small>
     </div>
   </div>,
@@ -10049,6 +11075,11 @@ Array [
         >
           Parth Celebrant Explorer
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The Great River
+        </h2>
       </div>
     </article>
     <div
@@ -10057,9 +11088,8 @@ Array [
       Idealism
       <br />
       <small>
+        Level: 
         70
-        <br />
-        The Great River Deeds
       </small>
     </div>
   </div>,
@@ -10088,6 +11118,11 @@ Array [
         >
           Slayer of Mounted Enemies in the Eastemnet (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          East Rohan
+        </h2>
       </div>
     </article>
     <div
@@ -10096,9 +11131,8 @@ Array [
       Idealism
       <br />
       <small>
+        Level: 
         75
-        <br />
-        East Rohan Deeds
       </small>
     </div>
   </div>,
@@ -10127,6 +11161,11 @@ Array [
         >
           Farms of the Fallows
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Wildermore
+        </h2>
       </div>
     </article>
     <div
@@ -10135,9 +11174,8 @@ Array [
       Idealism
       <br />
       <small>
+        Level: 
         85
-        <br />
-        Wildermore Deeds
       </small>
     </div>
   </div>,
@@ -10166,6 +11204,11 @@ Array [
         >
           Westfold Exploration
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          West Rohan
+        </h2>
       </div>
     </article>
     <div
@@ -10174,9 +11217,8 @@ Array [
       Idealism
       <br />
       <small>
+        Level: 
         95
-        <br />
-        West Rohan Deeds
       </small>
     </div>
   </div>,
@@ -10205,6 +11247,11 @@ Array [
         >
           Beacons of West Gondor
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Western Gondor
+        </h2>
       </div>
     </article>
     <div
@@ -10213,9 +11260,8 @@ Array [
       Idealism
       <br />
       <small>
+        Level: 
         100
-        <br />
-        Western Gondor Deeds
       </small>
     </div>
   </div>,
@@ -10244,6 +11290,11 @@ Array [
         >
           Quests of Lossarnach
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Eastern Gondor
+        </h2>
       </div>
     </article>
     <div
@@ -10252,9 +11303,8 @@ Array [
       Idealism
       <br />
       <small>
+        Level: 
         100
-        <br />
-        Eastern Gondor Deeds
       </small>
     </div>
   </div>,
@@ -10283,6 +11333,11 @@ Array [
         >
           Minas Tirith Fellow-halls
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Old Anórien
+        </h2>
       </div>
     </article>
     <div
@@ -10291,9 +11346,8 @@ Array [
       Idealism
       <br />
       <small>
+        Level: 
         100
-        <br />
-        Old Anórien Deeds
       </small>
     </div>
   </div>,
@@ -10322,6 +11376,11 @@ Array [
         >
           Explorer of North Ithilien
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          March of the King
+        </h2>
       </div>
     </article>
     <div
@@ -10329,10 +11388,7 @@ Array [
     >
       Idealism
       <br />
-      <small>
-        <br />
-        March of the King Deeds
-      </small>
+      <small />
     </div>
   </div>,
   <div
@@ -10360,6 +11416,11 @@ Array [
         >
           The Life of a Bounder (Final)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The Shire
+        </h2>
       </div>
     </article>
     <div
@@ -10368,9 +11429,8 @@ Array [
       Innocence
       <br />
       <small>
+        Level: 
         5
-        <br />
-        The Shire Deeds
       </small>
     </div>
   </div>,
@@ -10399,6 +11459,11 @@ Array [
         >
           Deeds in the Wilderness
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The Trollshaws
+        </h2>
       </div>
     </article>
     <div
@@ -10407,9 +11472,8 @@ Array [
       Innocence
       <br />
       <small>
+        Level: 
         35
-        <br />
-        The Trollshaws Deeds
       </small>
     </div>
   </div>,
@@ -10438,6 +11502,11 @@ Array [
         >
           Peril of the Mountains (Final)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The Misty Mountains
+        </h2>
       </div>
     </article>
     <div
@@ -10446,9 +11515,8 @@ Array [
       Innocence
       <br />
       <small>
+        Level: 
         39
-        <br />
-        The Misty Mountains Deeds
       </small>
     </div>
   </div>,
@@ -10477,6 +11545,11 @@ Array [
         >
           Pilgrim of Evendim
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Evendim
+        </h2>
       </div>
     </article>
     <div
@@ -10485,9 +11558,8 @@ Array [
       Innocence
       <br />
       <small>
+        Level: 
         25
-        <br />
-        Evendim Deeds
       </small>
     </div>
   </div>,
@@ -10516,6 +11588,11 @@ Array [
         >
           Leaders of the Invasion (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Evendim
+        </h2>
       </div>
     </article>
     <div
@@ -10524,9 +11601,8 @@ Array [
       Innocence
       <br />
       <small>
+        Level: 
         45
-        <br />
-        Evendim Deeds
       </small>
     </div>
   </div>,
@@ -10555,6 +11631,11 @@ Array [
         >
           Ancient Evil of Carn Dûm (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Angmar
+        </h2>
       </div>
     </article>
     <div
@@ -10563,9 +11644,8 @@ Array [
       Innocence
       <br />
       <small>
+        Level: 
         45
-        <br />
-        Angmar Deeds
       </small>
     </div>
   </div>,
@@ -10594,6 +11674,11 @@ Array [
         >
           Morroval-slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Moria
+        </h2>
       </div>
     </article>
     <div
@@ -10602,9 +11687,8 @@ Array [
       Innocence
       <br />
       <small>
+        Level: 
         50
-        <br />
-        Moria Deeds
       </small>
     </div>
   </div>,
@@ -10633,6 +11717,11 @@ Array [
         >
           The Horrors with Many Legs (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Moria
+        </h2>
       </div>
     </article>
     <div
@@ -10641,9 +11730,8 @@ Array [
       Innocence
       <br />
       <small>
+        Level: 
         55
-        <br />
-        Moria Deeds
       </small>
     </div>
   </div>,
@@ -10672,6 +11760,11 @@ Array [
         >
           Quests of the Water-works
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Moria
+        </h2>
       </div>
     </article>
     <div
@@ -10680,9 +11773,8 @@ Array [
       Innocence
       <br />
       <small>
+        Level: 
         50
-        <br />
-        Moria Deeds
       </small>
     </div>
   </div>,
@@ -10711,6 +11803,11 @@ Array [
         >
           Warrior of the Shadows
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Moria
+        </h2>
       </div>
     </article>
     <div
@@ -10719,9 +11816,8 @@ Array [
       Innocence
       <br />
       <small>
+        Level: 
         50
-        <br />
-        Moria Deeds
       </small>
     </div>
   </div>,
@@ -10750,6 +11846,11 @@ Array [
         >
           Quests of the Great Delving
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Moria
+        </h2>
       </div>
     </article>
     <div
@@ -10758,9 +11859,8 @@ Array [
       Innocence
       <br />
       <small>
+        Level: 
         50
-        <br />
-        Moria Deeds
       </small>
     </div>
   </div>,
@@ -10789,6 +11889,11 @@ Array [
         >
           Quests of the Redhorn Lodes
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Moria
+        </h2>
       </div>
     </article>
     <div
@@ -10797,9 +11902,8 @@ Array [
       Innocence
       <br />
       <small>
+        Level: 
         50
-        <br />
-        Moria Deeds
       </small>
     </div>
   </div>,
@@ -10828,6 +11932,11 @@ Array [
         >
           Quests of Zelem-melek
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Moria
+        </h2>
       </div>
     </article>
     <div
@@ -10836,9 +11945,8 @@ Array [
       Innocence
       <br />
       <small>
+        Level: 
         50
-        <br />
-        Moria Deeds
       </small>
     </div>
   </div>,
@@ -10867,6 +11975,11 @@ Array [
         >
           Stalwart of the Central Levels
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Moria
+        </h2>
       </div>
     </article>
     <div
@@ -10875,9 +11988,8 @@ Array [
       Innocence
       <br />
       <small>
+        Level: 
         50
-        <br />
-        Moria Deeds
       </small>
     </div>
   </div>,
@@ -10906,6 +12018,11 @@ Array [
         >
           Hero of the Upper Levels
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Moria
+        </h2>
       </div>
     </article>
     <div
@@ -10914,9 +12031,8 @@ Array [
       Innocence
       <br />
       <small>
+        Level: 
         55
-        <br />
-        Moria Deeds
       </small>
     </div>
   </div>,
@@ -10945,6 +12061,11 @@ Array [
         >
           Adventurer in the Upper Levels
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Moria
+        </h2>
       </div>
     </article>
     <div
@@ -10953,9 +12074,8 @@ Array [
       Innocence
       <br />
       <small>
+        Level: 
         55
-        <br />
-        Moria Deeds
       </small>
     </div>
   </div>,
@@ -10984,6 +12104,11 @@ Array [
         >
           Orc-slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Lothlórien
+        </h2>
       </div>
     </article>
     <div
@@ -10992,9 +12117,8 @@ Array [
       Innocence
       <br />
       <small>
+        Level: 
         60
-        <br />
-        Lothlórien Deeds
       </small>
     </div>
   </div>,
@@ -11023,6 +12147,11 @@ Array [
         >
           Quests in Carreglyn
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Dunland
+        </h2>
       </div>
     </article>
     <div
@@ -11031,9 +12160,8 @@ Array [
       Innocence
       <br />
       <small>
+        Level: 
         65
-        <br />
-        Dunland Deeds
       </small>
     </div>
   </div>,
@@ -11062,6 +12190,11 @@ Array [
         >
           Exploring the Bonevales
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Dunland
+        </h2>
       </div>
     </article>
     <div
@@ -11070,9 +12203,8 @@ Array [
       Innocence
       <br />
       <small>
+        Level: 
         65
-        <br />
-        Dunland Deeds
       </small>
     </div>
   </div>,
@@ -11101,6 +12233,11 @@ Array [
         >
           Thinglad Explorer
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The Great River
+        </h2>
       </div>
     </article>
     <div
@@ -11109,9 +12246,8 @@ Array [
       Innocence
       <br />
       <small>
+        Level: 
         70
-        <br />
-        The Great River Deeds
       </small>
     </div>
   </div>,
@@ -11140,6 +12276,11 @@ Array [
         >
           Ruins, Tombs, and Monuments of the Eastemnet
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          East Rohan
+        </h2>
       </div>
     </article>
     <div
@@ -11148,9 +12289,8 @@ Array [
       Innocence
       <br />
       <small>
+        Level: 
         75
-        <br />
-        East Rohan Deeds
       </small>
     </div>
   </div>,
@@ -11179,6 +12319,11 @@ Array [
         >
            Quests of the High Knolls
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Wildermore
+        </h2>
       </div>
     </article>
     <div
@@ -11187,9 +12332,8 @@ Array [
       Innocence
       <br />
       <small>
+        Level: 
         85
-        <br />
-        Wildermore Deeds
       </small>
     </div>
   </div>,
@@ -11218,6 +12362,11 @@ Array [
         >
           Quests of the Westfold
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          West Rohan
+        </h2>
       </div>
     </article>
     <div
@@ -11226,9 +12375,8 @@ Array [
       Innocence
       <br />
       <small>
+        Level: 
         95
-        <br />
-        West Rohan Deeds
       </small>
     </div>
   </div>,
@@ -11257,6 +12405,11 @@ Array [
         >
           Paths of the Dead (Deed)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Western Gondor
+        </h2>
       </div>
     </article>
     <div
@@ -11265,9 +12418,8 @@ Array [
       Innocence
       <br />
       <small>
+        Level: 
         100
-        <br />
-        Western Gondor Deeds
       </small>
     </div>
   </div>,
@@ -11296,6 +12448,11 @@ Array [
         >
           Path of the Grey Host
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Central Gondor
+        </h2>
       </div>
     </article>
     <div
@@ -11304,9 +12461,8 @@ Array [
       Innocence
       <br />
       <small>
+        Level: 
         100
-        <br />
-        Central Gondor Deeds
       </small>
     </div>
   </div>,
@@ -11335,6 +12491,11 @@ Array [
         >
           Strongholds of Hope
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Eastern Gondor
+        </h2>
       </div>
     </article>
     <div
@@ -11343,9 +12504,8 @@ Array [
       Innocence
       <br />
       <small>
+        Level: 
         100
-        <br />
-        Eastern Gondor Deeds
       </small>
     </div>
   </div>,
@@ -11374,6 +12534,11 @@ Array [
         >
           Brigand-slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Bree-land
+        </h2>
       </div>
     </article>
     <div
@@ -11382,9 +12547,8 @@ Array [
       Justice
       <br />
       <small>
+        Level: 
         1
-        <br />
-        Bree-land Deeds
       </small>
     </div>
   </div>,
@@ -11413,6 +12577,11 @@ Array [
         >
           Brigand-slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The Shire
+        </h2>
       </div>
     </article>
     <div
@@ -11421,9 +12590,8 @@ Array [
       Justice
       <br />
       <small>
+        Level: 
         1
-        <br />
-        The Shire Deeds
       </small>
     </div>
   </div>,
@@ -11452,6 +12620,11 @@ Array [
         >
           Brigand-slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Ered Luin
+        </h2>
       </div>
     </article>
     <div
@@ -11460,9 +12633,8 @@ Array [
       Justice
       <br />
       <small>
+        Level: 
         5
-        <br />
-        Ered Luin Deeds
       </small>
     </div>
   </div>,
@@ -11491,6 +12663,11 @@ Array [
         >
           Betrayer's Bane (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Ered Luin
+        </h2>
       </div>
     </article>
     <div
@@ -11499,9 +12676,8 @@ Array [
       Justice
       <br />
       <small>
+        Level: 
         41
-        <br />
-        Ered Luin Deeds
       </small>
     </div>
   </div>,
@@ -11530,6 +12706,11 @@ Array [
         >
           Orc-slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The North Downs
+        </h2>
       </div>
     </article>
     <div
@@ -11538,9 +12719,8 @@ Array [
       Justice
       <br />
       <small>
+        Level: 
         17
-        <br />
-        The North Downs Deeds
       </small>
     </div>
   </div>,
@@ -11569,6 +12749,11 @@ Array [
         >
           Goblin-slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Evendim
+        </h2>
       </div>
     </article>
     <div
@@ -11577,9 +12762,8 @@ Array [
       Justice
       <br />
       <small>
+        Level: 
         33
-        <br />
-        Evendim Deeds
       </small>
     </div>
   </div>,
@@ -11608,6 +12792,11 @@ Array [
         >
           Treasure of Evendim
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Evendim
+        </h2>
       </div>
     </article>
     <div
@@ -11616,9 +12805,8 @@ Array [
       Justice
       <br />
       <small>
+        Level: 
         90
-        <br />
-        Evendim Deeds
       </small>
     </div>
   </div>,
@@ -11647,6 +12835,11 @@ Array [
         >
           Angmarim-slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Angmar
+        </h2>
       </div>
     </article>
     <div
@@ -11655,9 +12848,8 @@ Array [
       Justice
       <br />
       <small>
+        Level: 
         36
-        <br />
-        Angmar Deeds
       </small>
     </div>
   </div>,
@@ -11686,6 +12878,11 @@ Array [
         >
           Warg-slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The Misty Mountains
+        </h2>
       </div>
     </article>
     <div
@@ -11694,9 +12891,8 @@ Array [
       Justice
       <br />
       <small>
+        Level: 
         43
-        <br />
-        The Misty Mountains Deeds
       </small>
     </div>
   </div>,
@@ -11725,6 +12921,11 @@ Array [
         >
           Half-orc Slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Eregion
+        </h2>
       </div>
     </article>
     <div
@@ -11733,9 +12934,8 @@ Array [
       Justice
       <br />
       <small>
+        Level: 
         50
-        <br />
-        Eregion Deeds
       </small>
     </div>
   </div>,
@@ -11764,6 +12964,11 @@ Array [
         >
           The Pale Followers (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Eregion
+        </h2>
       </div>
     </article>
     <div
@@ -11772,9 +12977,8 @@ Array [
       Justice
       <br />
       <small>
+        Level: 
         55
-        <br />
-        Eregion Deeds
       </small>
     </div>
   </div>,
@@ -11803,6 +13007,11 @@ Array [
         >
           Goblin-slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Moria
+        </h2>
       </div>
     </article>
     <div
@@ -11811,9 +13020,8 @@ Array [
       Justice
       <br />
       <small>
+        Level: 
         46
-        <br />
-        Moria Deeds
       </small>
     </div>
   </div>,
@@ -11842,6 +13050,11 @@ Array [
         >
           Strength of the Enemy (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Moria
+        </h2>
       </div>
     </article>
     <div
@@ -11850,9 +13063,8 @@ Array [
       Justice
       <br />
       <small>
+        Level: 
         55
-        <br />
-        Moria Deeds
       </small>
     </div>
   </div>,
@@ -11881,6 +13093,11 @@ Array [
         >
           The Corpse-beasts of Skûmfil (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Moria
+        </h2>
       </div>
     </article>
     <div
@@ -11889,9 +13106,8 @@ Array [
       Justice
       <br />
       <small>
+        Level: 
         55
-        <br />
-        Moria Deeds
       </small>
     </div>
   </div>,
@@ -11920,6 +13136,11 @@ Array [
         >
           Sorcerer-slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Mirkwood
+        </h2>
       </div>
     </article>
     <div
@@ -11928,9 +13149,8 @@ Array [
       Justice
       <br />
       <small>
+        Level: 
         60
-        <br />
-        Mirkwood Deeds
       </small>
     </div>
   </div>,
@@ -11959,6 +13179,11 @@ Array [
         >
           Half-orc Slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Enedwaith
+        </h2>
       </div>
     </article>
     <div
@@ -11967,9 +13192,8 @@ Array [
       Justice
       <br />
       <small>
+        Level: 
         62
-        <br />
-        Enedwaith Deeds
       </small>
     </div>
   </div>,
@@ -11998,6 +13222,11 @@ Array [
         >
           Quests in the Dunbog
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Dunland
+        </h2>
       </div>
     </article>
     <div
@@ -12006,9 +13235,8 @@ Array [
       Justice
       <br />
       <small>
+        Level: 
         65
-        <br />
-        Dunland Deeds
       </small>
     </div>
   </div>,
@@ -12037,6 +13265,11 @@ Array [
         >
           Quests of the Great River
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The Great River
+        </h2>
       </div>
     </article>
     <div
@@ -12045,9 +13278,8 @@ Array [
       Justice
       <br />
       <small>
+        Level: 
         70
-        <br />
-        The Great River Deeds
       </small>
     </div>
   </div>,
@@ -12076,6 +13308,11 @@ Array [
         >
           Quests of the Norcrofts
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          East Rohan
+        </h2>
       </div>
     </article>
     <div
@@ -12084,9 +13321,8 @@ Array [
       Justice
       <br />
       <small>
+        Level: 
         75
-        <br />
-        East Rohan Deeds
       </small>
     </div>
   </div>,
@@ -12115,6 +13351,11 @@ Array [
         >
           Uruk-slayer of Wildermore (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Wildermore
+        </h2>
       </div>
     </article>
     <div
@@ -12123,9 +13364,8 @@ Array [
       Justice
       <br />
       <small>
+        Level: 
         85
-        <br />
-        Wildermore Deeds
       </small>
     </div>
   </div>,
@@ -12154,6 +13394,11 @@ Array [
         >
           Half-orc Slayer of the Westemnet (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          West Rohan
+        </h2>
       </div>
     </article>
     <div
@@ -12162,9 +13407,8 @@ Array [
       Justice
       <br />
       <small>
+        Level: 
         95
-        <br />
-        West Rohan Deeds
       </small>
     </div>
   </div>,
@@ -12193,6 +13437,11 @@ Array [
         >
           Bandit-slayer of West Gondor (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Western Gondor
+        </h2>
       </div>
     </article>
     <div
@@ -12201,9 +13450,8 @@ Array [
       Justice
       <br />
       <small>
+        Level: 
         100
-        <br />
-        Western Gondor Deeds
       </small>
     </div>
   </div>,
@@ -12232,6 +13480,11 @@ Array [
         >
           Corsair-slayer of Central Gondor (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Central Gondor
+        </h2>
       </div>
     </article>
     <div
@@ -12240,9 +13493,8 @@ Array [
       Justice
       <br />
       <small>
+        Level: 
         100
-        <br />
-        Central Gondor Deeds
       </small>
     </div>
   </div>,
@@ -12271,6 +13523,11 @@ Array [
         >
           Haradrim-slayer of Eastern Gondor (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Eastern Gondor
+        </h2>
       </div>
     </article>
     <div
@@ -12279,9 +13536,8 @@ Array [
       Justice
       <br />
       <small>
+        Level: 
         100
-        <br />
-        Eastern Gondor Deeds
       </small>
     </div>
   </div>,
@@ -12310,6 +13566,11 @@ Array [
         >
           Haradrim-slayer of Old Anórien (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Old Anórien
+        </h2>
       </div>
     </article>
     <div
@@ -12318,9 +13579,8 @@ Array [
       Justice
       <br />
       <small>
+        Level: 
         100
-        <br />
-        Old Anórien Deeds
       </small>
     </div>
   </div>,
@@ -12349,6 +13609,11 @@ Array [
         >
           Bree-land Adventurer (Final)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Bree-land
+        </h2>
       </div>
     </article>
     <div
@@ -12357,9 +13622,8 @@ Array [
       Loyalty
       <br />
       <small>
+        Level: 
         8
-        <br />
-        Bree-land Deeds
       </small>
     </div>
   </div>,
@@ -12388,6 +13652,11 @@ Array [
         >
           Of Glories Long Past (Final)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The North Downs
+        </h2>
       </div>
     </article>
     <div
@@ -12396,9 +13665,8 @@ Array [
       Loyalty
       <br />
       <small>
+        Level: 
         24
-        <br />
-        The North Downs Deeds
       </small>
     </div>
   </div>,
@@ -12427,6 +13695,11 @@ Array [
         >
           Deeds in the Wilderness (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The Trollshaws
+        </h2>
       </div>
     </article>
     <div
@@ -12435,9 +13708,8 @@ Array [
       Loyalty
       <br />
       <small>
+        Level: 
         37
-        <br />
-        The Trollshaws Deeds
       </small>
     </div>
   </div>,
@@ -12466,6 +13738,11 @@ Array [
         >
           The City of the Kings
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Evendim
+        </h2>
       </div>
     </article>
     <div
@@ -12474,9 +13751,8 @@ Array [
       Loyalty
       <br />
       <small>
+        Level: 
         45
-        <br />
-        Evendim Deeds
       </small>
     </div>
   </div>,
@@ -12505,6 +13781,11 @@ Array [
         >
           Marching into Shadow
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Angmar
+        </h2>
       </div>
     </article>
     <div
@@ -12513,9 +13794,8 @@ Array [
       Loyalty
       <br />
       <small>
+        Level: 
         37
-        <br />
-        Angmar Deeds
       </small>
     </div>
   </div>,
@@ -12544,6 +13824,11 @@ Array [
         >
           The City of Orcs
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Angmar
+        </h2>
       </div>
     </article>
     <div
@@ -12552,9 +13837,8 @@ Array [
       Loyalty
       <br />
       <small>
+        Level: 
         43
-        <br />
-        Angmar Deeds
       </small>
     </div>
   </div>,
@@ -12583,6 +13867,11 @@ Array [
         >
           Craban-slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Eregion
+        </h2>
       </div>
     </article>
     <div
@@ -12590,10 +13879,7 @@ Array [
     >
       Loyalty
       <br />
-      <small>
-        <br />
-        Eregion Deeds
-      </small>
+      <small />
     </div>
   </div>,
   <div
@@ -12621,6 +13907,11 @@ Array [
         >
           The Hounds of Skûmfil (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Moria
+        </h2>
       </div>
     </article>
     <div
@@ -12629,9 +13920,8 @@ Array [
       Loyalty
       <br />
       <small>
+        Level: 
         55
-        <br />
-        Moria Deeds
       </small>
     </div>
   </div>,
@@ -12660,6 +13950,11 @@ Array [
         >
           Villains of the Grand Stair (Part 2)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Moria
+        </h2>
       </div>
     </article>
     <div
@@ -12668,9 +13963,8 @@ Array [
       Loyalty
       <br />
       <small>
+        Level: 
         55
-        <br />
-        Moria Deeds
       </small>
     </div>
   </div>,
@@ -12699,6 +13993,11 @@ Array [
         >
           Nud-melek
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Moria
+        </h2>
       </div>
     </article>
     <div
@@ -12707,9 +14006,8 @@ Array [
       Loyalty
       <br />
       <small>
+        Level: 
         53
-        <br />
-        Moria Deeds
       </small>
     </div>
   </div>,
@@ -12738,6 +14036,11 @@ Array [
         >
           Into the Black and Twisted Forest
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Mirkwood
+        </h2>
       </div>
     </article>
     <div
@@ -12746,9 +14049,8 @@ Array [
       Loyalty
       <br />
       <small>
+        Level: 
         60
-        <br />
-        Mirkwood Deeds
       </small>
     </div>
   </div>,
@@ -12777,6 +14079,11 @@ Array [
         >
           Beast-slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Dunland
+        </h2>
       </div>
     </article>
     <div
@@ -12785,9 +14092,8 @@ Array [
       Loyalty
       <br />
       <small>
+        Level: 
         65
-        <br />
-        Dunland Deeds
       </small>
     </div>
   </div>,
@@ -12816,6 +14122,11 @@ Array [
         >
           Orc Slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The Great River
+        </h2>
       </div>
     </article>
     <div
@@ -12824,9 +14135,8 @@ Array [
       Loyalty
       <br />
       <small>
+        Level: 
         70
-        <br />
-        The Great River Deeds
       </small>
     </div>
   </div>,
@@ -12855,6 +14165,11 @@ Array [
         >
           Where Evil Creatures Dwell
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          East Rohan
+        </h2>
       </div>
     </article>
     <div
@@ -12863,9 +14178,8 @@ Array [
       Loyalty
       <br />
       <small>
+        Level: 
         75
-        <br />
-        East Rohan Deeds
       </small>
     </div>
   </div>,
@@ -12894,6 +14208,11 @@ Array [
         >
           These Hostile Lands
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Wildermore
+        </h2>
       </div>
     </article>
     <div
@@ -12902,9 +14221,8 @@ Array [
       Loyalty
       <br />
       <small>
+        Level: 
         85
-        <br />
-        Wildermore Deeds
       </small>
     </div>
   </div>,
@@ -12933,6 +14251,11 @@ Array [
         >
           West Gondor: Camps of the Enemies
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Western Gondor
+        </h2>
       </div>
     </article>
     <div
@@ -12941,9 +14264,8 @@ Array [
       Loyalty
       <br />
       <small>
+        Level: 
         100
-        <br />
-        Western Gondor Deeds
       </small>
     </div>
   </div>,
@@ -12972,6 +14294,11 @@ Array [
         >
           Central Gondor: Camps of the Enemies
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Central Gondor
+        </h2>
       </div>
     </article>
     <div
@@ -12980,9 +14307,8 @@ Array [
       Loyalty
       <br />
       <small>
+        Level: 
         100
-        <br />
-        Central Gondor Deeds
       </small>
     </div>
   </div>,
@@ -13011,6 +14337,11 @@ Array [
         >
           The Morgul-host
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Eastern Gondor
+        </h2>
       </div>
     </article>
     <div
@@ -13019,9 +14350,8 @@ Array [
       Loyalty
       <br />
       <small>
+        Level: 
         100
-        <br />
-        Eastern Gondor Deeds
       </small>
     </div>
   </div>,
@@ -13050,6 +14380,11 @@ Array [
         >
           Quests of Pelennor
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Old Anórien
+        </h2>
       </div>
     </article>
     <div
@@ -13058,9 +14393,8 @@ Array [
       Loyalty
       <br />
       <small>
+        Level: 
         100
-        <br />
-        Old Anórien Deeds
       </small>
     </div>
   </div>,
@@ -13089,6 +14423,11 @@ Array [
         >
           Wight-slayer (Advanced) (Bree-land)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Bree-land
+        </h2>
       </div>
     </article>
     <div
@@ -13097,9 +14436,8 @@ Array [
       Mercy
       <br />
       <small>
+        Level: 
         11
-        <br />
-        Bree-land Deeds
       </small>
     </div>
   </div>,
@@ -13128,6 +14466,11 @@ Array [
         >
           Grave-digger (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Bree-land
+        </h2>
       </div>
     </article>
     <div
@@ -13136,9 +14479,8 @@ Array [
       Mercy
       <br />
       <small>
+        Level: 
         37
-        <br />
-        Bree-land Deeds
       </small>
     </div>
   </div>,
@@ -13167,6 +14509,11 @@ Array [
         >
           Nemesis of the Fallen (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Bree-land
+        </h2>
       </div>
     </article>
     <div
@@ -13175,9 +14522,8 @@ Array [
       Mercy
       <br />
       <small>
+        Level: 
         39
-        <br />
-        Bree-land Deeds
       </small>
     </div>
   </div>,
@@ -13206,6 +14552,11 @@ Array [
         >
           Redeemer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The North Downs
+        </h2>
       </div>
     </article>
     <div
@@ -13214,9 +14565,8 @@ Array [
       Mercy
       <br />
       <small>
+        Level: 
         17
-        <br />
-        The North Downs Deeds
       </small>
     </div>
   </div>,
@@ -13245,6 +14595,11 @@ Array [
         >
           Wight-slayer (Advanced) (Lone-lands)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The Lone-lands
+        </h2>
       </div>
     </article>
     <div
@@ -13253,9 +14608,8 @@ Array [
       Mercy
       <br />
       <small>
+        Level: 
         14
-        <br />
-        The Lone-lands Deeds
       </small>
     </div>
   </div>,
@@ -13284,6 +14638,11 @@ Array [
         >
           Wight-slayer (Advanced) (The Trollshaws)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The Trollshaws
+        </h2>
       </div>
     </article>
     <div
@@ -13292,9 +14651,8 @@ Array [
       Mercy
       <br />
       <small>
+        Level: 
         33
-        <br />
-        The Trollshaws Deeds
       </small>
     </div>
   </div>,
@@ -13323,6 +14681,11 @@ Array [
         >
           Limrafn-slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Evendim
+        </h2>
       </div>
     </article>
     <div
@@ -13331,9 +14694,8 @@ Array [
       Mercy
       <br />
       <small>
+        Level: 
         26
-        <br />
-        Evendim Deeds
       </small>
     </div>
   </div>,
@@ -13362,6 +14724,11 @@ Array [
         >
           Wight-slayer (Advanced) (Angmar)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Angmar
+        </h2>
       </div>
     </article>
     <div
@@ -13370,9 +14737,8 @@ Array [
       Mercy
       <br />
       <small>
+        Level: 
         42
-        <br />
-        Angmar Deeds
       </small>
     </div>
   </div>,
@@ -13401,6 +14767,11 @@ Array [
         >
           Grim-slayer (Advanced) (Forochel)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Forochel
+        </h2>
       </div>
     </article>
     <div
@@ -13409,9 +14780,8 @@ Array [
       Mercy
       <br />
       <small>
+        Level: 
         40
-        <br />
-        Forochel Deeds
       </small>
     </div>
   </div>,
@@ -13440,6 +14810,11 @@ Array [
         >
           Nameless-slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Moria
+        </h2>
       </div>
     </article>
     <div
@@ -13448,9 +14823,8 @@ Array [
       Mercy
       <br />
       <small>
+        Level: 
         53
-        <br />
-        Moria Deeds
       </small>
     </div>
   </div>,
@@ -13479,6 +14853,11 @@ Array [
         >
           The Blighted Ones (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Moria
+        </h2>
       </div>
     </article>
     <div
@@ -13487,9 +14866,8 @@ Array [
       Mercy
       <br />
       <small>
+        Level: 
         55
-        <br />
-        Moria Deeds
       </small>
     </div>
   </div>,
@@ -13518,6 +14896,11 @@ Array [
         >
           Beast-slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Lothlórien
+        </h2>
       </div>
     </article>
     <div
@@ -13526,9 +14909,8 @@ Array [
       Mercy
       <br />
       <small>
+        Level: 
         60
-        <br />
-        Lothlórien Deeds
       </small>
     </div>
   </div>,
@@ -13557,6 +14939,11 @@ Array [
         >
           Cuthraul and Elhudan-slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Enedwaith
+        </h2>
       </div>
     </article>
     <div
@@ -13565,9 +14952,8 @@ Array [
       Mercy
       <br />
       <small>
+        Level: 
         62
-        <br />
-        Enedwaith Deeds
       </small>
     </div>
   </div>,
@@ -13596,6 +14982,11 @@ Array [
         >
           Exploring the Isendale
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Dunland
+        </h2>
       </div>
     </article>
     <div
@@ -13604,9 +14995,8 @@ Array [
       Mercy
       <br />
       <small>
+        Level: 
         65
-        <br />
-        Dunland Deeds
       </small>
     </div>
   </div>,
@@ -13635,6 +15025,11 @@ Array [
         >
           Quests in the Starkmoor
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Dunland
+        </h2>
       </div>
     </article>
     <div
@@ -13643,9 +15038,8 @@ Array [
       Mercy
       <br />
       <small>
+        Level: 
         65
-        <br />
-        Dunland Deeds
       </small>
     </div>
   </div>,
@@ -13674,6 +15068,11 @@ Array [
         >
           Wailing Hills Explorer
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The Great River
+        </h2>
       </div>
     </article>
     <div
@@ -13682,9 +15081,8 @@ Array [
       Mercy
       <br />
       <small>
+        Level: 
         70
-        <br />
-        The Great River Deeds
       </small>
     </div>
   </div>,
@@ -13713,6 +15111,11 @@ Array [
         >
           Warg-slayer of the Eastemnet (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          East Rohan
+        </h2>
       </div>
     </article>
     <div
@@ -13721,9 +15124,8 @@ Array [
       Mercy
       <br />
       <small>
+        Level: 
         75
-        <br />
-        East Rohan Deeds
       </small>
     </div>
   </div>,
@@ -13752,6 +15154,11 @@ Array [
         >
           Boar-hunter of the Eastemnet
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          East Rohan
+        </h2>
       </div>
     </article>
     <div
@@ -13760,9 +15167,8 @@ Array [
       Mercy
       <br />
       <small>
+        Level: 
         75
-        <br />
-        East Rohan Deeds
       </small>
     </div>
   </div>,
@@ -13791,6 +15197,11 @@ Array [
         >
           Blooming in the Snow
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Wildermore
+        </h2>
       </div>
     </article>
     <div
@@ -13799,9 +15210,8 @@ Array [
       Mercy
       <br />
       <small>
+        Level: 
         85
-        <br />
-        Wildermore Deeds
       </small>
     </div>
   </div>,
@@ -13830,6 +15240,11 @@ Array [
         >
           Troll Slayer of the Westemnet (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          West Rohan
+        </h2>
       </div>
     </article>
     <div
@@ -13838,9 +15253,8 @@ Array [
       Mercy
       <br />
       <small>
+        Level: 
         95
-        <br />
-        West Rohan Deeds
       </small>
     </div>
   </div>,
@@ -13869,6 +15283,11 @@ Array [
         >
           Beast-slayer of Eastern Gondor (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Eastern Gondor
+        </h2>
       </div>
     </article>
     <div
@@ -13877,9 +15296,8 @@ Array [
       Mercy
       <br />
       <small>
+        Level: 
         100
-        <br />
-        Eastern Gondor Deeds
       </small>
     </div>
   </div>,
@@ -13908,6 +15326,11 @@ Array [
         >
           The Ruins of Breeland
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Bree-land
+        </h2>
       </div>
     </article>
     <div
@@ -13916,9 +15339,8 @@ Array [
       Patience
       <br />
       <small>
+        Level: 
         6
-        <br />
-        Bree-land Deeds
       </small>
     </div>
   </div>,
@@ -13947,6 +15369,11 @@ Array [
         >
           The Barrow-downs
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Bree-land
+        </h2>
       </div>
     </article>
     <div
@@ -13955,9 +15382,8 @@ Array [
       Patience
       <br />
       <small>
+        Level: 
         11
-        <br />
-        Bree-land Deeds
       </small>
     </div>
   </div>,
@@ -13986,6 +15412,11 @@ Array [
         >
           No Place for Spoiled Pies
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The Shire
+        </h2>
       </div>
     </article>
     <div
@@ -13994,9 +15425,8 @@ Array [
       Patience
       <br />
       <small>
+        Level: 
         1
-        <br />
-        The Shire Deeds
       </small>
     </div>
   </div>,
@@ -14025,6 +15455,11 @@ Array [
         >
           Restoring the Quick Post
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The Shire
+        </h2>
       </div>
     </article>
     <div
@@ -14033,9 +15468,8 @@ Array [
       Patience
       <br />
       <small>
+        Level: 
         8
-        <br />
-        The Shire Deeds
       </small>
     </div>
   </div>,
@@ -14064,6 +15498,11 @@ Array [
         >
           Places of the Dwarves
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Ered Luin
+        </h2>
       </div>
     </article>
     <div
@@ -14072,9 +15511,8 @@ Array [
       Patience
       <br />
       <small>
+        Level: 
         1
-        <br />
-        Ered Luin Deeds
       </small>
     </div>
   </div>,
@@ -14103,6 +15541,11 @@ Array [
         >
           The Eastern Ruins
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The North Downs
+        </h2>
       </div>
     </article>
     <div
@@ -14111,9 +15554,8 @@ Array [
       Patience
       <br />
       <small>
+        Level: 
         23
-        <br />
-        The North Downs Deeds
       </small>
     </div>
   </div>,
@@ -14142,6 +15584,11 @@ Array [
         >
           Wilds of Evendim
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Evendim
+        </h2>
       </div>
     </article>
     <div
@@ -14150,9 +15597,8 @@ Array [
       Patience
       <br />
       <small>
+        Level: 
         25
-        <br />
-        Evendim Deeds
       </small>
     </div>
   </div>,
@@ -14181,6 +15627,11 @@ Array [
         >
           The Beasts of Urugarth (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Angmar
+        </h2>
       </div>
     </article>
     <div
@@ -14189,9 +15640,8 @@ Array [
       Patience
       <br />
       <small>
+        Level: 
         35
-        <br />
-        Angmar Deeds
       </small>
     </div>
   </div>,
@@ -14220,6 +15670,11 @@ Array [
         >
           The Trolls of Carn Dûm (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Angmar
+        </h2>
       </div>
     </article>
     <div
@@ -14228,9 +15683,8 @@ Array [
       Patience
       <br />
       <small>
+        Level: 
         45
-        <br />
-        Angmar Deeds
       </small>
     </div>
   </div>,
@@ -14259,6 +15713,11 @@ Array [
         >
           Ancient Stones of Forochel
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Forochel
+        </h2>
       </div>
     </article>
     <div
@@ -14267,9 +15726,8 @@ Array [
       Patience
       <br />
       <small>
+        Level: 
         45
-        <br />
-        Forochel Deeds
       </small>
     </div>
   </div>,
@@ -14298,6 +15756,11 @@ Array [
         >
           Dens of the Beasts
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Eregion
+        </h2>
       </div>
     </article>
     <div
@@ -14306,9 +15769,8 @@ Array [
       Patience
       <br />
       <small>
+        Level: 
         50
-        <br />
-        Eregion Deeds
       </small>
     </div>
   </div>,
@@ -14337,6 +15799,11 @@ Array [
         >
           Carriers of the Blight (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Moria
+        </h2>
       </div>
     </article>
     <div
@@ -14345,9 +15812,8 @@ Array [
       Patience
       <br />
       <small>
+        Level: 
         55
-        <br />
-        Moria Deeds
       </small>
     </div>
   </div>,
@@ -14376,6 +15842,11 @@ Array [
         >
           Nameless-slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Moria
+        </h2>
       </div>
     </article>
     <div
@@ -14384,9 +15855,8 @@ Array [
       Patience
       <br />
       <small>
+        Level: 
         55
-        <br />
-        Moria Deeds
       </small>
     </div>
   </div>,
@@ -14415,6 +15885,11 @@ Array [
         >
           Mysteries of Enedwaith (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Enedwaith
+        </h2>
       </div>
     </article>
     <div
@@ -14423,9 +15898,8 @@ Array [
       Patience
       <br />
       <small>
+        Level: 
         62
-        <br />
-        Enedwaith Deeds
       </small>
     </div>
   </div>,
@@ -14454,6 +15928,11 @@ Array [
         >
           Slayer of the Dead (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Dunland
+        </h2>
       </div>
     </article>
     <div
@@ -14462,9 +15941,8 @@ Array [
       Patience
       <br />
       <small>
+        Level: 
         65
-        <br />
-        Dunland Deeds
       </small>
     </div>
   </div>,
@@ -14493,6 +15971,11 @@ Array [
         >
           Quests of the Rushgore
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The Great River
+        </h2>
       </div>
     </article>
     <div
@@ -14501,9 +15984,8 @@ Array [
       Patience
       <br />
       <small>
+        Level: 
         70
-        <br />
-        The Great River Deeds
       </small>
     </div>
   </div>,
@@ -14532,6 +16014,11 @@ Array [
         >
           Titan-slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The Great River
+        </h2>
       </div>
     </article>
     <div
@@ -14540,9 +16027,8 @@ Array [
       Patience
       <br />
       <small>
+        Level: 
         70
-        <br />
-        The Great River Deeds
       </small>
     </div>
   </div>,
@@ -14571,6 +16057,11 @@ Array [
         >
           Spider-slayer of the Eastemnet (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          East Rohan
+        </h2>
       </div>
     </article>
     <div
@@ -14579,9 +16070,8 @@ Array [
       Patience
       <br />
       <small>
+        Level: 
         75
-        <br />
-        East Rohan Deeds
       </small>
     </div>
   </div>,
@@ -14610,6 +16100,11 @@ Array [
         >
           Quests of the Writhendowns
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Wildermore
+        </h2>
       </div>
     </article>
     <div
@@ -14618,9 +16113,8 @@ Array [
       Patience
       <br />
       <small>
+        Level: 
         85
-        <br />
-        Wildermore Deeds
       </small>
     </div>
   </div>,
@@ -14649,6 +16143,11 @@ Array [
         >
           Eastfold Exploration
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          West Rohan
+        </h2>
       </div>
     </article>
     <div
@@ -14657,9 +16156,8 @@ Array [
       Patience
       <br />
       <small>
+        Level: 
         95
-        <br />
-        West Rohan Deeds
       </small>
     </div>
   </div>,
@@ -14688,6 +16186,11 @@ Array [
         >
           Wolf Slayer of the Westemnet (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          West Rohan
+        </h2>
       </div>
     </article>
     <div
@@ -14696,9 +16199,8 @@ Array [
       Patience
       <br />
       <small>
+        Level: 
         95
-        <br />
-        West Rohan Deeds
       </small>
     </div>
   </div>,
@@ -14727,6 +16229,11 @@ Array [
         >
           Warbands: West Gondor's Roaming Enemies
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Western Gondor
+        </h2>
       </div>
     </article>
     <div
@@ -14735,9 +16242,8 @@ Array [
       Patience
       <br />
       <small>
+        Level: 
         100
-        <br />
-        Western Gondor Deeds
       </small>
     </div>
   </div>,
@@ -14766,6 +16272,11 @@ Array [
         >
           Warbands: Central Gondor's Roaming Enemies
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Central Gondor
+        </h2>
       </div>
     </article>
     <div
@@ -14774,9 +16285,8 @@ Array [
       Patience
       <br />
       <small>
+        Level: 
         100
-        <br />
-        Central Gondor Deeds
       </small>
     </div>
   </div>,
@@ -14805,6 +16315,11 @@ Array [
         >
           Treasure of Eastern Gondor
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Eastern Gondor
+        </h2>
       </div>
     </article>
     <div
@@ -14813,9 +16328,8 @@ Array [
       Patience
       <br />
       <small>
+        Level: 
         100
-        <br />
-        Eastern Gondor Deeds
       </small>
     </div>
   </div>,
@@ -14844,6 +16358,11 @@ Array [
         >
           The Farms of the Shire
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The Shire
+        </h2>
       </div>
     </article>
     <div
@@ -14852,9 +16371,8 @@ Array [
       Tolerance
       <br />
       <small>
+        Level: 
         1
-        <br />
-        The Shire Deeds
       </small>
     </div>
   </div>,
@@ -14883,6 +16401,11 @@ Array [
         >
           The Villages of the Earth-kin
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The North Downs
+        </h2>
       </div>
     </article>
     <div
@@ -14891,9 +16414,8 @@ Array [
       Tolerance
       <br />
       <small>
+        Level: 
         27
-        <br />
-        The North Downs Deeds
       </small>
     </div>
   </div>,
@@ -14922,6 +16444,11 @@ Array [
         >
           Ruins of the Trollshaws
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The Trollshaws
+        </h2>
       </div>
     </article>
     <div
@@ -14930,9 +16457,8 @@ Array [
       Tolerance
       <br />
       <small>
+        Level: 
         30
-        <br />
-        The Trollshaws Deeds
       </small>
     </div>
   </div>,
@@ -14961,6 +16487,11 @@ Array [
         >
           Ruins of the Misty Mountains
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The Misty Mountains
+        </h2>
       </div>
     </article>
     <div
@@ -14969,9 +16500,8 @@ Array [
       Tolerance
       <br />
       <small>
+        Level: 
         35
-        <br />
-        The Misty Mountains Deeds
       </small>
     </div>
   </div>,
@@ -15000,6 +16530,11 @@ Array [
         >
           Spirits Aiding Angmar (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Evendim
+        </h2>
       </div>
     </article>
     <div
@@ -15008,9 +16543,8 @@ Array [
       Tolerance
       <br />
       <small>
+        Level: 
         45
-        <br />
-        Evendim Deeds
       </small>
     </div>
   </div>,
@@ -15039,6 +16573,11 @@ Array [
         >
           Bastions of Hope
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Angmar
+        </h2>
       </div>
     </article>
     <div
@@ -15047,9 +16586,8 @@ Array [
       Tolerance
       <br />
       <small>
+        Level: 
         25
-        <br />
-        Angmar Deeds
       </small>
     </div>
   </div>,
@@ -15078,6 +16616,11 @@ Array [
         >
           The Enemy's Stronghold
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Angmar
+        </h2>
       </div>
     </article>
     <div
@@ -15086,9 +16629,8 @@ Array [
       Tolerance
       <br />
       <small>
+        Level: 
         45
-        <br />
-        Angmar Deeds
       </small>
     </div>
   </div>,
@@ -15117,6 +16659,11 @@ Array [
         >
           Deep-claw Slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Moria
+        </h2>
       </div>
     </article>
     <div
@@ -15125,9 +16672,8 @@ Array [
       Tolerance
       <br />
       <small>
+        Level: 
         46
-        <br />
-        Moria Deeds
       </small>
     </div>
   </div>,
@@ -15156,6 +16702,11 @@ Array [
         >
           Fallen to Blight (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Moria
+        </h2>
       </div>
     </article>
     <div
@@ -15164,9 +16715,8 @@ Array [
       Tolerance
       <br />
       <small>
+        Level: 
         55
-        <br />
-        Moria Deeds
       </small>
     </div>
   </div>,
@@ -15195,6 +16745,11 @@ Array [
         >
           Leaders of the Nameless
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Moria
+        </h2>
       </div>
     </article>
     <div
@@ -15203,9 +16758,8 @@ Array [
       Tolerance
       <br />
       <small>
+        Level: 
         55
-        <br />
-        Moria Deeds
       </small>
     </div>
   </div>,
@@ -15234,6 +16788,11 @@ Array [
         >
           The Flaming Deeps
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Moria
+        </h2>
       </div>
     </article>
     <div
@@ -15242,9 +16801,8 @@ Array [
       Tolerance
       <br />
       <small>
+        Level: 
         50
-        <br />
-        Moria Deeds
       </small>
     </div>
   </div>,
@@ -15273,6 +16831,11 @@ Array [
         >
           The Water-works
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Moria
+        </h2>
       </div>
     </article>
     <div
@@ -15281,9 +16844,8 @@ Array [
       Tolerance
       <br />
       <small>
+        Level: 
         50
-        <br />
-        Moria Deeds
       </small>
     </div>
   </div>,
@@ -15312,6 +16874,11 @@ Array [
         >
           Spider-slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Mirkwood
+        </h2>
       </div>
     </article>
     <div
@@ -15320,9 +16887,8 @@ Array [
       Tolerance
       <br />
       <small>
+        Level: 
         60
-        <br />
-        Mirkwood Deeds
       </small>
     </div>
   </div>,
@@ -15351,6 +16917,11 @@ Array [
         >
           Quests in Nan Curunír
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Dunland
+        </h2>
       </div>
     </article>
     <div
@@ -15359,9 +16930,8 @@ Array [
       Tolerance
       <br />
       <small>
+        Level: 
         65
-        <br />
-        Dunland Deeds
       </small>
     </div>
   </div>,
@@ -15390,6 +16960,11 @@ Array [
         >
           Rushgore Explorer
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The Great River
+        </h2>
       </div>
     </article>
     <div
@@ -15398,9 +16973,8 @@ Array [
       Tolerance
       <br />
       <small>
+        Level: 
         70
-        <br />
-        The Great River Deeds
       </small>
     </div>
   </div>,
@@ -15429,6 +17003,11 @@ Array [
         >
           Beast Slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The Great River
+        </h2>
       </div>
     </article>
     <div
@@ -15437,9 +17016,8 @@ Array [
       Tolerance
       <br />
       <small>
+        Level: 
         70
-        <br />
-        The Great River Deeds
       </small>
     </div>
   </div>,
@@ -15468,6 +17046,11 @@ Array [
         >
           Quests of the Entwash Vale
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          East Rohan
+        </h2>
       </div>
     </article>
     <div
@@ -15476,9 +17059,8 @@ Array [
       Tolerance
       <br />
       <small>
+        Level: 
         75
-        <br />
-        East Rohan Deeds
       </small>
     </div>
   </div>,
@@ -15507,6 +17089,11 @@ Array [
         >
           Peaks of the High Knolls
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Wildermore
+        </h2>
       </div>
     </article>
     <div
@@ -15515,9 +17102,8 @@ Array [
       Tolerance
       <br />
       <small>
+        Level: 
         85
-        <br />
-        Wildermore Deeds
       </small>
     </div>
   </div>,
@@ -15546,6 +17132,11 @@ Array [
         >
           Orc Slayer of the Westemnet (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          West Rohan
+        </h2>
       </div>
     </article>
     <div
@@ -15554,9 +17145,8 @@ Array [
       Tolerance
       <br />
       <small>
+        Level: 
         95
-        <br />
-        West Rohan Deeds
       </small>
     </div>
   </div>,
@@ -15585,6 +17175,11 @@ Array [
         >
           Quests of South Ithilien
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Eastern Gondor
+        </h2>
       </div>
     </article>
     <div
@@ -15593,9 +17188,8 @@ Array [
       Tolerance
       <br />
       <small>
+        Level: 
         100
-        <br />
-        Eastern Gondor Deeds
       </small>
     </div>
   </div>,
@@ -15624,6 +17218,11 @@ Array [
         >
           Wardens of Minas Tirith
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Old Anórien
+        </h2>
       </div>
     </article>
     <div
@@ -15632,9 +17231,8 @@ Array [
       Tolerance
       <br />
       <small>
+        Level: 
         100
-        <br />
-        Old Anórien Deeds
       </small>
     </div>
   </div>,
@@ -15663,6 +17261,11 @@ Array [
         >
           Orc-slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Bree-land
+        </h2>
       </div>
     </article>
     <div
@@ -15671,9 +17274,8 @@ Array [
       Valour
       <br />
       <small>
+        Level: 
         10
-        <br />
-        Bree-land Deeds
       </small>
     </div>
   </div>,
@@ -15702,6 +17304,11 @@ Array [
         >
           Goblin-slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The Shire
+        </h2>
       </div>
     </article>
     <div
@@ -15710,9 +17317,8 @@ Array [
       Valour
       <br />
       <small>
+        Level: 
         1
-        <br />
-        The Shire Deeds
       </small>
     </div>
   </div>,
@@ -15741,6 +17347,11 @@ Array [
         >
           Troll-kicker (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Ered Luin
+        </h2>
       </div>
     </article>
     <div
@@ -15749,9 +17360,8 @@ Array [
       Valour
       <br />
       <small>
+        Level: 
         46
-        <br />
-        Ered Luin Deeds
       </small>
     </div>
   </div>,
@@ -15780,6 +17390,11 @@ Array [
         >
           Goblin-slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The Lone-lands
+        </h2>
       </div>
     </article>
     <div
@@ -15788,9 +17403,8 @@ Array [
       Valour
       <br />
       <small>
+        Level: 
         10
-        <br />
-        The Lone-lands Deeds
       </small>
     </div>
   </div>,
@@ -15819,6 +17433,11 @@ Array [
         >
           Orc-slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The Lone-lands
+        </h2>
       </div>
     </article>
     <div
@@ -15827,9 +17446,8 @@ Array [
       Valour
       <br />
       <small>
+        Level: 
         10
-        <br />
-        The Lone-lands Deeds
       </small>
     </div>
   </div>,
@@ -15858,6 +17476,11 @@ Array [
         >
           Worm-slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The Trollshaws
+        </h2>
       </div>
     </article>
     <div
@@ -15866,9 +17489,8 @@ Array [
       Valour
       <br />
       <small>
+        Level: 
         33
-        <br />
-        The Trollshaws Deeds
       </small>
     </div>
   </div>,
@@ -15897,6 +17519,11 @@ Array [
         >
           The Trolls of Urugarth (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Angmar
+        </h2>
       </div>
     </article>
     <div
@@ -15905,9 +17532,8 @@ Array [
       Valour
       <br />
       <small>
+        Level: 
         36
-        <br />
-        Angmar Deeds
       </small>
     </div>
   </div>,
@@ -15936,6 +17562,11 @@ Array [
         >
           Worm-slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Angmar
+        </h2>
       </div>
     </article>
     <div
@@ -15944,9 +17575,8 @@ Array [
       Valour
       <br />
       <small>
+        Level: 
         38
-        <br />
-        Angmar Deeds
       </small>
     </div>
   </div>,
@@ -15975,6 +17605,11 @@ Array [
         >
           Champions of Carn Dûm (Final)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Angmar
+        </h2>
       </div>
     </article>
     <div
@@ -15983,9 +17618,8 @@ Array [
       Valour
       <br />
       <small>
+        Level: 
         45
-        <br />
-        Angmar Deeds
       </small>
     </div>
   </div>,
@@ -16014,6 +17648,11 @@ Array [
         >
           Troll-slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The Misty Mountains
+        </h2>
       </div>
     </article>
     <div
@@ -16022,9 +17661,8 @@ Array [
       Valour
       <br />
       <small>
+        Level: 
         39
-        <br />
-        The Misty Mountains Deeds
       </small>
     </div>
   </div>,
@@ -16053,6 +17691,11 @@ Array [
         >
           Spider-slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Moria
+        </h2>
       </div>
     </article>
     <div
@@ -16061,9 +17704,8 @@ Array [
       Valour
       <br />
       <small>
+        Level: 
         50
-        <br />
-        Moria Deeds
       </small>
     </div>
   </div>,
@@ -16092,6 +17734,11 @@ Array [
         >
           Worm-slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Moria
+        </h2>
       </div>
     </article>
     <div
@@ -16100,9 +17747,8 @@ Array [
       Valour
       <br />
       <small>
+        Level: 
         50
-        <br />
-        Moria Deeds
       </small>
     </div>
   </div>,
@@ -16131,6 +17777,11 @@ Array [
         >
           The Foundations of Stone
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Moria
+        </h2>
       </div>
     </article>
     <div
@@ -16139,9 +17790,8 @@ Array [
       Valour
       <br />
       <small>
+        Level: 
         55
-        <br />
-        Moria Deeds
       </small>
     </div>
   </div>,
@@ -16170,6 +17820,11 @@ Array [
         >
           City of the Lord and Lady
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Lothlórien
+        </h2>
       </div>
     </article>
     <div
@@ -16178,9 +17833,8 @@ Array [
       Valour
       <br />
       <small>
+        Level: 
         53
-        <br />
-        Lothlórien Deeds
       </small>
     </div>
   </div>,
@@ -16209,6 +17863,11 @@ Array [
         >
           Evil Strongholds of Mirkwood
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Mirkwood
+        </h2>
       </div>
     </article>
     <div
@@ -16217,9 +17876,8 @@ Array [
       Valour
       <br />
       <small>
+        Level: 
         60
-        <br />
-        Mirkwood Deeds
       </small>
     </div>
   </div>,
@@ -16248,6 +17906,11 @@ Array [
         >
           Easterling-slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The Great River
+        </h2>
       </div>
     </article>
     <div
@@ -16256,9 +17919,8 @@ Array [
       Valour
       <br />
       <small>
+        Level: 
         70
-        <br />
-        The Great River Deeds
       </small>
     </div>
   </div>,
@@ -16287,6 +17949,11 @@ Array [
         >
           The Wilds of the Eastemnet
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          East Rohan
+        </h2>
       </div>
     </article>
     <div
@@ -16295,9 +17962,8 @@ Array [
       Valour
       <br />
       <small>
+        Level: 
         75
-        <br />
-        East Rohan Deeds
       </small>
     </div>
   </div>,
@@ -16326,6 +17992,11 @@ Array [
         >
           Quests of the Sutcrofts
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          East Rohan
+        </h2>
       </div>
     </article>
     <div
@@ -16334,9 +18005,8 @@ Array [
       Valour
       <br />
       <small>
+        Level: 
         75
-        <br />
-        East Rohan Deeds
       </small>
     </div>
   </div>,
@@ -16365,6 +18035,11 @@ Array [
         >
           Slayer of Mounted Foes in Wildermore (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Wildermore
+        </h2>
       </div>
     </article>
     <div
@@ -16373,9 +18048,8 @@ Array [
       Valour
       <br />
       <small>
+        Level: 
         85
-        <br />
-        Wildermore Deeds
       </small>
     </div>
   </div>,
@@ -16404,6 +18078,11 @@ Array [
         >
           Goblin Slayer of the Westemnet (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          West Rohan
+        </h2>
       </div>
     </article>
     <div
@@ -16412,9 +18091,8 @@ Array [
       Valour
       <br />
       <small>
+        Level: 
         95
-        <br />
-        West Rohan Deeds
       </small>
     </div>
   </div>,
@@ -16443,6 +18121,11 @@ Array [
         >
           Corsair-slayer of West Gondor (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Western Gondor
+        </h2>
       </div>
     </article>
     <div
@@ -16451,9 +18134,8 @@ Array [
       Valour
       <br />
       <small>
+        Level: 
         100
-        <br />
-        Western Gondor Deeds
       </small>
     </div>
   </div>,
@@ -16482,6 +18164,11 @@ Array [
         >
           Haradrim-slayer of Central Gondor (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Central Gondor
+        </h2>
       </div>
     </article>
     <div
@@ -16490,9 +18177,8 @@ Array [
       Valour
       <br />
       <small>
+        Level: 
         100
-        <br />
-        Central Gondor Deeds
       </small>
     </div>
   </div>,
@@ -16521,6 +18207,11 @@ Array [
         >
           Orc-slayer of Eastern Gondor (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Eastern Gondor
+        </h2>
       </div>
     </article>
     <div
@@ -16529,9 +18220,8 @@ Array [
       Valour
       <br />
       <small>
+        Level: 
         100
-        <br />
-        Eastern Gondor Deeds
       </small>
     </div>
   </div>,
@@ -16560,6 +18250,11 @@ Array [
         >
           Beast-slayer of Old Anórien (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Old Anórien
+        </h2>
       </div>
     </article>
     <div
@@ -16568,9 +18263,8 @@ Array [
       Valour
       <br />
       <small>
+        Level: 
         100
-        <br />
-        Old Anórien Deeds
       </small>
     </div>
   </div>,
@@ -16599,6 +18293,11 @@ Array [
         >
           Elf-ruins Exploration
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Ered Luin
+        </h2>
       </div>
     </article>
     <div
@@ -16607,9 +18306,8 @@ Array [
       Wisdom
       <br />
       <small>
+        Level: 
         4
-        <br />
-        Ered Luin Deeds
       </small>
     </div>
   </div>,
@@ -16638,6 +18336,11 @@ Array [
         >
           The Old Forest
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Bree-land
+        </h2>
       </div>
     </article>
     <div
@@ -16646,9 +18349,8 @@ Array [
       Wisdom
       <br />
       <small>
+        Level: 
         6
-        <br />
-        Bree-land Deeds
       </small>
     </div>
   </div>,
@@ -16677,6 +18379,11 @@ Array [
         >
           Lore of the Cardolan Prince
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Bree-land
+        </h2>
       </div>
     </article>
     <div
@@ -16685,9 +18392,8 @@ Array [
       Wisdom
       <br />
       <small>
+        Level: 
         10
-        <br />
-        Bree-land Deeds
       </small>
     </div>
   </div>,
@@ -16716,6 +18422,11 @@ Array [
         >
           Weathertop Exploration
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The Lone-lands
+        </h2>
       </div>
     </article>
     <div
@@ -16724,9 +18435,8 @@ Array [
       Wisdom
       <br />
       <small>
+        Level: 
         11
-        <br />
-        The Lone-lands Deeds
       </small>
     </div>
   </div>,
@@ -16755,6 +18465,11 @@ Array [
         >
           The Western Ruins
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The North Downs
+        </h2>
       </div>
     </article>
     <div
@@ -16763,9 +18478,8 @@ Array [
       Wisdom
       <br />
       <small>
+        Level: 
         20
-        <br />
-        The North Downs Deeds
       </small>
     </div>
   </div>,
@@ -16794,6 +18508,11 @@ Array [
         >
           The High Passes
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The Misty Mountains
+        </h2>
       </div>
     </article>
     <div
@@ -16802,9 +18521,8 @@ Array [
       Wisdom
       <br />
       <small>
+        Level: 
         35
-        <br />
-        The Misty Mountains Deeds
       </small>
     </div>
   </div>,
@@ -16833,6 +18551,11 @@ Array [
         >
           Invaders from Angmar (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Evendim
+        </h2>
       </div>
     </article>
     <div
@@ -16841,9 +18564,8 @@ Array [
       Wisdom
       <br />
       <small>
+        Level: 
         45
-        <br />
-        Evendim Deeds
       </small>
     </div>
   </div>,
@@ -16872,6 +18594,11 @@ Array [
         >
           The Battle for Forochel
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Forochel
+        </h2>
       </div>
     </article>
     <div
@@ -16880,9 +18607,8 @@ Array [
       Wisdom
       <br />
       <small>
+        Level: 
         36
-        <br />
-        Forochel Deeds
       </small>
     </div>
   </div>,
@@ -16911,6 +18637,11 @@ Array [
         >
           The Ruins of Eregion
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Eregion
+        </h2>
       </div>
     </article>
     <div
@@ -16919,9 +18650,8 @@ Array [
       Wisdom
       <br />
       <small>
+        Level: 
         50
-        <br />
-        Eregion Deeds
       </small>
     </div>
   </div>,
@@ -16950,6 +18680,11 @@ Array [
         >
           Warriors of the Enemy (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Eregion
+        </h2>
       </div>
     </article>
     <div
@@ -16958,9 +18693,8 @@ Array [
       Wisdom
       <br />
       <small>
+        Level: 
         55
-        <br />
-        Eregion Deeds
       </small>
     </div>
   </div>,
@@ -16989,6 +18723,11 @@ Array [
         >
           Glow-worm Slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Moria
+        </h2>
       </div>
     </article>
     <div
@@ -16997,9 +18736,8 @@ Array [
       Wisdom
       <br />
       <small>
+        Level: 
         55
-        <br />
-        Moria Deeds
       </small>
     </div>
   </div>,
@@ -17028,6 +18766,11 @@ Array [
         >
           Followers of Igash (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Moria
+        </h2>
       </div>
     </article>
     <div
@@ -17036,9 +18779,8 @@ Array [
       Wisdom
       <br />
       <small>
+        Level: 
         55
-        <br />
-        Moria Deeds
       </small>
     </div>
   </div>,
@@ -17067,6 +18809,11 @@ Array [
         >
           Orcs of the Sixteenth Hall (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Moria
+        </h2>
       </div>
     </article>
     <div
@@ -17075,9 +18822,8 @@ Array [
       Wisdom
       <br />
       <small>
+        Level: 
         55
-        <br />
-        Moria Deeds
       </small>
     </div>
   </div>,
@@ -17106,6 +18852,11 @@ Array [
         >
           The Redhorn Lodes
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Moria
+        </h2>
       </div>
     </article>
     <div
@@ -17114,9 +18865,8 @@ Array [
       Wisdom
       <br />
       <small>
+        Level: 
         50
-        <br />
-        Moria Deeds
       </small>
     </div>
   </div>,
@@ -17145,6 +18895,11 @@ Array [
         >
           The Wilds of Mirkwood
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Mirkwood
+        </h2>
       </div>
     </article>
     <div
@@ -17153,9 +18908,8 @@ Array [
       Wisdom
       <br />
       <small>
+        Level: 
         60
-        <br />
-        Mirkwood Deeds
       </small>
     </div>
   </div>,
@@ -17184,6 +18938,11 @@ Array [
         >
           Craban-slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Dunland
+        </h2>
       </div>
     </article>
     <div
@@ -17192,9 +18951,8 @@ Array [
       Wisdom
       <br />
       <small>
+        Level: 
         65
-        <br />
-        Dunland Deeds
       </small>
     </div>
   </div>,
@@ -17223,6 +18981,11 @@ Array [
         >
           Brigand-slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The Great River
+        </h2>
       </div>
     </article>
     <div
@@ -17231,9 +18994,8 @@ Array [
       Wisdom
       <br />
       <small>
+        Level: 
         70
-        <br />
-        The Great River Deeds
       </small>
     </div>
   </div>,
@@ -17262,6 +19024,11 @@ Array [
         >
           Quests of the East Wall
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          East Rohan
+        </h2>
       </div>
     </article>
     <div
@@ -17270,9 +19037,8 @@ Array [
       Wisdom
       <br />
       <small>
+        Level: 
         75
-        <br />
-        East Rohan Deeds
       </small>
     </div>
   </div>,
@@ -17301,6 +19067,11 @@ Array [
         >
           Brigand-slayer of the Eastemnet (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          East Rohan
+        </h2>
       </div>
     </article>
     <div
@@ -17309,9 +19080,8 @@ Array [
       Wisdom
       <br />
       <small>
+        Level: 
         75
-        <br />
-        East Rohan Deeds
       </small>
     </div>
   </div>,
@@ -17340,6 +19110,11 @@ Array [
         >
           Snow-cat Slayer of Wildermore (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Wildermore
+        </h2>
       </div>
     </article>
     <div
@@ -17348,9 +19123,8 @@ Array [
       Wisdom
       <br />
       <small>
+        Level: 
         85
-        <br />
-        Wildermore Deeds
       </small>
     </div>
   </div>,
@@ -17379,6 +19153,11 @@ Array [
         >
           Kingstead Exploration
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          West Rohan
+        </h2>
       </div>
     </article>
     <div
@@ -17387,9 +19166,8 @@ Array [
       Wisdom
       <br />
       <small>
+        Level: 
         95
-        <br />
-        West Rohan Deeds
       </small>
     </div>
   </div>,
@@ -17418,6 +19196,11 @@ Array [
         >
           The Five Sisters
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Eastern Gondor
+        </h2>
       </div>
     </article>
     <div
@@ -17426,9 +19209,8 @@ Array [
       Wisdom
       <br />
       <small>
+        Level: 
         100
-        <br />
-        Eastern Gondor Deeds
       </small>
     </div>
   </div>,
@@ -17457,6 +19239,11 @@ Array [
         >
           Masters of Minas Tirith
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Old Anórien
+        </h2>
       </div>
     </article>
     <div
@@ -17465,9 +19252,8 @@ Array [
       Wisdom
       <br />
       <small>
+        Level: 
         100
-        <br />
-        Old Anórien Deeds
       </small>
     </div>
   </div>,
@@ -17496,6 +19282,11 @@ Array [
         >
           Brood-hunter (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Bree-land
+        </h2>
       </div>
     </article>
     <div
@@ -17504,9 +19295,8 @@ Array [
       Zeal
       <br />
       <small>
+        Level: 
         15
-        <br />
-        Bree-land Deeds
       </small>
     </div>
   </div>,
@@ -17535,6 +19325,11 @@ Array [
         >
           Goblin-slayer (Advanced) (Ered Luin)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Ered Luin
+        </h2>
       </div>
     </article>
     <div
@@ -17543,9 +19338,8 @@ Array [
       Zeal
       <br />
       <small>
+        Level: 
         1
-        <br />
-        Ered Luin Deeds
       </small>
     </div>
   </div>,
@@ -17574,6 +19368,11 @@ Array [
         >
           Spider-slayer (Advanced) (Ered Luin)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Ered Luin
+        </h2>
       </div>
     </article>
     <div
@@ -17582,9 +19381,8 @@ Array [
       Zeal
       <br />
       <small>
+        Level: 
         5
-        <br />
-        Ered Luin Deeds
       </small>
     </div>
   </div>,
@@ -17613,6 +19411,11 @@ Array [
         >
           Goblin-slayer (Advanced) (North Downs)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The North Downs
+        </h2>
       </div>
     </article>
     <div
@@ -17621,9 +19424,8 @@ Array [
       Zeal
       <br />
       <small>
+        Level: 
         16
-        <br />
-        The North Downs Deeds
       </small>
     </div>
   </div>,
@@ -17652,6 +19454,11 @@ Array [
         >
           Troll-slayer (Advanced) (Trollshaws)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The Trollshaws
+        </h2>
       </div>
     </article>
     <div
@@ -17660,9 +19467,8 @@ Array [
       Zeal
       <br />
       <small>
+        Level: 
         29
-        <br />
-        The Trollshaws Deeds
       </small>
     </div>
   </div>,
@@ -17691,6 +19497,11 @@ Array [
         >
           Giant-slayer (Advanced) (Misty Mountains)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The Misty Mountains
+        </h2>
       </div>
     </article>
     <div
@@ -17699,9 +19510,8 @@ Array [
       Zeal
       <br />
       <small>
+        Level: 
         39
-        <br />
-        The Misty Mountains Deeds
       </small>
     </div>
   </div>,
@@ -17730,6 +19540,11 @@ Array [
         >
           Kergrim-slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Evendim
+        </h2>
       </div>
     </article>
     <div
@@ -17738,9 +19553,8 @@ Array [
       Zeal
       <br />
       <small>
+        Level: 
         33
-        <br />
-        Evendim Deeds
       </small>
     </div>
   </div>,
@@ -17769,6 +19583,11 @@ Array [
         >
           Orc-slayer (Advanced) (Angmar)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Angmar
+        </h2>
       </div>
     </article>
     <div
@@ -17777,9 +19596,8 @@ Array [
       Zeal
       <br />
       <small>
+        Level: 
         35
-        <br />
-        Angmar Deeds
       </small>
     </div>
   </div>,
@@ -17808,6 +19626,11 @@ Array [
         >
           Worm-slayer (Advanced) (Forochel)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Forochel
+        </h2>
       </div>
     </article>
     <div
@@ -17816,9 +19639,8 @@ Array [
       Zeal
       <br />
       <small>
+        Level: 
         41
-        <br />
-        Forochel Deeds
       </small>
     </div>
   </div>,
@@ -17847,6 +19669,11 @@ Array [
         >
           Dragonet-slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Moria
+        </h2>
       </div>
     </article>
     <div
@@ -17855,9 +19682,8 @@ Array [
       Zeal
       <br />
       <small>
+        Level: 
         47
-        <br />
-        Moria Deeds
       </small>
     </div>
   </div>,
@@ -17886,6 +19712,11 @@ Array [
         >
           Bulwarks of the Enemy
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Moria
+        </h2>
       </div>
     </article>
     <div
@@ -17894,9 +19725,8 @@ Array [
       Zeal
       <br />
       <small>
+        Level: 
         53
-        <br />
-        Moria Deeds
       </small>
     </div>
   </div>,
@@ -17925,6 +19755,11 @@ Array [
         >
           Corruption in Command
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Moria
+        </h2>
       </div>
     </article>
     <div
@@ -17933,9 +19768,8 @@ Array [
       Zeal
       <br />
       <small>
+        Level: 
         55
-        <br />
-        Moria Deeds
       </small>
     </div>
   </div>,
@@ -17964,6 +19798,11 @@ Array [
         >
           Orcs of the Forge (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Moria
+        </h2>
       </div>
     </article>
     <div
@@ -17972,9 +19811,8 @@ Array [
       Zeal
       <br />
       <small>
+        Level: 
         55
-        <br />
-        Moria Deeds
       </small>
     </div>
   </div>,
@@ -18003,6 +19841,11 @@ Array [
         >
           Discovering Adventures in Zelem-melek
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Moria
+        </h2>
       </div>
     </article>
     <div
@@ -18011,9 +19854,8 @@ Array [
       Zeal
       <br />
       <small>
+        Level: 
         55
-        <br />
-        Moria Deeds
       </small>
     </div>
   </div>,
@@ -18042,6 +19884,11 @@ Array [
         >
           Wood-troll Slayer (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Enedwaith
+        </h2>
       </div>
     </article>
     <div
@@ -18050,9 +19897,8 @@ Array [
       Zeal
       <br />
       <small>
+        Level: 
         60
-        <br />
-        Enedwaith Deeds
       </small>
     </div>
   </div>,
@@ -18081,6 +19927,11 @@ Array [
         >
           Exploring Carreglyn
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Dunland
+        </h2>
       </div>
     </article>
     <div
@@ -18089,9 +19940,8 @@ Array [
       Zeal
       <br />
       <small>
+        Level: 
         60
-        <br />
-        Dunland Deeds
       </small>
     </div>
   </div>,
@@ -18120,6 +19970,11 @@ Array [
         >
           Quests in the Bonevales
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Dunland
+        </h2>
       </div>
     </article>
     <div
@@ -18128,9 +19983,8 @@ Array [
       Zeal
       <br />
       <small>
+        Level: 
         60
-        <br />
-        Dunland Deeds
       </small>
     </div>
   </div>,
@@ -18159,6 +20013,11 @@ Array [
         >
           Explorer of the Great River
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          The Great River
+        </h2>
       </div>
     </article>
     <div
@@ -18167,9 +20026,8 @@ Array [
       Zeal
       <br />
       <small>
+        Level: 
         70
-        <br />
-        The Great River Deeds
       </small>
     </div>
   </div>,
@@ -18198,6 +20056,11 @@ Array [
         >
           Enemies of the Rohirrim
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          East Rohan
+        </h2>
       </div>
     </article>
     <div
@@ -18206,9 +20069,8 @@ Array [
       Zeal
       <br />
       <small>
+        Level: 
         75
-        <br />
-        East Rohan Deeds
       </small>
     </div>
   </div>,
@@ -18237,6 +20099,11 @@ Array [
         >
           Quests of the Balewood
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Wildermore
+        </h2>
       </div>
     </article>
     <div
@@ -18245,9 +20112,8 @@ Array [
       Zeal
       <br />
       <small>
+        Level: 
         85
-        <br />
-        Wildermore Deeds
       </small>
     </div>
   </div>,
@@ -18276,6 +20142,11 @@ Array [
         >
           Boar and Bear Slayer of the Westemnet (Advanced)
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          West Rohan
+        </h2>
       </div>
     </article>
     <div
@@ -18284,9 +20155,8 @@ Array [
       Zeal
       <br />
       <small>
+        Level: 
         95
-        <br />
-        West Rohan Deeds
       </small>
     </div>
   </div>,
@@ -18315,6 +20185,11 @@ Array [
         >
           Survivor of the Long Night
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          West Rohan
+        </h2>
       </div>
     </article>
     <div
@@ -18323,9 +20198,8 @@ Array [
       Zeal
       <br />
       <small>
+        Level: 
         95
-        <br />
-        West Rohan Deeds
       </small>
     </div>
   </div>,
@@ -18354,6 +20228,11 @@ Array [
         >
           Quests of Belfalas
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Western Gondor
+        </h2>
       </div>
     </article>
     <div
@@ -18362,9 +20241,8 @@ Array [
       Zeal
       <br />
       <small>
+        Level: 
         100
-        <br />
-        Western Gondor Deeds
       </small>
     </div>
   </div>,
@@ -18393,6 +20271,11 @@ Array [
         >
           Quests of Lebennin
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Central Gondor
+        </h2>
       </div>
     </article>
     <div
@@ -18401,9 +20284,8 @@ Array [
       Zeal
       <br />
       <small>
+        Level: 
         100
-        <br />
-        Central Gondor Deeds
       </small>
     </div>
   </div>,
@@ -18432,6 +20314,11 @@ Array [
         >
           Quests of Osgiliath
         </h1>
+        <h2
+          className="subtitle is-6"
+        >
+          Eastern Gondor
+        </h2>
       </div>
     </article>
     <div
@@ -18440,9 +20327,8 @@ Array [
       Zeal
       <br />
       <small>
+        Level: 
         100
-        <br />
-        Eastern Gondor Deeds
       </small>
     </div>
   </div>,

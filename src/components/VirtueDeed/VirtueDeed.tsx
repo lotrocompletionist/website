@@ -10,6 +10,7 @@ import {
   Subtitle
 } from "bloomer";
 import { IVirtueDeed } from "../../data/virtue-deed";
+import { Level } from "../Level/Level";
 
 export interface VirtueDeedProps {
   virtueDeed: IVirtueDeed;
@@ -25,15 +26,14 @@ export function VirtueDeed(props: VirtueDeedProps) {
           </MediaLeft>
           <MediaContent>
             <Title isSize={4}>{props.virtueDeed.deed}</Title>
+            <Subtitle isSize={6}>{props.virtueDeed.region}</Subtitle>
           </MediaContent>
         </Media>
         <Content>
           {props.virtueDeed.virtue}
           <br />
           <small>
-            {props.virtueDeed.level}
-            <br/>
-            {props.virtueDeed.region}
+            <Level level={props.virtueDeed.level} />
           </small>
         </Content>
       </CardContent>

@@ -26,6 +26,11 @@ exports[`<VirtueDeed> renders correctly 1`] = `
       >
         Bree-land Adventurer (Advanced)
       </h1>
+      <h2
+        className="subtitle is-6"
+      >
+        Bree-land Deeds
+      </h2>
     </div>
   </article>
   <div
@@ -34,9 +39,8 @@ exports[`<VirtueDeed> renders correctly 1`] = `
     Charity
     <br />
     <small>
+      Level: 
       4
-      <br />
-      Bree-land Deeds
     </small>
   </div>
 </div>
