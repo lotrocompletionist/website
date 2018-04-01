@@ -1,3 +1,5 @@
+import { uniq } from "lodash";
+
 export interface IVirtueDeed {
   id: number;
   virtue: string;
@@ -5,29 +7,6 @@ export interface IVirtueDeed {
   region: string;
   level?: number;
 }
-
-export const virtues = [
-  "Charity",
-  "Compassion",
-  "Confidence",
-  "Determination",
-  "Discipline",
-  "Empathy",
-  "Fidelity",
-  "Fortitude",
-  "Honesty",
-  "Honour",
-  "Idealism",
-  "Innocence",
-  "Justice",
-  "Loyalty",
-  "Mercy",
-  "Patience",
-  "Tolerance",
-  "Valour",
-  "Wisdom",
-  "Zeal"
-];
 
 export const virtueDeeds: IVirtueDeed[] = [
   {
@@ -3333,3 +3312,7 @@ export const virtueDeeds: IVirtueDeed[] = [
     level: 100
   }
 ];
+
+export const virtues = uniq(virtueDeeds.map(virtueDeed => virtueDeed.virtue));
+
+export const regions = uniq(virtueDeeds.map(virtueDeed => virtueDeed.region));
