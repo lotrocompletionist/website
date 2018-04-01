@@ -1,5 +1,3 @@
-import { uniq } from "lodash";
-
 export interface IVirtueDeed {
   id: number;
   virtue: string;
@@ -3313,6 +3311,57 @@ export const virtueDeeds: IVirtueDeed[] = [
   }
 ];
 
-export const virtues = uniq(virtueDeeds.map(virtueDeed => virtueDeed.virtue));
+export const virtues = [
+  "Charity",
+  "Compassion",
+  "Confidence",
+  "Determination",
+  "Discipline",
+  "Empathy",
+  "Fidelity",
+  "Fortitude",
+  "Honesty",
+  "Honour",
+  "Idealism",
+  "Innocence",
+  "Justice",
+  "Loyalty",
+  "Mercy",
+  "Patience",
+  "Tolerance",
+  "Valour",
+  "Wisdom",
+  "Zeal"
+];
 
-export const regions = uniq(virtueDeeds.map(virtueDeed => virtueDeed.region));
+export const regions = [
+  "Bree-land",
+  "Ered Luin",
+  "The North Downs",
+  "The Lone-lands",
+  "Angmar",
+  "Forochel",
+  "Eregion",
+  "Moria",
+  "Enedwaith",
+  "Dunland",
+  "East Rohan",
+  "Wildermore",
+  "West Rohan",
+  "Central Gondor",
+  "Eastern Gondor",
+  "Old Anórien",
+  "March of the King",
+  "The Shire",
+  "The Misty Mountains",
+  "Evendim",
+  "Mirkwood",
+  "The Great River",
+  "Western Gondor",
+  "The Trollshaws",
+  " The Shire",
+  " The North Downs",
+  " The Misty Mountains",
+  " Angmar",
+  "Lothlórien"
+];

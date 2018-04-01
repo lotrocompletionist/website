@@ -398,3 +398,28 @@ export const raids: IRaid[] = [
     ]
   }
 ];
+
+export const clusters = [
+  "Battle of Pelennor",
+  "Helm's Deep",
+  "In Their Absence",
+  "Mines of Moria",
+  "Rise of Isengard",
+  "Scourge of Khazad-dûm",
+  "Shadows of Angmar",
+  "The Road to Erebor",
+  "Tower of Dol Guldur"
+];
+
+export const regions = [
+  "Angmar",
+  "Dol Guldur",
+  "Enedwaith",
+  "Erebor",
+  "Foundations of Stone",
+  "Isengard",
+  "Old Anórien",
+  "The Misty Mountains",
+  "The Water-works",
+  "West Rohan"
+];

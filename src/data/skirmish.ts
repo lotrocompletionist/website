@@ -341,3 +341,19 @@ export const skirmishes: ISkirmish[] = [
     ]
   }
 ];
+
+export const types = ["Offense", "Defense", "Survival"];
+
+export const factions = [
+  "Eldgang",
+  "Elves of Rivendell",
+  "Iron Garrison Guards",
+  "Iron Garrison Miners",
+  "Lossoth of Forochel",
+  "Malledhrim",
+  "Men of Bree",
+  "Rangers of Esteldín",
+  "The Eglain",
+  "The Mathom Society",
+  "Thorin's Hall"
+];
