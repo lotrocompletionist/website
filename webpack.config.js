@@ -48,6 +48,14 @@ module.exports = function(env, argv) {
           options: {
             limit: 8192
           }
+        },
+        {
+          test: /.(ttf|otf|eot|svg|woff(2)?)(\?[a-z0-9]+)?$/,
+          use: [
+            {
+              loader: "file-loader"
+            }
+          ]
         }
       ]
     },
