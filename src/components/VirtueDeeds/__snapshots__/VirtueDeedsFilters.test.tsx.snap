@@ -38,201 +38,341 @@ Array [
           className="dropdown-item"
         >
           <input
+            className="is-checkradio"
+            id="VirtueCharity"
+            name="Charity"
             onChange={[Function]}
             type="checkbox"
             value="Charity"
           />
-          Charity
+          <label
+            htmlFor="VirtueCharity"
+          >
+            Charity
+          </label>
         </div>
         <div
           className="dropdown-item"
         >
           <input
+            className="is-checkradio"
+            id="VirtueCompassion"
+            name="Compassion"
             onChange={[Function]}
             type="checkbox"
             value="Compassion"
           />
-          Compassion
+          <label
+            htmlFor="VirtueCompassion"
+          >
+            Compassion
+          </label>
         </div>
         <div
           className="dropdown-item"
         >
           <input
+            className="is-checkradio"
+            id="VirtueConfidence"
+            name="Confidence"
             onChange={[Function]}
             type="checkbox"
             value="Confidence"
           />
-          Confidence
+          <label
+            htmlFor="VirtueConfidence"
+          >
+            Confidence
+          </label>
         </div>
         <div
           className="dropdown-item"
         >
           <input
+            className="is-checkradio"
+            id="VirtueDetermination"
+            name="Determination"
             onChange={[Function]}
             type="checkbox"
             value="Determination"
           />
-          Determination
+          <label
+            htmlFor="VirtueDetermination"
+          >
+            Determination
+          </label>
         </div>
         <div
           className="dropdown-item"
         >
           <input
+            className="is-checkradio"
+            id="VirtueDiscipline"
+            name="Discipline"
             onChange={[Function]}
             type="checkbox"
             value="Discipline"
           />
-          Discipline
+          <label
+            htmlFor="VirtueDiscipline"
+          >
+            Discipline
+          </label>
         </div>
         <div
           className="dropdown-item"
         >
           <input
+            className="is-checkradio"
+            id="VirtueEmpathy"
+            name="Empathy"
             onChange={[Function]}
             type="checkbox"
             value="Empathy"
           />
-          Empathy
+          <label
+            htmlFor="VirtueEmpathy"
+          >
+            Empathy
+          </label>
         </div>
         <div
           className="dropdown-item"
         >
           <input
+            className="is-checkradio"
+            id="VirtueFidelity"
+            name="Fidelity"
             onChange={[Function]}
             type="checkbox"
             value="Fidelity"
           />
-          Fidelity
+          <label
+            htmlFor="VirtueFidelity"
+          >
+            Fidelity
+          </label>
         </div>
         <div
           className="dropdown-item"
         >
           <input
+            className="is-checkradio"
+            id="VirtueFortitude"
+            name="Fortitude"
             onChange={[Function]}
             type="checkbox"
             value="Fortitude"
           />
-          Fortitude
+          <label
+            htmlFor="VirtueFortitude"
+          >
+            Fortitude
+          </label>
         </div>
         <div
           className="dropdown-item"
         >
           <input
+            className="is-checkradio"
+            id="VirtueHonesty"
+            name="Honesty"
             onChange={[Function]}
             type="checkbox"
             value="Honesty"
           />
-          Honesty
+          <label
+            htmlFor="VirtueHonesty"
+          >
+            Honesty
+          </label>
         </div>
         <div
           className="dropdown-item"
         >
           <input
+            className="is-checkradio"
+            id="VirtueHonour"
+            name="Honour"
             onChange={[Function]}
             type="checkbox"
             value="Honour"
           />
-          Honour
+          <label
+            htmlFor="VirtueHonour"
+          >
+            Honour
+          </label>
         </div>
         <div
           className="dropdown-item"
         >
           <input
+            className="is-checkradio"
+            id="VirtueIdealism"
+            name="Idealism"
             onChange={[Function]}
             type="checkbox"
             value="Idealism"
           />
-          Idealism
+          <label
+            htmlFor="VirtueIdealism"
+          >
+            Idealism
+          </label>
         </div>
         <div
           className="dropdown-item"
         >
           <input
+            className="is-checkradio"
+            id="VirtueInnocence"
+            name="Innocence"
             onChange={[Function]}
             type="checkbox"
             value="Innocence"
           />
-          Innocence
+          <label
+            htmlFor="VirtueInnocence"
+          >
+            Innocence
+          </label>
         </div>
         <div
           className="dropdown-item"
         >
           <input
+            className="is-checkradio"
+            id="VirtueJustice"
+            name="Justice"
             onChange={[Function]}
             type="checkbox"
             value="Justice"
           />
-          Justice
+          <label
+            htmlFor="VirtueJustice"
+          >
+            Justice
+          </label>
         </div>
         <div
           className="dropdown-item"
         >
           <input
+            className="is-checkradio"
+            id="VirtueLoyalty"
+            name="Loyalty"
             onChange={[Function]}
             type="checkbox"
             value="Loyalty"
           />
-          Loyalty
+          <label
+            htmlFor="VirtueLoyalty"
+          >
+            Loyalty
+          </label>
         </div>
         <div
           className="dropdown-item"
         >
           <input
+            className="is-checkradio"
+            id="VirtueMercy"
+            name="Mercy"
             onChange={[Function]}
             type="checkbox"
             value="Mercy"
           />
-          Mercy
+          <label
+            htmlFor="VirtueMercy"
+          >
+            Mercy
+          </label>
         </div>
         <div
           className="dropdown-item"
         >
           <input
+            className="is-checkradio"
+            id="VirtuePatience"
+            name="Patience"
             onChange={[Function]}
             type="checkbox"
             value="Patience"
           />
-          Patience
+          <label
+            htmlFor="VirtuePatience"
+          >
+            Patience
+          </label>
         </div>
         <div
           className="dropdown-item"
         >
           <input
+            className="is-checkradio"
+            id="VirtueTolerance"
+            name="Tolerance"
             onChange={[Function]}
             type="checkbox"
             value="Tolerance"
           />
-          Tolerance
+          <label
+            htmlFor="VirtueTolerance"
+          >
+            Tolerance
+          </label>
         </div>
         <div
           className="dropdown-item"
         >
           <input
+            className="is-checkradio"
+            id="VirtueValour"
+            name="Valour"
             onChange={[Function]}
             type="checkbox"
             value="Valour"
           />
-          Valour
+          <label
+            htmlFor="VirtueValour"
+          >
+            Valour
+          </label>
         </div>
         <div
           className="dropdown-item"
         >
           <input
+            className="is-checkradio"
+            id="VirtueWisdom"
+            name="Wisdom"
             onChange={[Function]}
             type="checkbox"
             value="Wisdom"
           />
-          Wisdom
+          <label
+            htmlFor="VirtueWisdom"
+          >
+            Wisdom
+          </label>
         </div>
         <div
           className="dropdown-item"
         >
           <input
+            className="is-checkradio"
+            id="VirtueZeal"
+            name="Zeal"
             onChange={[Function]}
             type="checkbox"
             value="Zeal"
           />
-          Zeal
+          <label
+            htmlFor="VirtueZeal"
+          >
+            Zeal
+          </label>
         </div>
       </div>
     </div>
@@ -273,291 +413,494 @@ Array [
           className="dropdown-item"
         >
           <input
+            className="is-checkradio"
+            id="RegionBree-land"
+            name="Bree-land"
             onChange={[Function]}
             type="checkbox"
             value="Bree-land"
           />
-          Bree-land
+          <label
+            htmlFor="RegionBree-land"
+          >
+            Bree-land
+          </label>
         </div>
         <div
           className="dropdown-item"
         >
           <input
+            className="is-checkradio"
+            id="RegionEred Luin"
+            name="Ered Luin"
             onChange={[Function]}
             type="checkbox"
             value="Ered Luin"
           />
-          Ered Luin
+          <label
+            htmlFor="RegionEred Luin"
+          >
+            Ered Luin
+          </label>
         </div>
         <div
           className="dropdown-item"
         >
           <input
+            className="is-checkradio"
+            id="RegionThe North Downs"
+            name="The North Downs"
             onChange={[Function]}
             type="checkbox"
             value="The North Downs"
           />
-          The North Downs
+          <label
+            htmlFor="RegionThe North Downs"
+          >
+            The North Downs
+          </label>
         </div>
         <div
           className="dropdown-item"
         >
           <input
+            className="is-checkradio"
+            id="RegionThe Lone-lands"
+            name="The Lone-lands"
             onChange={[Function]}
             type="checkbox"
             value="The Lone-lands"
           />
-          The Lone-lands
+          <label
+            htmlFor="RegionThe Lone-lands"
+          >
+            The Lone-lands
+          </label>
         </div>
         <div
           className="dropdown-item"
         >
           <input
+            className="is-checkradio"
+            id="RegionAngmar"
+            name="Angmar"
             onChange={[Function]}
             type="checkbox"
             value="Angmar"
           />
-          Angmar
+          <label
+            htmlFor="RegionAngmar"
+          >
+            Angmar
+          </label>
         </div>
         <div
           className="dropdown-item"
         >
           <input
+            className="is-checkradio"
+            id="RegionForochel"
+            name="Forochel"
             onChange={[Function]}
             type="checkbox"
             value="Forochel"
           />
-          Forochel
+          <label
+            htmlFor="RegionForochel"
+          >
+            Forochel
+          </label>
         </div>
         <div
           className="dropdown-item"
         >
           <input
+            className="is-checkradio"
+            id="RegionEregion"
+            name="Eregion"
             onChange={[Function]}
             type="checkbox"
             value="Eregion"
           />
-          Eregion
+          <label
+            htmlFor="RegionEregion"
+          >
+            Eregion
+          </label>
         </div>
         <div
           className="dropdown-item"
         >
           <input
+            className="is-checkradio"
+            id="RegionMoria"
+            name="Moria"
             onChange={[Function]}
             type="checkbox"
             value="Moria"
           />
-          Moria
+          <label
+            htmlFor="RegionMoria"
+          >
+            Moria
+          </label>
         </div>
         <div
           className="dropdown-item"
         >
           <input
+            className="is-checkradio"
+            id="RegionEnedwaith"
+            name="Enedwaith"
             onChange={[Function]}
             type="checkbox"
             value="Enedwaith"
           />
-          Enedwaith
+          <label
+            htmlFor="RegionEnedwaith"
+          >
+            Enedwaith
+          </label>
         </div>
         <div
           className="dropdown-item"
         >
           <input
+            className="is-checkradio"
+            id="RegionDunland"
+            name="Dunland"
             onChange={[Function]}
             type="checkbox"
             value="Dunland"
           />
-          Dunland
+          <label
+            htmlFor="RegionDunland"
+          >
+            Dunland
+          </label>
         </div>
         <div
           className="dropdown-item"
         >
           <input
+            className="is-checkradio"
+            id="RegionEast Rohan"
+            name="East Rohan"
             onChange={[Function]}
             type="checkbox"
             value="East Rohan"
           />
-          East Rohan
+          <label
+            htmlFor="RegionEast Rohan"
+          >
+            East Rohan
+          </label>
         </div>
         <div
           className="dropdown-item"
         >
           <input
+            className="is-checkradio"
+            id="RegionWildermore"
+            name="Wildermore"
             onChange={[Function]}
             type="checkbox"
             value="Wildermore"
           />
-          Wildermore
+          <label
+            htmlFor="RegionWildermore"
+          >
+            Wildermore
+          </label>
         </div>
         <div
           className="dropdown-item"
         >
           <input
+            className="is-checkradio"
+            id="RegionWest Rohan"
+            name="West Rohan"
             onChange={[Function]}
             type="checkbox"
             value="West Rohan"
           />
-          West Rohan
+          <label
+            htmlFor="RegionWest Rohan"
+          >
+            West Rohan
+          </label>
         </div>
         <div
           className="dropdown-item"
         >
           <input
+            className="is-checkradio"
+            id="RegionCentral Gondor"
+            name="Central Gondor"
             onChange={[Function]}
             type="checkbox"
             value="Central Gondor"
           />
-          Central Gondor
+          <label
+            htmlFor="RegionCentral Gondor"
+          >
+            Central Gondor
+          </label>
         </div>
         <div
           className="dropdown-item"
         >
           <input
+            className="is-checkradio"
+            id="RegionEastern Gondor"
+            name="Eastern Gondor"
             onChange={[Function]}
             type="checkbox"
             value="Eastern Gondor"
           />
-          Eastern Gondor
+          <label
+            htmlFor="RegionEastern Gondor"
+          >
+            Eastern Gondor
+          </label>
         </div>
         <div
           className="dropdown-item"
         >
           <input
+            className="is-checkradio"
+            id="RegionOld Anórien"
+            name="Old Anórien"
             onChange={[Function]}
             type="checkbox"
             value="Old Anórien"
           />
-          Old Anórien
+          <label
+            htmlFor="RegionOld Anórien"
+          >
+            Old Anórien
+          </label>
         </div>
         <div
           className="dropdown-item"
         >
           <input
+            className="is-checkradio"
+            id="RegionMarch of the King"
+            name="March of the King"
             onChange={[Function]}
             type="checkbox"
             value="March of the King"
           />
-          March of the King
+          <label
+            htmlFor="RegionMarch of the King"
+          >
+            March of the King
+          </label>
         </div>
         <div
           className="dropdown-item"
         >
           <input
+            className="is-checkradio"
+            id="RegionThe Shire"
+            name="The Shire"
             onChange={[Function]}
             type="checkbox"
             value="The Shire"
           />
-          The Shire
+          <label
+            htmlFor="RegionThe Shire"
+          >
+            The Shire
+          </label>
         </div>
         <div
           className="dropdown-item"
         >
           <input
+            className="is-checkradio"
+            id="RegionThe Misty Mountains"
+            name="The Misty Mountains"
             onChange={[Function]}
             type="checkbox"
             value="The Misty Mountains"
           />
-          The Misty Mountains
+          <label
+            htmlFor="RegionThe Misty Mountains"
+          >
+            The Misty Mountains
+          </label>
         </div>
         <div
           className="dropdown-item"
         >
           <input
+            className="is-checkradio"
+            id="RegionEvendim"
+            name="Evendim"
             onChange={[Function]}
             type="checkbox"
             value="Evendim"
           />
-          Evendim
+          <label
+            htmlFor="RegionEvendim"
+          >
+            Evendim
+          </label>
         </div>
         <div
           className="dropdown-item"
         >
           <input
+            className="is-checkradio"
+            id="RegionMirkwood"
+            name="Mirkwood"
             onChange={[Function]}
             type="checkbox"
             value="Mirkwood"
           />
-          Mirkwood
+          <label
+            htmlFor="RegionMirkwood"
+          >
+            Mirkwood
+          </label>
         </div>
         <div
           className="dropdown-item"
         >
           <input
+            className="is-checkradio"
+            id="RegionThe Great River"
+            name="The Great River"
             onChange={[Function]}
             type="checkbox"
             value="The Great River"
           />
-          The Great River
+          <label
+            htmlFor="RegionThe Great River"
+          >
+            The Great River
+          </label>
         </div>
         <div
           className="dropdown-item"
         >
           <input
+            className="is-checkradio"
+            id="RegionWestern Gondor"
+            name="Western Gondor"
             onChange={[Function]}
             type="checkbox"
             value="Western Gondor"
           />
-          Western Gondor
+          <label
+            htmlFor="RegionWestern Gondor"
+          >
+            Western Gondor
+          </label>
         </div>
         <div
           className="dropdown-item"
         >
           <input
+            className="is-checkradio"
+            id="RegionThe Trollshaws"
+            name="The Trollshaws"
             onChange={[Function]}
             type="checkbox"
             value="The Trollshaws"
           />
-          The Trollshaws
+          <label
+            htmlFor="RegionThe Trollshaws"
+          >
+            The Trollshaws
+          </label>
         </div>
         <div
           className="dropdown-item"
         >
           <input
+            className="is-checkradio"
+            id="Region The Shire"
+            name=" The Shire"
             onChange={[Function]}
             type="checkbox"
             value=" The Shire"
           />
-           The Shire
+          <label
+            htmlFor="Region The Shire"
+          >
+             The Shire
+          </label>
         </div>
         <div
           className="dropdown-item"
         >
           <input
+            className="is-checkradio"
+            id="Region The North Downs"
+            name=" The North Downs"
             onChange={[Function]}
             type="checkbox"
             value=" The North Downs"
           />
-           The North Downs
+          <label
+            htmlFor="Region The North Downs"
+          >
+             The North Downs
+          </label>
         </div>
         <div
           className="dropdown-item"
         >
           <input
+            className="is-checkradio"
+            id="Region The Misty Mountains"
+            name=" The Misty Mountains"
             onChange={[Function]}
             type="checkbox"
             value=" The Misty Mountains"
           />
-           The Misty Mountains
+          <label
+            htmlFor="Region The Misty Mountains"
+          >
+             The Misty Mountains
+          </label>
         </div>
         <div
           className="dropdown-item"
         >
           <input
+            className="is-checkradio"
+            id="Region Angmar"
+            name=" Angmar"
             onChange={[Function]}
             type="checkbox"
             value=" Angmar"
           />
-           Angmar
+          <label
+            htmlFor="Region Angmar"
+          >
+             Angmar
+          </label>
         </div>
         <div
           className="dropdown-item"
         >
           <input
+            className="is-checkradio"
+            id="RegionLothlórien"
+            name="Lothlórien"
             onChange={[Function]}
             type="checkbox"
             value="Lothlórien"
           />
-          Lothlórien
+          <label
+            htmlFor="RegionLothlórien"
+          >
+            Lothlórien
+          </label>
         </div>
       </div>
     </div>

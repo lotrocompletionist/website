@@ -5,10 +5,17 @@ exports[`<DropdownCheckboxFilterItem> renders correctly 1`] = `
   className="dropdown-item"
 >
   <input
+    className="is-checkradio"
+    id="region-id"
+    name="Ered-Luin"
     onChange={[Function]}
     type="checkbox"
     value="Ered-Luin"
   />
-  Ered-Luin
+  <label
+    htmlFor="region-id"
+  >
+    Ered-Luin
+  </label>
 </div>
 `;

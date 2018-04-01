@@ -46,6 +46,7 @@ export class DropdownFilter extends React.Component<
           <DropdownContent>
             {this.props.values.map(value => (
               <this.props.filterItem
+                id={this.props.header + value}
                 key={value}
                 value={value}
                 onChange={this.props.onChange}
