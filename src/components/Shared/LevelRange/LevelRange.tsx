@@ -1,5 +1,5 @@
 import * as React from "react";
-import { ILevelRange } from "../../data/level-range";
+import { ILevelRange } from "@app/data/level-range";
 
 export interface LevelRangeProps {
   range: ILevelRange;

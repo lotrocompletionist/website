@@ -1,6 +1,6 @@
 import * as React from "react";
-import { skirmishes } from "../../data/skirmish";
-import { Skirmish } from "../Skirmish/Skirmish";
+import { skirmishes } from "@app/data/skirmish";
+import { Skirmish } from "./Skirmish";
 
 export default function Skirmishes() {
   return (

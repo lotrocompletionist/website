@@ -1,7 +1,7 @@
 import * as React from "react";
 import { create } from "react-test-renderer";
 import { Bosses } from "./Bosses";
-import { IBoss } from "../../data/boss";
+import { IBoss } from "@app/data/boss";
 
 test("<Bosses> renders correctly", () => {
   const bosses: IBoss[] = [

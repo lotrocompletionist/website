@@ -1,7 +1,7 @@
 import * as React from "react";
 import { create } from "react-test-renderer";
 import { VirtueDeed } from "./VirtueDeed";
-import { IVirtueDeed } from "../../data/virtue-deed";
+import { IVirtueDeed } from "@app/data/virtue-deed";
 
 test("<VirtueDeed> renders correctly", () => {
   const virtueDeed: IVirtueDeed = {

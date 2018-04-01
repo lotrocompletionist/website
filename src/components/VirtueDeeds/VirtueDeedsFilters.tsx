@@ -1,7 +1,7 @@
 import * as React from "react";
-import { virtues, regions } from "../../data/virtue-deed";
-import { DropdownFilter } from "../Shared/DropdownFilter";
-import { DropdownCheckboxFilterItem } from "../Shared/DropdownFilterItem";
+import { virtues, regions } from "@app/data/virtue-deed";
+import { DropdownFilter } from "@app/components/Shared/Filtering/DropdownFilter";
+import { DropdownCheckboxFilterItem } from "@app/components/Shared/Filtering/DropdownFilterItem";
 
 interface VirtueDeedsFiltersProps {
   onVirtueChange: React.ReactEventHandler<HTMLInputElement>;

@@ -6,31 +6,31 @@ import {
   Redirect
 } from "react-router-dom";
 import * as Loadable from "react-loadable";
-import { Header } from "../Header/Header";
-import { Loading } from "../Loading/Loading";
+import { Header } from "@app/components/App/Header/Header";
+import { Loading } from "@app/components/App/Loading/Loading";
 
 const Instances = Loadable({
-  loader: () => import("../WorldInstances/WorldInstances"),
+  loader: () => import("@app/components/WorldInstances/WorldInstances"),
   loading: Loading
 });
 
 const Raids = Loadable({
-  loader: () => import("../Raids/Raids"),
+  loader: () => import("@app/components/Raids/Raids"),
   loading: Loading
 });
 
 const Skirmishes = Loadable({
-  loader: () => import("../Skirmishes/Skirmishes"),
+  loader: () => import("@app/components/Skirmishes/Skirmishes"),
   loading: Loading
 });
 
 const VirtueDeeds = Loadable({
-  loader: () => import("../VirtueDeeds/VirtueDeeds"),
+  loader: () => import("@app/components/VirtueDeeds/VirtueDeeds"),
   loading: Loading
 });
 
 const NotFound = Loadable({
-  loader: () => import("../NotFound/NotFound"),
+  loader: () => import("@app/components/App/NotFound/NotFound"),
   loading: Loading
 });
 

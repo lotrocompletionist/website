@@ -67,6 +67,7 @@
       "js"
     ],
     "moduleNameMapper": {
+      "@app/(.+)": "<rootDir>/src/$1",
       "\\.(css|scss)$": "identity-obj-proxy"
     },
     "transform": {

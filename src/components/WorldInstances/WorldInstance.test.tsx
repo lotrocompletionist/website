@@ -1,7 +1,7 @@
 import * as React from "react";
 import { create } from "react-test-renderer";
 import { WorldInstance } from "./WorldInstance";
-import { IWorldInstance } from "../../data/world-instance";
+import { IWorldInstance } from "@app/data/world-instance";
 
 test("<WorldInstance> renders correctly", () => {
   const worldInstance: IWorldInstance = {

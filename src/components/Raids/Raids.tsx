@@ -1,7 +1,7 @@
 import * as React from "react";
 
-import { Raid } from "../Raid/Raid";
-import { raids } from "../../data/raid";
+import { Raid } from "./Raid";
+import { raids } from "@app/data/raid";
 
 export default function Raids() {
   return <>{raids.map(raid => <Raid key={raid.id} raid={raid} />)}</>;

@@ -1,7 +1,7 @@
 import * as React from "react";
 
-import { WorldInstance } from "../WorldInstance/WorldInstance";
-import { worldInstances } from "../../data/world-instance";
+import { WorldInstance } from "./WorldInstance";
+import { worldInstances } from "@app/data/world-instance";
 
 export default function WorldInstances() {
   return (

@@ -9,15 +9,15 @@ import {
   Title,
   Subtitle
 } from "bloomer";
-import { LevelRange } from "../LevelRange/LevelRange";
-import { Bosses } from "../Bosses/Bosses";
-import { IWorldInstance } from "../../data/world-instance";
+import { LevelRange } from "@app/components/Shared/LevelRange/LevelRange";
+import { Bosses } from "@app/components/Shared/Bosses/Bosses";
+import { IRaid } from "@app/data/raid";
 
-export interface WorldInstanceProps {
-  worldInstance: IWorldInstance;
+export interface RaidProps {
+  raid: IRaid;
 }
 
-export function WorldInstance(props: WorldInstanceProps) {
+export function Raid(props: RaidProps) {
   return (
     <>
       <CardContent>
@@ -26,19 +26,19 @@ export function WorldInstance(props: WorldInstanceProps) {
             <Image isSize="48x48" src="https://via.placeholder.com/96x96" />
           </MediaLeft>
           <MediaContent>
-            <Title isSize={4}>{props.worldInstance.name}</Title>
+            <Title isSize={4}>{props.raid.name}</Title>
             <Subtitle isSize={6}>
-              {props.worldInstance.abbreviations.join(", ")}
+              {props.raid.abbreviations.join(", ")}
             </Subtitle>
           </MediaContent>
         </Media>
         <Content>
-          {props.worldInstance.cluster}
+          {props.raid.cluster}
           <br />
           <small>
-            <LevelRange range={props.worldInstance.level} />
+            <LevelRange range={props.raid.level} />
             <br />
-            <Bosses bosses={props.worldInstance.bosses} />
+            <Bosses bosses={props.raid.bosses} />
           </small>
         </Content>
       </CardContent>

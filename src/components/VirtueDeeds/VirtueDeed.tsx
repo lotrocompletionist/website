@@ -9,8 +9,8 @@ import {
   Title,
   Subtitle
 } from "bloomer";
-import { IVirtueDeed } from "../../data/virtue-deed";
-import { Level } from "../Level/Level";
+import { IVirtueDeed } from "@app/data/virtue-deed";
+import { Level } from "@app/components/Shared/Level/Level";
 
 export interface VirtueDeedProps {
   virtueDeed: IVirtueDeed;

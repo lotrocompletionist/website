@@ -1,5 +1,5 @@
 import * as React from "react";
-import { IBoss } from "../../data/boss";
+import { IBoss } from "@app/data/boss";
 
 export interface BossesProps {
   bosses: IBoss[];

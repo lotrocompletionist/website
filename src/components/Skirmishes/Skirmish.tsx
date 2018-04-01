@@ -9,9 +9,9 @@ import {
   Title,
   Subtitle
 } from "bloomer";
-import { LevelRange } from "../LevelRange/LevelRange";
-import { Bosses } from "../Bosses/Bosses";
-import { ISkirmish } from "../../data/skirmish";
+import { LevelRange } from "@app/components/Shared/LevelRange/LevelRange";
+import { Bosses } from "@app/components/Shared/Bosses/Bosses";
+import { ISkirmish } from "@app/data/skirmish";
 
 export interface SkirmishProps {
   skirmish: ISkirmish;
