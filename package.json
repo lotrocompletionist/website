@@ -10,6 +10,7 @@
     "dev": "webpack-dev-server --mode development --open --history-api-fallback",
     "build": "webpack --mode production",
     "deploy": "firebase deploy",
+    "serve": "firebase serve",
     "test": "jest",
     "test:update": "jest -u",
     "format": "prettier --write '**/*.{js,jsx,ts,tsx,json,md,css,scss}'",
