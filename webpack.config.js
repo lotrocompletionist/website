@@ -1,3 +1,4 @@
+const path = require("path");
 const HtmlWebPackPlugin = require("html-webpack-plugin");
 const WebappWebpackPlugin = require("webapp-webpack-plugin");
 
@@ -5,7 +6,10 @@ module.exports = function(env, argv) {
   return {
     devtool: "source-map",
     resolve: {
-      extensions: [".ts", ".tsx", ".js", ".json"]
+      extensions: [".ts", ".tsx", ".js", ".json"],
+      alias: {
+        "@app": path.resolve(__dirname, "src/")
+      }
     },
     module: {
       rules: [

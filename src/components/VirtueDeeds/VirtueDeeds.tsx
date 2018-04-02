@@ -1,6 +1,6 @@
 import * as React from "react";
 import { remove } from "lodash";
-import { virtueDeeds, IVirtueDeed } from "../../data/virtue-deed";
+import { virtueDeeds, IVirtueDeed } from "@app/data/virtue-deeds";
 import { VirtueDeedsFilters } from "./VirtueDeedsFilters";
 import { VirtueDeed } from "./VirtueDeed";
 

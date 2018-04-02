@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`<VirtueDeedsFilters> renders correctly 1`] = `
+exports[`<WorldInstancesFilters> renders correctly 1`] = `
 Array [
   <div
     className="dropdown"
@@ -16,7 +16,7 @@ Array [
         type="button"
       >
         <span>
-          Virtue
+          Cluster
         </span>
         <span
           className="icon is-small"
@@ -39,16 +39,16 @@ Array [
         >
           <input
             className="is-checkradio"
-            id="VirtueCharity"
-            name="Charity"
+            id="ClusterBattle of Pelennor"
+            name="Battle of Pelennor"
             onChange={[Function]}
             type="checkbox"
-            value="Charity"
+            value="Battle of Pelennor"
           />
           <label
-            htmlFor="VirtueCharity"
+            htmlFor="ClusterBattle of Pelennor"
           >
-            Charity
+            Battle of Pelennor
           </label>
         </div>
         <div
@@ -56,16 +56,16 @@ Array [
         >
           <input
             className="is-checkradio"
-            id="VirtueCompassion"
-            name="Compassion"
+            id="ClusterHelm's Deep"
+            name="Helm's Deep"
             onChange={[Function]}
             type="checkbox"
-            value="Compassion"
+            value="Helm's Deep"
           />
           <label
-            htmlFor="VirtueCompassion"
+            htmlFor="ClusterHelm's Deep"
           >
-            Compassion
+            Helm's Deep
           </label>
         </div>
         <div
@@ -73,16 +73,16 @@ Array [
         >
           <input
             className="is-checkradio"
-            id="VirtueConfidence"
-            name="Confidence"
+            id="ClusterIn Their Absence"
+            name="In Their Absence"
             onChange={[Function]}
             type="checkbox"
-            value="Confidence"
+            value="In Their Absence"
           />
           <label
-            htmlFor="VirtueConfidence"
+            htmlFor="ClusterIn Their Absence"
           >
-            Confidence
+            In Their Absence
           </label>
         </div>
         <div
@@ -90,16 +90,16 @@ Array [
         >
           <input
             className="is-checkradio"
-            id="VirtueDetermination"
-            name="Determination"
+            id="ClusterMines of Moria"
+            name="Mines of Moria"
             onChange={[Function]}
             type="checkbox"
-            value="Determination"
+            value="Mines of Moria"
           />
           <label
-            htmlFor="VirtueDetermination"
+            htmlFor="ClusterMines of Moria"
           >
-            Determination
+            Mines of Moria
           </label>
         </div>
         <div
@@ -107,16 +107,16 @@ Array [
         >
           <input
             className="is-checkradio"
-            id="VirtueDiscipline"
-            name="Discipline"
+            id="ClusterOsgiliath"
+            name="Osgiliath"
             onChange={[Function]}
             type="checkbox"
-            value="Discipline"
+            value="Osgiliath"
           />
           <label
-            htmlFor="VirtueDiscipline"
+            htmlFor="ClusterOsgiliath"
           >
-            Discipline
+            Osgiliath
           </label>
         </div>
         <div
@@ -124,16 +124,16 @@ Array [
         >
           <input
             className="is-checkradio"
-            id="VirtueEmpathy"
-            name="Empathy"
+            id="ClusterRise of Isengard"
+            name="Rise of Isengard"
             onChange={[Function]}
             type="checkbox"
-            value="Empathy"
+            value="Rise of Isengard"
           />
           <label
-            htmlFor="VirtueEmpathy"
+            htmlFor="ClusterRise of Isengard"
           >
-            Empathy
+            Rise of Isengard
           </label>
         </div>
         <div
@@ -141,16 +141,16 @@ Array [
         >
           <input
             className="is-checkradio"
-            id="VirtueFidelity"
-            name="Fidelity"
+            id="ClusterScourge of Khazad-dûm"
+            name="Scourge of Khazad-dûm"
             onChange={[Function]}
             type="checkbox"
-            value="Fidelity"
+            value="Scourge of Khazad-dûm"
           />
           <label
-            htmlFor="VirtueFidelity"
+            htmlFor="ClusterScourge of Khazad-dûm"
           >
-            Fidelity
+            Scourge of Khazad-dûm
           </label>
         </div>
         <div
@@ -158,16 +158,16 @@ Array [
         >
           <input
             className="is-checkradio"
-            id="VirtueFortitude"
-            name="Fortitude"
+            id="ClusterShadows of Angmar"
+            name="Shadows of Angmar"
             onChange={[Function]}
             type="checkbox"
-            value="Fortitude"
+            value="Shadows of Angmar"
           />
           <label
-            htmlFor="VirtueFortitude"
+            htmlFor="ClusterShadows of Angmar"
           >
-            Fortitude
+            Shadows of Angmar
           </label>
         </div>
         <div
@@ -175,16 +175,16 @@ Array [
         >
           <input
             className="is-checkradio"
-            id="VirtueHonesty"
-            name="Honesty"
+            id="ClusterThe Road to Erebor"
+            name="The Road to Erebor"
             onChange={[Function]}
             type="checkbox"
-            value="Honesty"
+            value="The Road to Erebor"
           />
           <label
-            htmlFor="VirtueHonesty"
+            htmlFor="ClusterThe Road to Erebor"
           >
-            Honesty
+            The Road to Erebor
           </label>
         </div>
         <div
@@ -192,16 +192,16 @@ Array [
         >
           <input
             className="is-checkradio"
-            id="VirtueHonour"
-            name="Honour"
+            id="ClusterTower of Dol Guldur"
+            name="Tower of Dol Guldur"
             onChange={[Function]}
             type="checkbox"
-            value="Honour"
+            value="Tower of Dol Guldur"
           />
           <label
-            htmlFor="VirtueHonour"
+            htmlFor="ClusterTower of Dol Guldur"
           >
-            Honour
+            Tower of Dol Guldur
           </label>
         </div>
         <div
@@ -209,169 +209,16 @@ Array [
         >
           <input
             className="is-checkradio"
-            id="VirtueIdealism"
-            name="Idealism"
+            id="ClusterWar for Gondor"
+            name="War for Gondor"
             onChange={[Function]}
             type="checkbox"
-            value="Idealism"
+            value="War for Gondor"
           />
           <label
-            htmlFor="VirtueIdealism"
+            htmlFor="ClusterWar for Gondor"
           >
-            Idealism
-          </label>
-        </div>
-        <div
-          className="dropdown-item"
-        >
-          <input
-            className="is-checkradio"
-            id="VirtueInnocence"
-            name="Innocence"
-            onChange={[Function]}
-            type="checkbox"
-            value="Innocence"
-          />
-          <label
-            htmlFor="VirtueInnocence"
-          >
-            Innocence
-          </label>
-        </div>
-        <div
-          className="dropdown-item"
-        >
-          <input
-            className="is-checkradio"
-            id="VirtueJustice"
-            name="Justice"
-            onChange={[Function]}
-            type="checkbox"
-            value="Justice"
-          />
-          <label
-            htmlFor="VirtueJustice"
-          >
-            Justice
-          </label>
-        </div>
-        <div
-          className="dropdown-item"
-        >
-          <input
-            className="is-checkradio"
-            id="VirtueLoyalty"
-            name="Loyalty"
-            onChange={[Function]}
-            type="checkbox"
-            value="Loyalty"
-          />
-          <label
-            htmlFor="VirtueLoyalty"
-          >
-            Loyalty
-          </label>
-        </div>
-        <div
-          className="dropdown-item"
-        >
-          <input
-            className="is-checkradio"
-            id="VirtueMercy"
-            name="Mercy"
-            onChange={[Function]}
-            type="checkbox"
-            value="Mercy"
-          />
-          <label
-            htmlFor="VirtueMercy"
-          >
-            Mercy
-          </label>
-        </div>
-        <div
-          className="dropdown-item"
-        >
-          <input
-            className="is-checkradio"
-            id="VirtuePatience"
-            name="Patience"
-            onChange={[Function]}
-            type="checkbox"
-            value="Patience"
-          />
-          <label
-            htmlFor="VirtuePatience"
-          >
-            Patience
-          </label>
-        </div>
-        <div
-          className="dropdown-item"
-        >
-          <input
-            className="is-checkradio"
-            id="VirtueTolerance"
-            name="Tolerance"
-            onChange={[Function]}
-            type="checkbox"
-            value="Tolerance"
-          />
-          <label
-            htmlFor="VirtueTolerance"
-          >
-            Tolerance
-          </label>
-        </div>
-        <div
-          className="dropdown-item"
-        >
-          <input
-            className="is-checkradio"
-            id="VirtueValour"
-            name="Valour"
-            onChange={[Function]}
-            type="checkbox"
-            value="Valour"
-          />
-          <label
-            htmlFor="VirtueValour"
-          >
-            Valour
-          </label>
-        </div>
-        <div
-          className="dropdown-item"
-        >
-          <input
-            className="is-checkradio"
-            id="VirtueWisdom"
-            name="Wisdom"
-            onChange={[Function]}
-            type="checkbox"
-            value="Wisdom"
-          />
-          <label
-            htmlFor="VirtueWisdom"
-          >
-            Wisdom
-          </label>
-        </div>
-        <div
-          className="dropdown-item"
-        >
-          <input
-            className="is-checkradio"
-            id="VirtueZeal"
-            name="Zeal"
-            onChange={[Function]}
-            type="checkbox"
-            value="Zeal"
-          />
-          <label
-            htmlFor="VirtueZeal"
-          >
-            Zeal
+            War for Gondor
           </label>
         </div>
       </div>
@@ -414,74 +261,6 @@ Array [
         >
           <input
             className="is-checkradio"
-            id="RegionBree-land"
-            name="Bree-land"
-            onChange={[Function]}
-            type="checkbox"
-            value="Bree-land"
-          />
-          <label
-            htmlFor="RegionBree-land"
-          >
-            Bree-land
-          </label>
-        </div>
-        <div
-          className="dropdown-item"
-        >
-          <input
-            className="is-checkradio"
-            id="RegionEred Luin"
-            name="Ered Luin"
-            onChange={[Function]}
-            type="checkbox"
-            value="Ered Luin"
-          />
-          <label
-            htmlFor="RegionEred Luin"
-          >
-            Ered Luin
-          </label>
-        </div>
-        <div
-          className="dropdown-item"
-        >
-          <input
-            className="is-checkradio"
-            id="RegionThe North Downs"
-            name="The North Downs"
-            onChange={[Function]}
-            type="checkbox"
-            value="The North Downs"
-          />
-          <label
-            htmlFor="RegionThe North Downs"
-          >
-            The North Downs
-          </label>
-        </div>
-        <div
-          className="dropdown-item"
-        >
-          <input
-            className="is-checkradio"
-            id="RegionThe Lone-lands"
-            name="The Lone-lands"
-            onChange={[Function]}
-            type="checkbox"
-            value="The Lone-lands"
-          />
-          <label
-            htmlFor="RegionThe Lone-lands"
-          >
-            The Lone-lands
-          </label>
-        </div>
-        <div
-          className="dropdown-item"
-        >
-          <input
-            className="is-checkradio"
             id="RegionAngmar"
             name="Angmar"
             onChange={[Function]}
@@ -499,135 +278,16 @@ Array [
         >
           <input
             className="is-checkradio"
-            id="RegionForochel"
-            name="Forochel"
+            id="RegionBree-land"
+            name="Bree-land"
             onChange={[Function]}
             type="checkbox"
-            value="Forochel"
+            value="Bree-land"
           />
           <label
-            htmlFor="RegionForochel"
+            htmlFor="RegionBree-land"
           >
-            Forochel
-          </label>
-        </div>
-        <div
-          className="dropdown-item"
-        >
-          <input
-            className="is-checkradio"
-            id="RegionEregion"
-            name="Eregion"
-            onChange={[Function]}
-            type="checkbox"
-            value="Eregion"
-          />
-          <label
-            htmlFor="RegionEregion"
-          >
-            Eregion
-          </label>
-        </div>
-        <div
-          className="dropdown-item"
-        >
-          <input
-            className="is-checkradio"
-            id="RegionMoria"
-            name="Moria"
-            onChange={[Function]}
-            type="checkbox"
-            value="Moria"
-          />
-          <label
-            htmlFor="RegionMoria"
-          >
-            Moria
-          </label>
-        </div>
-        <div
-          className="dropdown-item"
-        >
-          <input
-            className="is-checkradio"
-            id="RegionEnedwaith"
-            name="Enedwaith"
-            onChange={[Function]}
-            type="checkbox"
-            value="Enedwaith"
-          />
-          <label
-            htmlFor="RegionEnedwaith"
-          >
-            Enedwaith
-          </label>
-        </div>
-        <div
-          className="dropdown-item"
-        >
-          <input
-            className="is-checkradio"
-            id="RegionDunland"
-            name="Dunland"
-            onChange={[Function]}
-            type="checkbox"
-            value="Dunland"
-          />
-          <label
-            htmlFor="RegionDunland"
-          >
-            Dunland
-          </label>
-        </div>
-        <div
-          className="dropdown-item"
-        >
-          <input
-            className="is-checkradio"
-            id="RegionEast Rohan"
-            name="East Rohan"
-            onChange={[Function]}
-            type="checkbox"
-            value="East Rohan"
-          />
-          <label
-            htmlFor="RegionEast Rohan"
-          >
-            East Rohan
-          </label>
-        </div>
-        <div
-          className="dropdown-item"
-        >
-          <input
-            className="is-checkradio"
-            id="RegionWildermore"
-            name="Wildermore"
-            onChange={[Function]}
-            type="checkbox"
-            value="Wildermore"
-          />
-          <label
-            htmlFor="RegionWildermore"
-          >
-            Wildermore
-          </label>
-        </div>
-        <div
-          className="dropdown-item"
-        >
-          <input
-            className="is-checkradio"
-            id="RegionWest Rohan"
-            name="West Rohan"
-            onChange={[Function]}
-            type="checkbox"
-            value="West Rohan"
-          />
-          <label
-            htmlFor="RegionWest Rohan"
-          >
-            West Rohan
+            Bree-land
           </label>
         </div>
         <div
@@ -652,6 +312,23 @@ Array [
         >
           <input
             className="is-checkradio"
+            id="RegionDol Guldur"
+            name="Dol Guldur"
+            onChange={[Function]}
+            type="checkbox"
+            value="Dol Guldur"
+          />
+          <label
+            htmlFor="RegionDol Guldur"
+          >
+            Dol Guldur
+          </label>
+        </div>
+        <div
+          className="dropdown-item"
+        >
+          <input
+            className="is-checkradio"
             id="RegionEastern Gondor"
             name="Eastern Gondor"
             onChange={[Function]}
@@ -669,16 +346,16 @@ Array [
         >
           <input
             className="is-checkradio"
-            id="RegionOld Anórien"
-            name="Old Anórien"
+            id="RegionErebor"
+            name="Erebor"
             onChange={[Function]}
             type="checkbox"
-            value="Old Anórien"
+            value="Erebor"
           />
           <label
-            htmlFor="RegionOld Anórien"
+            htmlFor="RegionErebor"
           >
-            Old Anórien
+            Erebor
           </label>
         </div>
         <div
@@ -686,16 +363,16 @@ Array [
         >
           <input
             className="is-checkradio"
-            id="RegionMarch of the King"
-            name="March of the King"
+            id="RegionEregion"
+            name="Eregion"
             onChange={[Function]}
             type="checkbox"
-            value="March of the King"
+            value="Eregion"
           />
           <label
-            htmlFor="RegionMarch of the King"
+            htmlFor="RegionEregion"
           >
-            March of the King
+            Eregion
           </label>
         </div>
         <div
@@ -703,33 +380,16 @@ Array [
         >
           <input
             className="is-checkradio"
-            id="RegionThe Shire"
-            name="The Shire"
+            id="RegionEvendim (Annúminas)"
+            name="Evendim (Annúminas)"
             onChange={[Function]}
             type="checkbox"
-            value="The Shire"
+            value="Evendim (Annúminas)"
           />
           <label
-            htmlFor="RegionThe Shire"
+            htmlFor="RegionEvendim (Annúminas)"
           >
-            The Shire
-          </label>
-        </div>
-        <div
-          className="dropdown-item"
-        >
-          <input
-            className="is-checkradio"
-            id="RegionThe Misty Mountains"
-            name="The Misty Mountains"
-            onChange={[Function]}
-            type="checkbox"
-            value="The Misty Mountains"
-          />
-          <label
-            htmlFor="RegionThe Misty Mountains"
-          >
-            The Misty Mountains
+            Evendim (Annúminas)
           </label>
         </div>
         <div
@@ -754,6 +414,57 @@ Array [
         >
           <input
             className="is-checkradio"
+            id="RegionForochel"
+            name="Forochel"
+            onChange={[Function]}
+            type="checkbox"
+            value="Forochel"
+          />
+          <label
+            htmlFor="RegionForochel"
+          >
+            Forochel
+          </label>
+        </div>
+        <div
+          className="dropdown-item"
+        >
+          <input
+            className="is-checkradio"
+            id="RegionGreat River"
+            name="Great River"
+            onChange={[Function]}
+            type="checkbox"
+            value="Great River"
+          />
+          <label
+            htmlFor="RegionGreat River"
+          >
+            Great River
+          </label>
+        </div>
+        <div
+          className="dropdown-item"
+        >
+          <input
+            className="is-checkradio"
+            id="RegionIsengard"
+            name="Isengard"
+            onChange={[Function]}
+            type="checkbox"
+            value="Isengard"
+          />
+          <label
+            htmlFor="RegionIsengard"
+          >
+            Isengard
+          </label>
+        </div>
+        <div
+          className="dropdown-item"
+        >
+          <input
+            className="is-checkradio"
             id="RegionMirkwood"
             name="Mirkwood"
             onChange={[Function]}
@@ -771,16 +482,16 @@ Array [
         >
           <input
             className="is-checkradio"
-            id="RegionThe Great River"
-            name="The Great River"
+            id="RegionNud-melek"
+            name="Nud-melek"
             onChange={[Function]}
             type="checkbox"
-            value="The Great River"
+            value="Nud-melek"
           />
           <label
-            htmlFor="RegionThe Great River"
+            htmlFor="RegionNud-melek"
           >
-            The Great River
+            Nud-melek
           </label>
         </div>
         <div
@@ -788,16 +499,135 @@ Array [
         >
           <input
             className="is-checkradio"
-            id="RegionWestern Gondor"
-            name="Western Gondor"
+            id="RegionOld Anórien"
+            name="Old Anórien"
             onChange={[Function]}
             type="checkbox"
-            value="Western Gondor"
+            value="Old Anórien"
           />
           <label
-            htmlFor="RegionWestern Gondor"
+            htmlFor="RegionOld Anórien"
           >
-            Western Gondor
+            Old Anórien
+          </label>
+        </div>
+        <div
+          className="dropdown-item"
+        >
+          <input
+            className="is-checkradio"
+            id="RegionThe Flaming Deeps"
+            name="The Flaming Deeps"
+            onChange={[Function]}
+            type="checkbox"
+            value="The Flaming Deeps"
+          />
+          <label
+            htmlFor="RegionThe Flaming Deeps"
+          >
+            The Flaming Deeps
+          </label>
+        </div>
+        <div
+          className="dropdown-item"
+        >
+          <input
+            className="is-checkradio"
+            id="RegionThe Foundations of Stone"
+            name="The Foundations of Stone"
+            onChange={[Function]}
+            type="checkbox"
+            value="The Foundations of Stone"
+          />
+          <label
+            htmlFor="RegionThe Foundations of Stone"
+          >
+            The Foundations of Stone
+          </label>
+        </div>
+        <div
+          className="dropdown-item"
+        >
+          <input
+            className="is-checkradio"
+            id="RegionThe Lone-lands"
+            name="The Lone-lands"
+            onChange={[Function]}
+            type="checkbox"
+            value="The Lone-lands"
+          />
+          <label
+            htmlFor="RegionThe Lone-lands"
+          >
+            The Lone-lands
+          </label>
+        </div>
+        <div
+          className="dropdown-item"
+        >
+          <input
+            className="is-checkradio"
+            id="RegionThe Misty Mountains"
+            name="The Misty Mountains"
+            onChange={[Function]}
+            type="checkbox"
+            value="The Misty Mountains"
+          />
+          <label
+            htmlFor="RegionThe Misty Mountains"
+          >
+            The Misty Mountains
+          </label>
+        </div>
+        <div
+          className="dropdown-item"
+        >
+          <input
+            className="is-checkradio"
+            id="RegionThe North Downs"
+            name="The North Downs"
+            onChange={[Function]}
+            type="checkbox"
+            value="The North Downs"
+          />
+          <label
+            htmlFor="RegionThe North Downs"
+          >
+            The North Downs
+          </label>
+        </div>
+        <div
+          className="dropdown-item"
+        >
+          <input
+            className="is-checkradio"
+            id="RegionThe Redhorn Lodes"
+            name="The Redhorn Lodes"
+            onChange={[Function]}
+            type="checkbox"
+            value="The Redhorn Lodes"
+          />
+          <label
+            htmlFor="RegionThe Redhorn Lodes"
+          >
+            The Redhorn Lodes
+          </label>
+        </div>
+        <div
+          className="dropdown-item"
+        >
+          <input
+            className="is-checkradio"
+            id="RegionThe Silvertine Lodes"
+            name="The Silvertine Lodes"
+            onChange={[Function]}
+            type="checkbox"
+            value="The Silvertine Lodes"
+          />
+          <label
+            htmlFor="RegionThe Silvertine Lodes"
+          >
+            The Silvertine Lodes
           </label>
         </div>
         <div
@@ -822,16 +652,16 @@ Array [
         >
           <input
             className="is-checkradio"
-            id="Region The Shire"
-            name=" The Shire"
+            id="RegionThe Water-works"
+            name="The Water-works"
             onChange={[Function]}
             type="checkbox"
-            value=" The Shire"
+            value="The Water-works"
           />
           <label
-            htmlFor="Region The Shire"
+            htmlFor="RegionThe Water-works"
           >
-             The Shire
+            The Water-works
           </label>
         </div>
         <div
@@ -839,16 +669,16 @@ Array [
         >
           <input
             className="is-checkradio"
-            id="Region The North Downs"
-            name=" The North Downs"
+            id="RegionWest Rohan"
+            name="West Rohan"
             onChange={[Function]}
             type="checkbox"
-            value=" The North Downs"
+            value="West Rohan"
           />
           <label
-            htmlFor="Region The North Downs"
+            htmlFor="RegionWest Rohan"
           >
-             The North Downs
+            West Rohan
           </label>
         </div>
         <div
@@ -856,16 +686,68 @@ Array [
         >
           <input
             className="is-checkradio"
-            id="Region The Misty Mountains"
-            name=" The Misty Mountains"
+            id="RegionZirakzigil"
+            name="Zirakzigil"
             onChange={[Function]}
             type="checkbox"
-            value=" The Misty Mountains"
+            value="Zirakzigil"
           />
           <label
-            htmlFor="Region The Misty Mountains"
+            htmlFor="RegionZirakzigil"
           >
-             The Misty Mountains
+            Zirakzigil
+          </label>
+        </div>
+      </div>
+    </div>
+  </div>,
+  <div
+    className="dropdown"
+  >
+    <div
+      className="dropdown-trigger"
+      onClick={[Function]}
+    >
+      <button
+        aria-controls="dropdown-menu"
+        aria-haspopup="true"
+        className="button is-outlined"
+        type="button"
+      >
+        <span>
+          Group
+        </span>
+        <span
+          className="icon is-small"
+        >
+          <span
+            aria-hidden="true"
+            className="fa fa-angle-down"
+          />
+        </span>
+      </button>
+    </div>
+    <div
+      className="dropdown-menu"
+    >
+      <div
+        className="dropdown-content"
+      >
+        <div
+          className="dropdown-item"
+        >
+          <input
+            className="is-checkradio"
+            id="GroupSolo/Duo"
+            name="Solo/Duo"
+            onChange={[Function]}
+            type="checkbox"
+            value="Solo/Duo"
+          />
+          <label
+            htmlFor="GroupSolo/Duo"
+          >
+            Solo/Duo
           </label>
         </div>
         <div
@@ -873,16 +755,16 @@ Array [
         >
           <input
             className="is-checkradio"
-            id="Region Angmar"
-            name=" Angmar"
+            id="GroupSmall Fellowship"
+            name="Small Fellowship"
             onChange={[Function]}
             type="checkbox"
-            value=" Angmar"
+            value="Small Fellowship"
           />
           <label
-            htmlFor="Region Angmar"
+            htmlFor="GroupSmall Fellowship"
           >
-             Angmar
+            Small Fellowship
           </label>
         </div>
         <div
@@ -890,16 +772,33 @@ Array [
         >
           <input
             className="is-checkradio"
-            id="RegionLothlórien"
-            name="Lothlórien"
+            id="GroupFellowship"
+            name="Fellowship"
             onChange={[Function]}
             type="checkbox"
-            value="Lothlórien"
+            value="Fellowship"
           />
           <label
-            htmlFor="RegionLothlórien"
+            htmlFor="GroupFellowship"
           >
-            Lothlórien
+            Fellowship
+          </label>
+        </div>
+        <div
+          className="dropdown-item"
+        >
+          <input
+            className="is-checkradio"
+            id="GroupRaid"
+            name="Raid"
+            onChange={[Function]}
+            type="checkbox"
+            value="Raid"
+          />
+          <label
+            htmlFor="GroupRaid"
+          >
+            Raid
           </label>
         </div>
       </div>

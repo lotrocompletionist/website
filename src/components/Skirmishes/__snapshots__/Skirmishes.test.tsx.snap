@@ -3,6 +3,314 @@
 exports[`<Skirmishes> renders correctly 1`] = `
 Array [
   <div
+    className="dropdown"
+  >
+    <div
+      className="dropdown-trigger"
+      onClick={[Function]}
+    >
+      <button
+        aria-controls="dropdown-menu"
+        aria-haspopup="true"
+        className="button is-outlined"
+        type="button"
+      >
+        <span>
+          Faction
+        </span>
+        <span
+          className="icon is-small"
+        >
+          <span
+            aria-hidden="true"
+            className="fa fa-angle-down"
+          />
+        </span>
+      </button>
+    </div>
+    <div
+      className="dropdown-menu"
+    >
+      <div
+        className="dropdown-content"
+      >
+        <div
+          className="dropdown-item"
+        >
+          <input
+            className="is-checkradio"
+            id="FactionEldgang"
+            name="Eldgang"
+            onChange={[Function]}
+            type="checkbox"
+            value="Eldgang"
+          />
+          <label
+            htmlFor="FactionEldgang"
+          >
+            Eldgang
+          </label>
+        </div>
+        <div
+          className="dropdown-item"
+        >
+          <input
+            className="is-checkradio"
+            id="FactionElves of Rivendell"
+            name="Elves of Rivendell"
+            onChange={[Function]}
+            type="checkbox"
+            value="Elves of Rivendell"
+          />
+          <label
+            htmlFor="FactionElves of Rivendell"
+          >
+            Elves of Rivendell
+          </label>
+        </div>
+        <div
+          className="dropdown-item"
+        >
+          <input
+            className="is-checkradio"
+            id="FactionIron Garrison Guards"
+            name="Iron Garrison Guards"
+            onChange={[Function]}
+            type="checkbox"
+            value="Iron Garrison Guards"
+          />
+          <label
+            htmlFor="FactionIron Garrison Guards"
+          >
+            Iron Garrison Guards
+          </label>
+        </div>
+        <div
+          className="dropdown-item"
+        >
+          <input
+            className="is-checkradio"
+            id="FactionIron Garrison Miners"
+            name="Iron Garrison Miners"
+            onChange={[Function]}
+            type="checkbox"
+            value="Iron Garrison Miners"
+          />
+          <label
+            htmlFor="FactionIron Garrison Miners"
+          >
+            Iron Garrison Miners
+          </label>
+        </div>
+        <div
+          className="dropdown-item"
+        >
+          <input
+            className="is-checkradio"
+            id="FactionLossoth of Forochel"
+            name="Lossoth of Forochel"
+            onChange={[Function]}
+            type="checkbox"
+            value="Lossoth of Forochel"
+          />
+          <label
+            htmlFor="FactionLossoth of Forochel"
+          >
+            Lossoth of Forochel
+          </label>
+        </div>
+        <div
+          className="dropdown-item"
+        >
+          <input
+            className="is-checkradio"
+            id="FactionMalledhrim"
+            name="Malledhrim"
+            onChange={[Function]}
+            type="checkbox"
+            value="Malledhrim"
+          />
+          <label
+            htmlFor="FactionMalledhrim"
+          >
+            Malledhrim
+          </label>
+        </div>
+        <div
+          className="dropdown-item"
+        >
+          <input
+            className="is-checkradio"
+            id="FactionMen of Bree"
+            name="Men of Bree"
+            onChange={[Function]}
+            type="checkbox"
+            value="Men of Bree"
+          />
+          <label
+            htmlFor="FactionMen of Bree"
+          >
+            Men of Bree
+          </label>
+        </div>
+        <div
+          className="dropdown-item"
+        >
+          <input
+            className="is-checkradio"
+            id="FactionRangers of Esteldín"
+            name="Rangers of Esteldín"
+            onChange={[Function]}
+            type="checkbox"
+            value="Rangers of Esteldín"
+          />
+          <label
+            htmlFor="FactionRangers of Esteldín"
+          >
+            Rangers of Esteldín
+          </label>
+        </div>
+        <div
+          className="dropdown-item"
+        >
+          <input
+            className="is-checkradio"
+            id="FactionThe Eglain"
+            name="The Eglain"
+            onChange={[Function]}
+            type="checkbox"
+            value="The Eglain"
+          />
+          <label
+            htmlFor="FactionThe Eglain"
+          >
+            The Eglain
+          </label>
+        </div>
+        <div
+          className="dropdown-item"
+        >
+          <input
+            className="is-checkradio"
+            id="FactionThe Mathom Society"
+            name="The Mathom Society"
+            onChange={[Function]}
+            type="checkbox"
+            value="The Mathom Society"
+          />
+          <label
+            htmlFor="FactionThe Mathom Society"
+          >
+            The Mathom Society
+          </label>
+        </div>
+        <div
+          className="dropdown-item"
+        >
+          <input
+            className="is-checkradio"
+            id="FactionThorin's Hall"
+            name="Thorin's Hall"
+            onChange={[Function]}
+            type="checkbox"
+            value="Thorin's Hall"
+          />
+          <label
+            htmlFor="FactionThorin's Hall"
+          >
+            Thorin's Hall
+          </label>
+        </div>
+      </div>
+    </div>
+  </div>,
+  <div
+    className="dropdown"
+  >
+    <div
+      className="dropdown-trigger"
+      onClick={[Function]}
+    >
+      <button
+        aria-controls="dropdown-menu"
+        aria-haspopup="true"
+        className="button is-outlined"
+        type="button"
+      >
+        <span>
+          Type
+        </span>
+        <span
+          className="icon is-small"
+        >
+          <span
+            aria-hidden="true"
+            className="fa fa-angle-down"
+          />
+        </span>
+      </button>
+    </div>
+    <div
+      className="dropdown-menu"
+    >
+      <div
+        className="dropdown-content"
+      >
+        <div
+          className="dropdown-item"
+        >
+          <input
+            className="is-checkradio"
+            id="TypeOffense"
+            name="Offense"
+            onChange={[Function]}
+            type="checkbox"
+            value="Offense"
+          />
+          <label
+            htmlFor="TypeOffense"
+          >
+            Offense
+          </label>
+        </div>
+        <div
+          className="dropdown-item"
+        >
+          <input
+            className="is-checkradio"
+            id="TypeDefense"
+            name="Defense"
+            onChange={[Function]}
+            type="checkbox"
+            value="Defense"
+          />
+          <label
+            htmlFor="TypeDefense"
+          >
+            Defense
+          </label>
+        </div>
+        <div
+          className="dropdown-item"
+        >
+          <input
+            className="is-checkradio"
+            id="TypeSurvival"
+            name="Survival"
+            onChange={[Function]}
+            type="checkbox"
+            value="Survival"
+          />
+          <label
+            htmlFor="TypeSurvival"
+          >
+            Survival
+          </label>
+        </div>
+      </div>
+    </div>
+  </div>,
+  <div
     className="card-content"
   >
     <article

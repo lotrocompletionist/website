@@ -1,21 +1,21 @@
 import * as React from "react";
-import { virtues, regions } from "@app/data/virtue-deeds";
+import { clusters, regions } from "@app/data/raids";
 import { DropdownFilter } from "@app/components/Shared/Filtering/DropdownFilter";
 import { DropdownCheckboxFilterItem } from "@app/components/Shared/Filtering/DropdownFilterItem";
 
-interface VirtueDeedsFiltersProps {
-  onVirtueChange: React.ReactEventHandler<HTMLInputElement>;
+interface RaidsProps {
+  onClusterChange: React.ReactEventHandler<HTMLInputElement>;
   onRegionChange: React.ReactEventHandler<HTMLInputElement>;
 }
 
-export function VirtueDeedsFilters(props: VirtueDeedsFiltersProps) {
+export function RaidsFilters(props: RaidsProps) {
   return (
     <>
       <DropdownFilter
         filterItem={DropdownCheckboxFilterItem}
-        header="Virtue"
-        values={virtues}
-        onChange={props.onVirtueChange}
+        header="Cluster"
+        values={clusters}
+        onChange={props.onClusterChange}
       />
       <DropdownFilter
         filterItem={DropdownCheckboxFilterItem}
