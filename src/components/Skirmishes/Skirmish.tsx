@@ -11,7 +11,7 @@ import {
 } from "bloomer";
 import { LevelRange } from "@app/components/Shared/LevelRange/LevelRange";
 import { Bosses } from "@app/components/Shared/Bosses/Bosses";
-import { ISkirmish } from "@app/data/skirmish";
+import { ISkirmish } from "@app/data/skirmishes";
 
 export interface SkirmishProps {
   skirmish: ISkirmish;

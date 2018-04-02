@@ -1,6 +1,6 @@
 import * as React from "react";
 import { remove } from "lodash";
-import { skirmishes, types, factions, ISkirmish } from "@app/data/skirmish";
+import { skirmishes, types, factions, ISkirmish } from "@app/data/skirmishes";
 import { Skirmish } from "./Skirmish";
 import { SkirmishesFilters } from "./SkirmishesFilters";
 

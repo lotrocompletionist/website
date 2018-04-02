@@ -1,7 +1,7 @@
 import * as React from "react";
 import { create } from "react-test-renderer";
 import { Raid } from "./Raid";
-import { IRaid } from "@app/data/raid";
+import { IRaid } from "@app/data/raids";
 
 test("<Raid> renders correctly", () => {
   const raid: IRaid = {

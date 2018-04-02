@@ -1,5 +1,5 @@
 import * as React from "react";
-import { clusters, regions, groups } from "@app/data/world-instance";
+import { clusters, regions, groups } from "@app/data/world-instances";
 import { DropdownFilter } from "@app/components/Shared/Filtering/DropdownFilter";
 import { DropdownCheckboxFilterItem } from "@app/components/Shared/Filtering/DropdownFilterItem";
 

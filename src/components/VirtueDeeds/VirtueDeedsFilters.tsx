@@ -1,5 +1,5 @@
 import * as React from "react";
-import { virtues, regions } from "@app/data/virtue-deed";
+import { virtues, regions } from "@app/data/virtue-deeds";
 import { DropdownFilter } from "@app/components/Shared/Filtering/DropdownFilter";
 import { DropdownCheckboxFilterItem } from "@app/components/Shared/Filtering/DropdownFilterItem";
 

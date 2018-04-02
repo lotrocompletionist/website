@@ -1,7 +1,7 @@
 import * as React from "react";
 
 import { WorldInstance } from "./WorldInstance";
-import { worldInstances, IWorldInstance } from "@app/data/world-instance";
+import { worldInstances, IWorldInstance } from "@app/data/world-instances";
 import { WorldInstancesFilters } from "./WorldInstancesFilters";
 import { remove } from "lodash";
 

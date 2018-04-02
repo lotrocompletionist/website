@@ -11,7 +11,7 @@ import {
 } from "bloomer";
 import { LevelRange } from "@app/components/Shared/LevelRange/LevelRange";
 import { Bosses } from "@app/components/Shared/Bosses/Bosses";
-import { IRaid } from "@app/data/raid";
+import { IRaid } from "@app/data/raids";
 
 export interface RaidProps {
   raid: IRaid;

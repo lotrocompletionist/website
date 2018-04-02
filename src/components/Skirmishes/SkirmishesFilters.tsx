@@ -1,5 +1,5 @@
 import * as React from "react";
-import { factions, types } from "@app/data/skirmish";
+import { factions, types } from "@app/data/skirmishes";
 import { DropdownFilter } from "@app/components/Shared/Filtering/DropdownFilter";
 import { DropdownCheckboxFilterItem } from "@app/components/Shared/Filtering/DropdownFilterItem";
 

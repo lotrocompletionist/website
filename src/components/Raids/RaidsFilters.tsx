@@ -1,5 +1,5 @@
 import * as React from "react";
-import { clusters, regions } from "@app/data/raid";
+import { clusters, regions } from "@app/data/raids";
 import { DropdownFilter } from "@app/components/Shared/Filtering/DropdownFilter";
 import { DropdownCheckboxFilterItem } from "@app/components/Shared/Filtering/DropdownFilterItem";
 

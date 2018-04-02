@@ -1,7 +1,7 @@
 import * as React from "react";
 
 import { Raid } from "./Raid";
-import { raids, IRaid } from "@app/data/raid";
+import { raids, IRaid } from "@app/data/raids";
 import { remove } from "lodash";
 import { RaidsFilters } from "./RaidsFilters";
 

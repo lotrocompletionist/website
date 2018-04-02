@@ -1,7 +1,7 @@
 import * as React from "react";
 import { create } from "react-test-renderer";
 import { Skirmish } from "./Skirmish";
-import { ISkirmish } from "@app/data/skirmish";
+import { ISkirmish } from "@app/data/skirmishes";
 
 test("<Skirmish> renders correctly", () => {
   const skirmish: ISkirmish = {

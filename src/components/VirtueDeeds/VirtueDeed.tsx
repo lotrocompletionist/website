@@ -9,7 +9,7 @@ import {
   Title,
   Subtitle
 } from "bloomer";
-import { IVirtueDeed } from "@app/data/virtue-deed";
+import { IVirtueDeed } from "@app/data/virtue-deeds";
 import { Level } from "@app/components/Shared/Level/Level";
 
 export interface VirtueDeedProps {

@@ -11,7 +11,7 @@ import {
 } from "bloomer";
 import { LevelRange } from "@app/components/Shared/LevelRange/LevelRange";
 import { Bosses } from "@app/components/Shared/Bosses/Bosses";
-import { IWorldInstance } from "@app/data/world-instance";
+import { IWorldInstance } from "@app/data/world-instances";
 
 export interface WorldInstanceProps {
   worldInstance: IWorldInstance;
