@@ -1,0 +1,808 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<WorldInstancesFilters> renders correctly 1`] = `
+Array [
+  <div
+    className="dropdown"
+  >
+    <div
+      className="dropdown-trigger"
+      onClick={[Function]}
+    >
+      <button
+        aria-controls="dropdown-menu"
+        aria-haspopup="true"
+        className="button is-outlined"
+        type="button"
+      >
+        <span>
+          Cluster
+        </span>
+        <span
+          className="icon is-small"
+        >
+          <span
+            aria-hidden="true"
+            className="fa fa-angle-down"
+          />
+        </span>
+      </button>
+    </div>
+    <div
+      className="dropdown-menu"
+    >
+      <div
+        className="dropdown-content"
+      >
+        <div
+          className="dropdown-item"
+        >
+          <input
+            className="is-checkradio"
+            id="ClusterBattle of Pelennor"
+            name="Battle of Pelennor"
+            onChange={[Function]}
+            type="checkbox"
+            value="Battle of Pelennor"
+          />
+          <label
+            htmlFor="ClusterBattle of Pelennor"
+          >
+            Battle of Pelennor
+          </label>
+        </div>
+        <div
+          className="dropdown-item"
+        >
+          <input
+            className="is-checkradio"
+            id="ClusterHelm's Deep"
+            name="Helm's Deep"
+            onChange={[Function]}
+            type="checkbox"
+            value="Helm's Deep"
+          />
+          <label
+            htmlFor="ClusterHelm's Deep"
+          >
+            Helm's Deep
+          </label>
+        </div>
+        <div
+          className="dropdown-item"
+        >
+          <input
+            className="is-checkradio"
+            id="ClusterIn Their Absence"
+            name="In Their Absence"
+            onChange={[Function]}
+            type="checkbox"
+            value="In Their Absence"
+          />
+          <label
+            htmlFor="ClusterIn Their Absence"
+          >
+            In Their Absence
+          </label>
+        </div>
+        <div
+          className="dropdown-item"
+        >
+          <input
+            className="is-checkradio"
+            id="ClusterMines of Moria"
+            name="Mines of Moria"
+            onChange={[Function]}
+            type="checkbox"
+            value="Mines of Moria"
+          />
+          <label
+            htmlFor="ClusterMines of Moria"
+          >
+            Mines of Moria
+          </label>
+        </div>
+        <div
+          className="dropdown-item"
+        >
+          <input
+            className="is-checkradio"
+            id="ClusterOsgiliath"
+            name="Osgiliath"
+            onChange={[Function]}
+            type="checkbox"
+            value="Osgiliath"
+          />
+          <label
+            htmlFor="ClusterOsgiliath"
+          >
+            Osgiliath
+          </label>
+        </div>
+        <div
+          className="dropdown-item"
+        >
+          <input
+            className="is-checkradio"
+            id="ClusterRise of Isengard"
+            name="Rise of Isengard"
+            onChange={[Function]}
+            type="checkbox"
+            value="Rise of Isengard"
+          />
+          <label
+            htmlFor="ClusterRise of Isengard"
+          >
+            Rise of Isengard
+          </label>
+        </div>
+        <div
+          className="dropdown-item"
+        >
+          <input
+            className="is-checkradio"
+            id="ClusterScourge of Khazad-dûm"
+            name="Scourge of Khazad-dûm"
+            onChange={[Function]}
+            type="checkbox"
+            value="Scourge of Khazad-dûm"
+          />
+          <label
+            htmlFor="ClusterScourge of Khazad-dûm"
+          >
+            Scourge of Khazad-dûm
+          </label>
+        </div>
+        <div
+          className="dropdown-item"
+        >
+          <input
+            className="is-checkradio"
+            id="ClusterShadows of Angmar"
+            name="Shadows of Angmar"
+            onChange={[Function]}
+            type="checkbox"
+            value="Shadows of Angmar"
+          />
+          <label
+            htmlFor="ClusterShadows of Angmar"
+          >
+            Shadows of Angmar
+          </label>
+        </div>
+        <div
+          className="dropdown-item"
+        >
+          <input
+            className="is-checkradio"
+            id="ClusterThe Road to Erebor"
+            name="The Road to Erebor"
+            onChange={[Function]}
+            type="checkbox"
+            value="The Road to Erebor"
+          />
+          <label
+            htmlFor="ClusterThe Road to Erebor"
+          >
+            The Road to Erebor
+          </label>
+        </div>
+        <div
+          className="dropdown-item"
+        >
+          <input
+            className="is-checkradio"
+            id="ClusterTower of Dol Guldur"
+            name="Tower of Dol Guldur"
+            onChange={[Function]}
+            type="checkbox"
+            value="Tower of Dol Guldur"
+          />
+          <label
+            htmlFor="ClusterTower of Dol Guldur"
+          >
+            Tower of Dol Guldur
+          </label>
+        </div>
+        <div
+          className="dropdown-item"
+        >
+          <input
+            className="is-checkradio"
+            id="ClusterWar for Gondor"
+            name="War for Gondor"
+            onChange={[Function]}
+            type="checkbox"
+            value="War for Gondor"
+          />
+          <label
+            htmlFor="ClusterWar for Gondor"
+          >
+            War for Gondor
+          </label>
+        </div>
+      </div>
+    </div>
+  </div>,
+  <div
+    className="dropdown"
+  >
+    <div
+      className="dropdown-trigger"
+      onClick={[Function]}
+    >
+      <button
+        aria-controls="dropdown-menu"
+        aria-haspopup="true"
+        className="button is-outlined"
+        type="button"
+      >
+        <span>
+          Region
+        </span>
+        <span
+          className="icon is-small"
+        >
+          <span
+            aria-hidden="true"
+            className="fa fa-angle-down"
+          />
+        </span>
+      </button>
+    </div>
+    <div
+      className="dropdown-menu"
+    >
+      <div
+        className="dropdown-content"
+      >
+        <div
+          className="dropdown-item"
+        >
+          <input
+            className="is-checkradio"
+            id="RegionAngmar"
+            name="Angmar"
+            onChange={[Function]}
+            type="checkbox"
+            value="Angmar"
+          />
+          <label
+            htmlFor="RegionAngmar"
+          >
+            Angmar
+          </label>
+        </div>
+        <div
+          className="dropdown-item"
+        >
+          <input
+            className="is-checkradio"
+            id="RegionBree-land"
+            name="Bree-land"
+            onChange={[Function]}
+            type="checkbox"
+            value="Bree-land"
+          />
+          <label
+            htmlFor="RegionBree-land"
+          >
+            Bree-land
+          </label>
+        </div>
+        <div
+          className="dropdown-item"
+        >
+          <input
+            className="is-checkradio"
+            id="RegionCentral Gondor"
+            name="Central Gondor"
+            onChange={[Function]}
+            type="checkbox"
+            value="Central Gondor"
+          />
+          <label
+            htmlFor="RegionCentral Gondor"
+          >
+            Central Gondor
+          </label>
+        </div>
+        <div
+          className="dropdown-item"
+        >
+          <input
+            className="is-checkradio"
+            id="RegionDol Guldur"
+            name="Dol Guldur"
+            onChange={[Function]}
+            type="checkbox"
+            value="Dol Guldur"
+          />
+          <label
+            htmlFor="RegionDol Guldur"
+          >
+            Dol Guldur
+          </label>
+        </div>
+        <div
+          className="dropdown-item"
+        >
+          <input
+            className="is-checkradio"
+            id="RegionEastern Gondor"
+            name="Eastern Gondor"
+            onChange={[Function]}
+            type="checkbox"
+            value="Eastern Gondor"
+          />
+          <label
+            htmlFor="RegionEastern Gondor"
+          >
+            Eastern Gondor
+          </label>
+        </div>
+        <div
+          className="dropdown-item"
+        >
+          <input
+            className="is-checkradio"
+            id="RegionErebor"
+            name="Erebor"
+            onChange={[Function]}
+            type="checkbox"
+            value="Erebor"
+          />
+          <label
+            htmlFor="RegionErebor"
+          >
+            Erebor
+          </label>
+        </div>
+        <div
+          className="dropdown-item"
+        >
+          <input
+            className="is-checkradio"
+            id="RegionEregion"
+            name="Eregion"
+            onChange={[Function]}
+            type="checkbox"
+            value="Eregion"
+          />
+          <label
+            htmlFor="RegionEregion"
+          >
+            Eregion
+          </label>
+        </div>
+        <div
+          className="dropdown-item"
+        >
+          <input
+            className="is-checkradio"
+            id="RegionEvendim (Annúminas)"
+            name="Evendim (Annúminas)"
+            onChange={[Function]}
+            type="checkbox"
+            value="Evendim (Annúminas)"
+          />
+          <label
+            htmlFor="RegionEvendim (Annúminas)"
+          >
+            Evendim (Annúminas)
+          </label>
+        </div>
+        <div
+          className="dropdown-item"
+        >
+          <input
+            className="is-checkradio"
+            id="RegionEvendim"
+            name="Evendim"
+            onChange={[Function]}
+            type="checkbox"
+            value="Evendim"
+          />
+          <label
+            htmlFor="RegionEvendim"
+          >
+            Evendim
+          </label>
+        </div>
+        <div
+          className="dropdown-item"
+        >
+          <input
+            className="is-checkradio"
+            id="RegionForochel"
+            name="Forochel"
+            onChange={[Function]}
+            type="checkbox"
+            value="Forochel"
+          />
+          <label
+            htmlFor="RegionForochel"
+          >
+            Forochel
+          </label>
+        </div>
+        <div
+          className="dropdown-item"
+        >
+          <input
+            className="is-checkradio"
+            id="RegionGreat River"
+            name="Great River"
+            onChange={[Function]}
+            type="checkbox"
+            value="Great River"
+          />
+          <label
+            htmlFor="RegionGreat River"
+          >
+            Great River
+          </label>
+        </div>
+        <div
+          className="dropdown-item"
+        >
+          <input
+            className="is-checkradio"
+            id="RegionIsengard"
+            name="Isengard"
+            onChange={[Function]}
+            type="checkbox"
+            value="Isengard"
+          />
+          <label
+            htmlFor="RegionIsengard"
+          >
+            Isengard
+          </label>
+        </div>
+        <div
+          className="dropdown-item"
+        >
+          <input
+            className="is-checkradio"
+            id="RegionMirkwood"
+            name="Mirkwood"
+            onChange={[Function]}
+            type="checkbox"
+            value="Mirkwood"
+          />
+          <label
+            htmlFor="RegionMirkwood"
+          >
+            Mirkwood
+          </label>
+        </div>
+        <div
+          className="dropdown-item"
+        >
+          <input
+            className="is-checkradio"
+            id="RegionNud-melek"
+            name="Nud-melek"
+            onChange={[Function]}
+            type="checkbox"
+            value="Nud-melek"
+          />
+          <label
+            htmlFor="RegionNud-melek"
+          >
+            Nud-melek
+          </label>
+        </div>
+        <div
+          className="dropdown-item"
+        >
+          <input
+            className="is-checkradio"
+            id="RegionOld Anórien"
+            name="Old Anórien"
+            onChange={[Function]}
+            type="checkbox"
+            value="Old Anórien"
+          />
+          <label
+            htmlFor="RegionOld Anórien"
+          >
+            Old Anórien
+          </label>
+        </div>
+        <div
+          className="dropdown-item"
+        >
+          <input
+            className="is-checkradio"
+            id="RegionThe Flaming Deeps"
+            name="The Flaming Deeps"
+            onChange={[Function]}
+            type="checkbox"
+            value="The Flaming Deeps"
+          />
+          <label
+            htmlFor="RegionThe Flaming Deeps"
+          >
+            The Flaming Deeps
+          </label>
+        </div>
+        <div
+          className="dropdown-item"
+        >
+          <input
+            className="is-checkradio"
+            id="RegionThe Foundations of Stone"
+            name="The Foundations of Stone"
+            onChange={[Function]}
+            type="checkbox"
+            value="The Foundations of Stone"
+          />
+          <label
+            htmlFor="RegionThe Foundations of Stone"
+          >
+            The Foundations of Stone
+          </label>
+        </div>
+        <div
+          className="dropdown-item"
+        >
+          <input
+            className="is-checkradio"
+            id="RegionThe Lone-lands"
+            name="The Lone-lands"
+            onChange={[Function]}
+            type="checkbox"
+            value="The Lone-lands"
+          />
+          <label
+            htmlFor="RegionThe Lone-lands"
+          >
+            The Lone-lands
+          </label>
+        </div>
+        <div
+          className="dropdown-item"
+        >
+          <input
+            className="is-checkradio"
+            id="RegionThe Misty Mountains"
+            name="The Misty Mountains"
+            onChange={[Function]}
+            type="checkbox"
+            value="The Misty Mountains"
+          />
+          <label
+            htmlFor="RegionThe Misty Mountains"
+          >
+            The Misty Mountains
+          </label>
+        </div>
+        <div
+          className="dropdown-item"
+        >
+          <input
+            className="is-checkradio"
+            id="RegionThe North Downs"
+            name="The North Downs"
+            onChange={[Function]}
+            type="checkbox"
+            value="The North Downs"
+          />
+          <label
+            htmlFor="RegionThe North Downs"
+          >
+            The North Downs
+          </label>
+        </div>
+        <div
+          className="dropdown-item"
+        >
+          <input
+            className="is-checkradio"
+            id="RegionThe Redhorn Lodes"
+            name="The Redhorn Lodes"
+            onChange={[Function]}
+            type="checkbox"
+            value="The Redhorn Lodes"
+          />
+          <label
+            htmlFor="RegionThe Redhorn Lodes"
+          >
+            The Redhorn Lodes
+          </label>
+        </div>
+        <div
+          className="dropdown-item"
+        >
+          <input
+            className="is-checkradio"
+            id="RegionThe Silvertine Lodes"
+            name="The Silvertine Lodes"
+            onChange={[Function]}
+            type="checkbox"
+            value="The Silvertine Lodes"
+          />
+          <label
+            htmlFor="RegionThe Silvertine Lodes"
+          >
+            The Silvertine Lodes
+          </label>
+        </div>
+        <div
+          className="dropdown-item"
+        >
+          <input
+            className="is-checkradio"
+            id="RegionThe Trollshaws"
+            name="The Trollshaws"
+            onChange={[Function]}
+            type="checkbox"
+            value="The Trollshaws"
+          />
+          <label
+            htmlFor="RegionThe Trollshaws"
+          >
+            The Trollshaws
+          </label>
+        </div>
+        <div
+          className="dropdown-item"
+        >
+          <input
+            className="is-checkradio"
+            id="RegionThe Water-works"
+            name="The Water-works"
+            onChange={[Function]}
+            type="checkbox"
+            value="The Water-works"
+          />
+          <label
+            htmlFor="RegionThe Water-works"
+          >
+            The Water-works
+          </label>
+        </div>
+        <div
+          className="dropdown-item"
+        >
+          <input
+            className="is-checkradio"
+            id="RegionWest Rohan"
+            name="West Rohan"
+            onChange={[Function]}
+            type="checkbox"
+            value="West Rohan"
+          />
+          <label
+            htmlFor="RegionWest Rohan"
+          >
+            West Rohan
+          </label>
+        </div>
+        <div
+          className="dropdown-item"
+        >
+          <input
+            className="is-checkradio"
+            id="RegionZirakzigil"
+            name="Zirakzigil"
+            onChange={[Function]}
+            type="checkbox"
+            value="Zirakzigil"
+          />
+          <label
+            htmlFor="RegionZirakzigil"
+          >
+            Zirakzigil
+          </label>
+        </div>
+      </div>
+    </div>
+  </div>,
+  <div
+    className="dropdown"
+  >
+    <div
+      className="dropdown-trigger"
+      onClick={[Function]}
+    >
+      <button
+        aria-controls="dropdown-menu"
+        aria-haspopup="true"
+        className="button is-outlined"
+        type="button"
+      >
+        <span>
+          Group
+        </span>
+        <span
+          className="icon is-small"
+        >
+          <span
+            aria-hidden="true"
+            className="fa fa-angle-down"
+          />
+        </span>
+      </button>
+    </div>
+    <div
+      className="dropdown-menu"
+    >
+      <div
+        className="dropdown-content"
+      >
+        <div
+          className="dropdown-item"
+        >
+          <input
+            className="is-checkradio"
+            id="GroupSolo/Duo"
+            name="Solo/Duo"
+            onChange={[Function]}
+            type="checkbox"
+            value="Solo/Duo"
+          />
+          <label
+            htmlFor="GroupSolo/Duo"
+          >
+            Solo/Duo
+          </label>
+        </div>
+        <div
+          className="dropdown-item"
+        >
+          <input
+            className="is-checkradio"
+            id="GroupSmall Fellowship"
+            name="Small Fellowship"
+            onChange={[Function]}
+            type="checkbox"
+            value="Small Fellowship"
+          />
+          <label
+            htmlFor="GroupSmall Fellowship"
+          >
+            Small Fellowship
+          </label>
+        </div>
+        <div
+          className="dropdown-item"
+        >
+          <input
+            className="is-checkradio"
+            id="GroupFellowship"
+            name="Fellowship"
+            onChange={[Function]}
+            type="checkbox"
+            value="Fellowship"
+          />
+          <label
+            htmlFor="GroupFellowship"
+          >
+            Fellowship
+          </label>
+        </div>
+        <div
+          className="dropdown-item"
+        >
+          <input
+            className="is-checkradio"
+            id="GroupRaid"
+            name="Raid"
+            onChange={[Function]}
+            type="checkbox"
+            value="Raid"
+          />
+          <label
+            htmlFor="GroupRaid"
+          >
+            Raid
+          </label>
+        </div>
+      </div>
+    </div>
+  </div>,
+]
+`;
